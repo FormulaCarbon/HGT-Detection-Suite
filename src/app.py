@@ -35,6 +35,7 @@ def run(
     
     temp_dir = working_dir / "temp"
     
+    working_dir.mkdir(parents=True, exist_ok=True)
     if faa is None:
         url = '_'.join(query["ftp_path"].split('_')[:-1]) + "_translated_cds.faa.gz"
         download_url(url, working_dir / "query.faa.gz")
@@ -45,20 +46,21 @@ def run(
     
         print("Processing FASTA")
         query["file_path"] = process_fasta(faa, out = str(working_dir / "query.faa.modified"))
-        
+    
+    #query["file_path"] = working_dir / "query.faa.modified"
     # Header files for type 1 inclusion
-    acc_s1 = working_dir / "species_1_Accession_no_species.txt"
-    acc_g1 = working_dir / "genus_1_Accession_no_species.txt"
-    acc_f1 = working_dir / "family_1_Accession_no_species.txt"
+    acc_s1 = working_dir / "s_1_Accession_no_species.tsv"
+    acc_g1 = working_dir / "g_1_Accession_no_species.tsv"
+    acc_f1 = working_dir / "f_1_Accession_no_species.tsv"
 
     # Header files for type 2 inclusion
-    acc_s2 = working_dir / "species_2_Accession_no_species.txt"
-    acc_g2 = working_dir / "genus_2_Accession_no_species.txt"
-    acc_f2 = working_dir / "family_2_Accession_no_species.txt"
+    acc_s2 = working_dir / "s_2_Accession_no_species.tsv"
+    acc_g2 = working_dir / "g_2_Accession_no_species.tsv"
+    acc_f2 = working_dir / "f_2_Accession_no_species.tsv"
 
     species_id = query["species_id"]
     tax_id = query["tax_id"]
-
+    
     inclusion_flag = blast_all_levels(
         query['accession'],
         query['file_path'],
@@ -71,20 +73,22 @@ def run(
         add_new_to_db
     )
     
+    #inclusion_flag=0
+    
     # Process hits
     
-    for level, t in product(['species', 'genus', 'fasta'], [1, 2]):
-        if inclusion_flag != 1 and (level, t) == ("species", 1): continue
-        if inclusion_flag != 0 and (level, t) == ("species", 2): continue
+    for level, t in product(['s', 'g', 'f'], [1, 2]):
+        if inclusion_flag != 1 and (level, t) == ("s", 1): continue
+        if inclusion_flag != 0 and (level, t) == ("s", 2): continue
 
         header(f"Processing hits for {level} {t}")
         process_hits(
             query['file_path'],
             working_dir / f"{level}_{t}_output_blasthits",
-            working_dir / f"{level}_{t}_Accession_no_species.txt",
+            working_dir / f"{level}_{t}_Accession_no_species.tsv",
             level,
             t,
-            config['identity_thresholds'][level],
+            config['identity_thresholds']['species' if level == 's' else 'genus' if level=='g' else 'family'],
             working_dir,
             config
         )
@@ -93,13 +97,13 @@ def run(
     thresh_pident_genus = config["identity_thresholds"]["genus"]
     thresh_pident_family = config["identity_thresholds"]["family"]
 
-    calc_s1 = working_dir / f"{thresh_pident_species}_calculations_species_1.txt"
-    calc_g1 = working_dir / f"{thresh_pident_genus}_calculations_genus_1.txt"
-    calc_f1 = working_dir / f"{thresh_pident_family}_calculations_family_1.txt"
+    calc_s1 = working_dir / f"{thresh_pident_species}_calculations_s_1.tsv"
+    calc_g1 = working_dir / f"{thresh_pident_genus}_calculations_g_1.tsv"
+    calc_f1 = working_dir / f"{thresh_pident_family}_calculations_f_1.tsv"
 
-    calc_s2 = working_dir / f"{thresh_pident_species}_calculations_species_2.txt"
-    calc_g2 = working_dir / f"{thresh_pident_genus}_calculations_genus_2.txt"
-    calc_f2 = working_dir / f"{thresh_pident_family}_calculations_family_2.txt"
+    calc_s2 = working_dir / f"{thresh_pident_species}_calculations_s_2.tsv"
+    calc_g2 = working_dir / f"{thresh_pident_genus}_calculations_g_2.tsv"
+    calc_f2 = working_dir / f"{thresh_pident_family}_calculations_f_2.tsv"
 
     classify_genes(
         query['file_path'],

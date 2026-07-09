@@ -1,9 +1,9 @@
 import argparse
 from pathlib import Path
 
-import src.app as app
-import src.jscb as jscb
-import src.db as db
+import app as app
+import jscb as jscb
+import db as db
 
 def main(args):
     if args.command == "db":
@@ -38,7 +38,7 @@ def main(args):
             args.db_path,
             args.dir,
             args.config,
-            "diamond" if args.DIAMOND else "blast",
+            "diamond" if args.DIAMOND else "blastp",
             args.threads,
             args.sid,
             args.min_db,
@@ -58,8 +58,8 @@ if __name__ == "__main__":
     
     app_parser = subparser.add_parser("app", help="Run Alienness by Phyletic Pattern (APP) Algorithm")
     app_parser.add_argument("accession", help = "RefSeq/GenBank Accession Number")
-    app_parser.add_argument("db_path", help = "Database Path")
-    app_parser.add_argument("-d", "--dir", help = "Working dir, default current", default="/")
+    app_parser.add_argument("db_path", help = "Database Path", type=Path)
+    app_parser.add_argument("-d", "--dir", help = "Working dir, default current", type=Path, default="/")
     app_parser.add_argument("-D", "--DIAMOND", help = "Use DIAMOND instead of BLAST", action="store_true")
     app_parser.add_argument("-t", "--threads", help = "Number of threads, default 1", type=int, default = 1)
     app_parser.add_argument('--sid', help = "Species ID override")

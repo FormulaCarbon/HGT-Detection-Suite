@@ -113,17 +113,18 @@ def get_fastas(accs: list[str], genomes_dir: Path, working_dir: Path, lineages: 
                 add_to_db() # TODO: Implement this when add_to_db is done
                 out.append(file)
             else:
-                if (not (working_dir / "temp" / f"{acc}.faa").is_file()) and download_url(lineages.loc[lineages['accession']==acc, 'ftp_path'].values[0], working_dir / "temp" / f"{acc}.faa.gz") == 0:
+                if download_url(lineages.loc[lineages['accession']==acc, 'ftp_path'].values[0], working_dir / "temp" / f"{acc}.faa.gz") == 0:
                     out.append(working_dir / "temp" / f"{acc}.faa")
                 else:
                     print('error downloading ', acc)
                     continue
     unzip_fastas(working_dir / "temp")
+    print(f'got {len(out)} fastas')
     return out
                 
 def blast_single_level(query_file:Path, id_at_level: int, id_to_exclude: int| None, lineages: pd.DataFrame, level: str, t: int, program: str, threads: int, genomes_dir: Path, working_dir: Path, add_new_to_db: bool) -> int:
     exclude_col, target_col = \
-        ("taxid", "species_id") if level == "s" else ("species_id", "genus_id") if level == "g" else \
+        ("species_id", "tax_id") if level == "s" else ("species_id", "genus_id") if level == "g" else \
         ("genus_id", "family_id") if level == "f" else ("family_id", "order_id") if level == 'o' else (None, None)
     
     if target_col is None: raise ValueError("Valid level not provided. Level should be 's', 'g', 'f', or 'o' ")
@@ -173,8 +174,9 @@ def blast_single_level(query_file:Path, id_at_level: int, id_to_exclude: int| No
 def blast_all_levels(acc: str, query_file: Path, lineages: pd.DataFrame, program: str, threads: int, genomes_dir: Path, working_dir: Path, sid: int = 0, add_new_to_db: bool = False) -> int:
     kingdom, phylum, clas, order, family, genus, species = \
         lineages.loc[lineages["accession"] == acc, ["kingdom_id", "phylum_id", "class_id", "order_id", "family_id", "genus_id", "species_id"]].iloc[0] 
-    
+    og = None
     if sid != 0:
+        og = species
         species = sid
 
     inclusion_flag = 0
@@ -197,7 +199,7 @@ def blast_all_levels(acc: str, query_file: Path, lineages: pd.DataFrame, program
     header("Genus (Inclusive)")
     blast_single_level(
         query_file,
-        species,
+        genus,
         None,
         lineages,
         'g',
@@ -212,7 +214,7 @@ def blast_all_levels(acc: str, query_file: Path, lineages: pd.DataFrame, program
     header("Family (Inclusive)")
     family_exists = blast_single_level(
         query_file,
-        species,
+        family,
         None,
         lineages,
         'f',
@@ -229,7 +231,7 @@ def blast_all_levels(acc: str, query_file: Path, lineages: pd.DataFrame, program
         header("Order (Inclusive)")
         blast_single_level(
             query_file,
-            species,
+            order,
             None,
             lineages,
             'o',
@@ -245,7 +247,7 @@ def blast_all_levels(acc: str, query_file: Path, lineages: pd.DataFrame, program
     inclusion_flag = blast_single_level(
         query_file,
         species,
-        None,
+        og,
         lineages,
         's',
         2,
@@ -259,8 +261,8 @@ def blast_all_levels(acc: str, query_file: Path, lineages: pd.DataFrame, program
     header("Genus (Exclusive)")
     blast_single_level(
         query_file,
+        genus,
         species,
-        None,
         lineages,
         'g',
         2,
@@ -274,8 +276,8 @@ def blast_all_levels(acc: str, query_file: Path, lineages: pd.DataFrame, program
     header("Family (Exclusive)")
     family_exists = blast_single_level(
         query_file,
-        species,
-        None,
+        family,
+        genus,
         lineages,
         'f',
         2,
@@ -291,8 +293,8 @@ def blast_all_levels(acc: str, query_file: Path, lineages: pd.DataFrame, program
         header("Order (Exclusive)")
         blast_single_level(
             query_file,
-            species,
-            None,
+            order,
+            family,
             lineages,
             'o',
             2,

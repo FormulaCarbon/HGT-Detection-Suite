@@ -1,10 +1,10 @@
 #!/bin/bash
-#SBATCH   -p development
-#SBATCH   -J APP18genome
-#SBATCH   -o APP18genome.o%j
-#SBATCH   -e APP18genome.o%j
-#SBATCH   -N 3
-#SBATCH   -t 2:00:00
+#SBATCH   -p normal
+#SBATCH   -J APPURTC
+#SBATCH   -o APPURTC.o%j
+#SBATCH   -e APPURTC.o%j
+#SBATCH   -N 8
+#SBATCH   -t 4:00:00
 
 
 module load python/3.12.11

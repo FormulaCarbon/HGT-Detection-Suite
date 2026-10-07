@@ -4,7 +4,7 @@ import pandas as pd
 import yaml
 from itertools import product
 
-from apphelpers import *
+from apphelpersnew import *
 from dlhelpers import download_url, unzip_fastas
 
 def run(
@@ -27,6 +27,7 @@ def run(
         config = yaml.safe_load(conff)
         
     lineage_path = db_path / (db_config['min_lineage_path'] if use_min else db_config['lineage_path'])
+    print(lineage_path)
     proteomes_dir = db_path / db_config['proteomes_path']
     
     lineages = pd.read_csv(lineage_path, sep = "\t")
@@ -116,3 +117,4 @@ def run(
         calc_f2,
         working_dir
     )
+

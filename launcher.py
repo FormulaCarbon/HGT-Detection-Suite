@@ -1,3 +1,3 @@
 import pylauncher
 
-pylauncher.ClassicLauncher('cmds.txt', cores = 128, debug='host+job')
+pylauncher.ClassicLauncher('urtc/cmds.txt', cores = "64", debug='host+job')

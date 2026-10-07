@@ -1,0 +1,782 @@
+nuccore_accession	refseq_accession	species_id	genome_id	organism	source
+NC_008009	GCF_000014005.1	658062	8	Acidobacteria bacterium Ellin345	existing_db
+NC_008536			454	Solibacter usitatus Ellin6076	unresolved
+NC_008578	GCF_000015025.1	28049	9	Acidothermus cellulolyticus 11B	existing_db
+NC_008711	GCF_000014925.1	43663	31	Arthrobacter aurescens TC1	existing_db
+NC_008541	GCF_000196235.1	290399	30	Arthrobacter sp. FB24	existing_db
+NC_008618	GCF_000010425.1	1680	59	Bifidobacterium adolescentis ATCC 15703	existing_db
+NC_010816	GCF_000008945.1	216816	750	Bifidobacterium longum DJO10A	existing_db
+NC_004307	GCF_000007525.1	216816	60	Bifidobacterium longum NCC2705	existing_db
+NC_009480	GCF_000063485.1	28447	126	Clavibacter michiganensis subsp. michiganensis NCPPB 382	existing_db
+NC_010407	GCF_000069225.1	31964	668	Clavibacter michiganensis subsp. sepedonicus	existing_db
+NC_002935	GCF_000195815.1	1717	142	Corynebacterium diphtheriae NCTC 13129	existing_db
+NC_004369	GCF_000011305.1	152794	143	Corynebacterium efficiens YS-314	existing_db
+NC_006958	GCF_000196335.1	1718	144	Corynebacterium glutamicum ATCC 13032	existing_db
+NC_003450	GCF_000011325.1	1718	145	Corynebacterium glutamicum ATCC 13032	existing_db
+NC_009342	GCF_000010225.1	1718	146	Corynebacterium glutamicum R	existing_db
+NC_007164	GCF_000006605.1	38289	147	Corynebacterium jeikeium K411	existing_db
+NC_010545	GCF_000069945.1	43771	671	Corynebacterium urealyticum DSM 7109	existing_db
+NC_008278	GCF_000058485.1	1859	193	Frankia alni ACN14a	existing_db
+NC_007777	GCF_000013345.1	106370	192	Frankia sp. CcI3	existing_db
+NC_009921	GCF_000018005.1	298653	588	Frankia sp. EAN1pec	existing_db
+NC_009664	GCF_000017305.1	131568	226	Kineococcus radiotolerans SRS30216	existing_db
+NC_006087	GCF_000007665.1	1575	247	Leifsonia xyli subsp. xyli str. CTCB07	existing_db
+NC_010397	GCF_000069185.1	36809	685	Mycobacterium abscessus	existing_db
+NC_008595	GCF_000014985.1	1764	292	Mycobacterium avium 104	existing_db
+NC_002944	GCF_000007865.1	1764	293	Mycobacterium avium subsp. paratuberculosis K-10	existing_db
+NC_002945	GCF_000195835.3	1773	294	Mycobacterium bovis AF2122/97	existing_db
+NC_008769	GCF_000009445.1	1773	295	Mycobacterium bovis BCG str. Pasteur 1173P2	existing_db
+NC_009338			296	Mycobacterium gilvum PYR-GCK	unresolved
+NC_002677	GCF_000195855.1	1769	297	Mycobacterium leprae TN	existing_db
+NC_010612	GCF_000018345.1	1781	707	Mycobacterium marinum M	existing_db
+NC_008596	GCF_000015005.1	1772	298	Mycobacterium smegmatis str. MC2 155	existing_db
+NC_009077			289	Mycobacterium sp. JLS	unresolved
+NC_008705			290	Mycobacterium sp. KMS	unresolved
+NC_008146			291	Mycobacterium sp. MCS	unresolved
+NC_002755	GCF_000008585.1	1773	299	Mycobacterium tuberculosis CDC1551	existing_db
+NC_009565	GCF_000016925.1	1773	300	Mycobacterium tuberculosis F11	existing_db
+NC_009525	GCF_000016145.1	1773	301	Mycobacterium tuberculosis H37Ra	existing_db
+NC_000962	GCF_000195955.2	1773	302	Mycobacterium tuberculosis H37Rv	existing_db
+NC_008611	GCF_000013925.1	1809	303	Mycobacterium ulcerans Agy99	existing_db
+NC_008726	GCF_000015305.1	39687	304	Mycobacterium vanbaalenii PYR-1	existing_db
+NC_006361	GCF_000009805.1	37329	333	Nocardia farcinica IFM 10152	existing_db
+NC_008699	GCF_000015265.1	196162	334	Nocardioides sp. JS614	existing_db
+NC_006085	GCF_000008345.1	1747	370	Propionibacterium acnes KPA171202	existing_db
+NC_010168	GCF_000018885.1	1646	635	Renibacterium salmoninarum ATCC 33209	existing_db
+NC_008268	GCF_000014565.1	132919	407	Rhodococcus sp. RHA1	existing_db
+NC_008148	GCF_000014185.1	49319	422	Rubrobacter xylanophilus DSM 9941	existing_db
+NC_009142	GCF_000062885.1	1836	424	Saccharopolyspora erythraea NRRL 2338	existing_db
+NC_009953			620	Salinispora arenicola CNS-205	unresolved
+NC_009380	GCF_000016425.1	168695	426	Salinispora tropica CNB-440	existing_db
+NC_003155	GCF_000009765.2	33903	499	Streptomyces avermitilis MA-4680	existing_db
+NC_003888	GCF_000203835.1	1902	500	Streptomyces coelicolor A3(2)	existing_db
+NC_010572	GCF_000010605.1	1911	711	Streptomyces griseus subsp. griseus NBRC 13350	existing_db
+NC_007333	GCF_000012405.1	2021	519	Thermobifida fusca YX	existing_db
+NC_004572	GCF_000007485.1	2039	537	Tropheryma whipplei str. Twist	existing_db
+NC_004551	GCF_000196075.1	2039	536	Tropheryma whipplei TW08/27	existing_db
+NC_006980	GCF_000165345.1	5807	652	Cryptosporidium parvum Iowa II	downloaded_new
+NC_006981	GCF_000165345.1	5807	652	Cryptosporidium parvum Iowa II	downloaded_new
+NC_006982	GCF_000165345.1	5807	652	Cryptosporidium parvum Iowa II	downloaded_new
+NC_006983	GCF_000165345.1	5807	652	Cryptosporidium parvum Iowa II	downloaded_new
+NC_006984	GCF_000165345.1	5807	652	Cryptosporidium parvum Iowa II	downloaded_new
+NC_006985	GCF_000165345.1	5807	652	Cryptosporidium parvum Iowa II	downloaded_new
+NC_006986	GCF_000165345.1	5807	652	Cryptosporidium parvum Iowa II	downloaded_new
+NC_006987	GCF_000165345.1	5807	652	Cryptosporidium parvum Iowa II	downloaded_new
+NC_000918	GCF_000008625.1	63363	28	Aquifex aeolicus VF5	existing_db
+NC_010730	GCF_000020325.1	436114	769	Sulfurihydrogenibium sp. YO3AOP1	existing_db
+NC_003228	GCF_000025985.1	817	50	Bacteroides fragilis NCTC 9343	existing_db
+NC_006347	GCF_000009925.1	817	51	Bacteroides fragilis YCH46	existing_db
+NC_004663	GCF_000011065.1	818	52	Bacteroides thetaiotaomicron VPI-5482	existing_db
+NC_009614	GCF_000012825.1	821	53	Bacteroides vulgatus ATCC 8482	existing_db
+NC_010118	GCF_000017525.1	336810	607	Candidatus Sulcia muelleri GWSS	downloaded_new
+NC_008255	GCF_000014145.1	985	152	Cytophaga hutchinsonii ATCC 33406	existing_db
+NC_009441	GCF_000016645.1	986	184	Flavobacterium johnsoniae UW101	existing_db
+NC_009613	GCF_000064305.2	96345	185	Flavobacterium psychrophilum JIP02/86	existing_db
+NC_008571	GCF_000060345.1	411153	202	Gramella forsetii KT0803	existing_db
+NC_009615	GCF_000012845.1	823	342	Parabacteroides distasonis ATCC 8503	existing_db
+NC_010729	GCF_000010505.1	837	766	Porphyromonas gingivalis ATCC 33277	existing_db
+NC_002950	GCF_000007585.1	837	359	Porphyromonas gingivalis W83	existing_db
+NC_007677	GCF_000013045.1	146919	425	Salinibacter ruber DSM 13855	existing_db
+NC_005861	GCF_000011565.2	362787	343	Candidatus Protochlamydia amoebophila UWE25	existing_db
+NC_002620	GCF_000006685.1	83560	111	Chlamydia muridarum Nigg	existing_db
+NC_010287	GCF_000068585.1	813	637	Chlamydia trachomatis 434/Bu	existing_db
+NC_007429	GCF_000012125.1	813	113	Chlamydia trachomatis A/HAR-13	existing_db
+NC_000117	GCF_000008725.1	813	112	Chlamydia trachomatis D/UW-3/CX	existing_db
+NC_010280	GCF_000068525.2	813	638	Chlamydia trachomatis L2b/UCH-1/proctitis	existing_db
+NC_004552	GCF_000026025.1	83555	114	Chlamydophila abortus S26/3	existing_db
+NC_003361	GCF_000007605.1	83557	115	Chlamydophila caviae GPIC	existing_db
+NC_007899	GCF_000009945.1	83556	116	Chlamydophila felis Fe/C-56	existing_db
+NC_002179	GCF_000091085.1	83558	117	Chlamydophila pneumoniae AR39	downloaded_new
+NC_000922	GCF_000008745.1	83558	118	Chlamydophila pneumoniae CWL029	existing_db
+NC_002491	GCF_000011165.1	83558	119	Chlamydophila pneumoniae J138	existing_db
+NC_005043	GCF_000007205.1	83558	120	Chlamydophila pneumoniae TW-183	existing_db
+NC_007514			121	Chlorobium chlorochromatii CaD3	unresolved
+NC_010831			752	Chlorobium phaeobacteroides BS1	unresolved
+NC_008639	GCF_000015125.1	1096	122	Chlorobium phaeobacteroides DSM 266	existing_db
+NC_002932	GCF_000006985.1	1097	123	Chlorobium tepidum TLS	existing_db
+NC_007512	GCF_000012485.1	1100	350	Pelodictyon luteolum DSM 273	existing_db
+NC_009337			371	Prosthecochloris vibrioformis DSM 265	unresolved
+NC_010175	GCF_000018865.1	1108	633	Chloroflexus aurantiacus J-10-fl	existing_db
+NC_002936	GCF_000011905.1	61435	156	Dehalococcoides ethenogenes 195	existing_db
+NC_009455			154	Dehalococcoides sp. BAV1	unresolved
+NC_007356	GCF_000009025.1	61435	155	Dehalococcoides sp. CBDB1	existing_db
+NC_009972	GCF_000018565.1	65	613	Herpetosiphon aurantiacus ATCC 23779	downloaded_new
+NC_009767	GCF_000017805.1	120962	596	Roseiflexus castenholzii DSM 13941	existing_db
+NC_009523	GCF_000016665.1	357808	420	Roseiflexus sp. RS-1	existing_db
+NC_000854	GCF_000011125.1	56636	18	Aeropyrum pernix K1	downloaded_new
+NC_009954	GCF_000018305.1	76887	759	Caldivirga maquilingensis IC-167	downloaded_new
+NC_008818	GCF_000015145.1	54248	221	Hyperthermus butylicus DSM 5456	downloaded_new
+NC_009776	GCF_000017945.1	160233	589	Ignicoccus hospitalis KIN4/I	downloaded_new
+NC_009440	GCF_000016605.1	43687	266	Metallosphaera sedula DSM 5348	downloaded_new
+NC_010085	GCF_000018465.1	338192	617	Nitrosopumilus maritimus SCM1	downloaded_new
+NC_003364	GCF_000007225.1	13773	391	Pyrobaculum aerophilum str. IM2	downloaded_new
+NC_009376	GCF_000016385.1	121277	392	Pyrobaculum arsenaticum DSM 13514	downloaded_new
+NC_009073	GCF_000015805.1	181486	393	Pyrobaculum calidifontis JCM 11548	downloaded_new
+NC_008701	GCF_000015205.1	2277	394	Pyrobaculum islandicum DSM 4184	downloaded_new
+NC_009033	GCF_000015945.1	2280	473	Staphylothermus marinus F1	downloaded_new
+NC_007181	GCF_000012285.1	2285	501	Sulfolobus acidocaldarius DSM 639	downloaded_new
+NC_002754	GCF_000007005.1	2287	502	Sulfolobus solfataricus P2	downloaded_new
+NC_003106	GCF_000011205.1	111955	503	Sulfolobus tokodaii str. 7	downloaded_new
+NC_008698	GCF_000015225.1	2269	521	Thermofilum pendens Hrk 5	downloaded_new
+NC_010525	GCF_000019805.1	70771	691	Thermoproteus neutrophilus V24Sta	downloaded_new
+NC_009925	GCF_000018105.1	155978	603	Acaryochloris marina MBIC11017	existing_db
+NC_007413	GCF_000204075.1	264691	24	Anabaena variabilis ATCC 29413	existing_db
+NC_010546	GCF_000017845.1	2546360	672	Cyanothece sp. ATCC 51142	existing_db
+NC_010547	GCF_000017845.1	2546360	672	Cyanothece sp. ATCC 51142	existing_db
+NC_005125	GCF_000011385.1	33072	200	Gloeobacter violaceus PCC 7421	existing_db
+NC_010296	GCF_000010625.1	1126	656	Microcystis aeruginosa NIES-843	existing_db
+NC_010628	GCF_000020025.1	272131	765	Nostoc punctiforme PCC 73102	existing_db
+NC_003272	GCF_000009705.1	103690	335	Nostoc sp. PCC 7120	existing_db
+NC_008816	GCF_000015645.1	1219	360	Prochlorococcus marinus str. AS9601	existing_db
+NC_009976	GCF_000018585.1	1219	619	Prochlorococcus marinus str. MIT 9211	downloaded_new
+NC_009840	GCF_000018065.1	1219	590	Prochlorococcus marinus str. MIT 9215	existing_db
+NC_009091	GCF_000015965.1	1219	364	Prochlorococcus marinus str. MIT 9301	existing_db
+NC_008820	GCF_000015705.1	1219	365	Prochlorococcus marinus str. MIT 9303	existing_db
+NC_007577	GCF_000012645.1	1219	366	Prochlorococcus marinus str. MIT 9312	existing_db
+NC_005071	GCF_000011485.1	1219	363	Prochlorococcus marinus str. MIT 9313	existing_db
+NC_008817	GCF_000015665.1	1219	367	Prochlorococcus marinus str. MIT 9515	existing_db
+NC_008819	GCF_000015685.1	1219	368	Prochlorococcus marinus str. NATL1A	existing_db
+NC_007335	GCF_000012465.1	1219	369	Prochlorococcus marinus str. NATL2A	existing_db
+NC_005042	GCF_000007925.1	1219	361	Prochlorococcus marinus subsp. marinus str. CCMP1375	existing_db
+NC_005072	GCF_000011465.1	1219	362	Prochlorococcus marinus subsp. pastoris str. CCMP1986	existing_db
+NC_006576	GCF_000010065.1	32046	511	Synechococcus elongatus PCC 6301	existing_db
+NC_007604	GCF_000012525.1	32046	512	Synechococcus elongatus PCC 7942	existing_db
+NC_008319	GCF_000014585.1	64471	506	Synechococcus sp. CC9311	existing_db
+NC_007516	GCF_000012625.1	110662	507	Synechococcus sp. CC9605	existing_db
+NC_007513	GCF_000012505.1	316279	508	Synechococcus sp. CC9902	existing_db
+NC_007776	GCF_000013225.1	321332	151	Synechococcus sp. JA-2-3B'a(2-13)	existing_db
+NC_007775	GCF_000013205.1	321327	150	Synechococcus sp. JA-3-3Ab	existing_db
+NC_010475	GCF_000019485.1	32049	690	Synechococcus sp. PCC 7002	existing_db
+NC_009482	GCF_000063525.1	316278	509	Synechococcus sp. RCC307	downloaded_new
+NC_009481	GCF_000063505.1	32051	510	Synechococcus sp. WH 7803	downloaded_new
+NC_005070	GCF_000195975.1	2881428	513	Synechococcus sp. WH 8102	existing_db
+NC_000911	GCF_000009725.1	1148	514	Synechocystis sp. PCC 6803	existing_db
+NC_004113	GCF_000011345.1	146786	525	Thermosynechococcus elongatus BP-1	existing_db
+NC_008312	GCF_000014265.1	1206	535	Trichodesmium erythraeum IMS101	existing_db
+NC_008025	GCF_000196275.1	68909	157	Deinococcus geothermalis DSM 11300	existing_db
+NC_001263	GCF_000008565.1	1299	158	Deinococcus radiodurans R1	existing_db
+NC_001264	GCF_000008565.1	1299	158	Deinococcus radiodurans R1	existing_db
+NC_005835	GCF_000008125.1	274	528	Thermus thermophilus HB27	existing_db
+NC_006461	GCF_000091545.1	274	529	Thermus thermophilus HB8	existing_db
+NC_000917	GCF_000008665.1	2234	29	Archaeoglobus fulgidus DSM 4304	downloaded_new
+NC_009712	GCF_000017625.1	358766	105	Candidatus Methanoregula boonei 6A8	downloaded_new
+NC_006396	GCF_000011085.1	2238	211	Haloarcula marismortui ATCC 43049	downloaded_new
+NC_006397	GCF_000011085.1	2238	211	Haloarcula marismortui ATCC 43049	downloaded_new
+NC_010364	GCF_000069025.1	2242	679	Halobacterium salinarum R1	downloaded_new
+NC_002607	GCF_000006805.1	2242	212	Halobacterium sp. NRC-1	downloaded_new
+NC_008212	GCF_000009185.1	293091	213	Haloquadratum walsbyi DSM 16790	downloaded_new
+NC_009515	GCF_000016525.1	2173	268	Methanobrevibacter smithii ATCC 35061	downloaded_new
+NC_000909	GCF_000091665.1	2190	271	Methanocaldococcus jannaschii DSM 2661	downloaded_new
+NC_007955	GCF_000013725.1	29291	269	Methanococcoides burtonii DSM 6242	downloaded_new
+NC_009635	GCF_000017185.1	42879	270	Methanococcus aeolicus Nankai-3	downloaded_new
+NC_009135	GCF_000016125.1	39152	272	Methanococcus maripaludis C5	downloaded_new
+NC_009975			615	Methanococcus maripaludis C6	unresolved
+NC_009637			273	Methanococcus maripaludis C7	unresolved
+NC_005791	GCF_000011585.1	39152	274	Methanococcus maripaludis S2	downloaded_new
+NC_009634	GCF_000017165.1	2187	275	Methanococcus vannielii SB	downloaded_new
+NC_008942	GCF_000015765.1	83984	276	Methanocorpusculum labreanum Z	downloaded_new
+NC_009051	GCF_000015825.1	2198	277	Methanoculleus marisnigri JR1	downloaded_new
+NC_003551	GCF_000007185.1	2320	278	Methanopyrus kandleri AV19	downloaded_new
+NC_008553	GCF_000014945.1	2224	279	Methanosaeta thermophila PT	downloaded_new
+NC_003552	GCF_000007345.1	2214	280	Methanosarcina acetivorans C2A	downloaded_new
+NC_007355			281	Methanosarcina barkeri str. Fusaro	unresolved
+NC_003901	GCF_000007065.1	2209	282	Methanosarcina mazei Go1	downloaded_new
+NC_007681	GCF_000012545.1	2317	283	Methanosphaera stadtmanae DSM 3091	downloaded_new
+NC_007796	GCF_000013445.1	2203	284	Methanospirillum hungatei JF-1	downloaded_new
+NC_000916	GCF_000008645.1	145262	267	Methanothermobacter thermautotrophicus str. Delta H	downloaded_new
+NC_007426	GCF_000026045.1	2257	320	Natronomonas pharaonis DSM 2160	downloaded_new
+NC_005877	GCF_000008265.1	46632	354	Picrophilus torridus DSM 9790	downloaded_new
+NC_000868	GCF_000195935.2	29292	395	Pyrococcus abyssi GE5	downloaded_new
+NC_003413	GCF_000007305.1	2261	396	Pyrococcus furiosus DSM 3638	downloaded_new
+NC_000961	GCF_000011105.1	53953	397	Pyrococcus horikoshii OT3	downloaded_new
+NC_006624	GCF_000009965.1	311400	520	Thermococcus kodakarensis KOD1	downloaded_new
+NC_002578	GCF_000195915.1	2303	522	Thermoplasma acidophilum DSM 1728	downloaded_new
+NC_002689	GCF_000011185.1	50339	523	Thermoplasma volcanium GSS1	downloaded_new
+NC_009464	GCF_000063445.1	1175445	569	uncultured methanogenic archaeon RC-I	downloaded_new
+NC_010163	GCF_000018785.1	2148	661	Acholeplasma laidlawii PG-8A	existing_db
+NC_009633	GCF_000016985.1	208226	23	Alkaliphilus metalliredigens QYMF	existing_db
+NC_009922	GCF_000018325.1	461876	576	Alkaliphilus oremlandii OhILAs	existing_db
+NC_007716	GCF_000012225.1	229545	32	Aster yellows witches'-broom phytoplasma AYWB	existing_db
+NC_009725	GCF_000015785.2	492670	35	Bacillus amyloliquefaciens FZB42	existing_db
+NC_007530	GCF_000008445.1	1392	37	Bacillus anthracis str. 'Ames Ancestor'	existing_db
+NC_003997	GCF_000007845.1	1392	36	Bacillus anthracis str. Ames	existing_db
+NC_005945	GCF_000008165.1	1392	38	Bacillus anthracis str. Sterne	existing_db
+NC_003909	GCF_000008005.1	1396	40	Bacillus cereus ATCC 10987	downloaded_new
+NC_004722	GCF_000007825.1	1396	39	Bacillus cereus ATCC 14579	existing_db
+NC_006274	GCF_000011625.1	1396	41	Bacillus cereus E33L	existing_db
+NC_009674	GCF_000017425.1	580165	42	Bacillus cereus subsp. cytotoxis NVH 391-98	existing_db
+NC_006582	GCF_000009825.1	79880	43	Bacillus clausii KSM-K16	existing_db
+NC_002570	GCF_000011145.1	86665	44	Bacillus halodurans C-125	existing_db
+NC_006270	GCF_000011645.1	1402	45	Bacillus licheniformis ATCC 14580	existing_db
+NC_006322	GCF_000008425.1	1402	46	Bacillus licheniformis ATCC 14580	existing_db
+NC_009848	GCF_000017885.4	1408	579	Bacillus pumilus SAFR-032	existing_db
+NC_000964	GCF_000009045.1	1423	47	Bacillus subtilis subsp. subtilis str. 168	existing_db
+NC_005957	GCF_000008505.1	1428	49	Bacillus thuringiensis serovar konkukian str. 97-27	existing_db
+NC_008600	GCF_000015065.1	1428	48	Bacillus thuringiensis str. Al Hakam	existing_db
+NC_010184	GCF_000018825.1	1405	629	Bacillus weihenstephanensis KBAB4	existing_db
+NC_009437	GCF_000016545.1	44001	94	Caldicellulosiruptor saccharolyticus DSM 8903	existing_db
+NC_010424	GCF_000018425.1	471827	666	Candidatus Desulforudis audaxviator MP104C	existing_db
+NC_007503	GCF_000012865.1	129958	109	Carboxydothermus hydrogenoformans Z-2901	existing_db
+NC_003030	GCF_000008765.1	1488	127	Clostridium acetobutylicum ATCC 824	existing_db
+NC_009617	GCF_000016965.1	1520	128	Clostridium beijerinckii NCIMB 8052	existing_db
+NC_009697	GCF_000017025.1	1491	130	Clostridium botulinum A str. ATCC 19397	existing_db
+NC_009495	GCF_000063585.1	1491	129	Clostridium botulinum A str. ATCC 3502	existing_db
+NC_009698	GCF_000017045.1	1491	131	Clostridium botulinum A str. Hall	existing_db
+NC_010520	GCF_000019545.1	1491	669	Clostridium botulinum A3 str. Loch Maree	existing_db
+NC_010674	GCF_000020165.1	1491	699	Clostridium botulinum B str. Eklund 17B	downloaded_new
+NC_010516	GCF_000019305.1	1491	670	Clostridium botulinum B1 str. Okra	existing_db
+NC_009699	GCF_000017065.1	1491	132	Clostridium botulinum F str. Langeland	existing_db
+NC_009089	GCF_000009205.1	1496	133	Clostridium difficile 630	downloaded_new
+NC_009706	GCF_000016505.1	1534	134	Clostridium kluyveri DSM 555	existing_db
+NC_008593	GCF_000014125.1	1542	135	Clostridium novyi NT	existing_db
+NC_008261	GCF_000013285.1	1502	137	Clostridium perfringens ATCC 13124	existing_db
+NC_008262	GCF_000013845.1	1502	138	Clostridium perfringens phage phiSM101	downloaded_new
+NC_003366	GCF_000009685.1	1502	136	Clostridium perfringens str. 13	existing_db
+NC_010001	GCF_000018685.1	66219	608	Clostridium phytofermentans ISDg	existing_db
+NC_004557	GCF_000007625.1	1513	139	Clostridium tetani E88	existing_db
+NC_009012	GCF_000015865.1	1515	140	Clostridium thermocellum ATCC 27405	existing_db
+NC_007907	GCF_000010045.1	49338	159	Desulfitobacterium hafniense Y51	existing_db
+NC_009253	GCF_000016165.1	59610	161	Desulfotomaculum reducens MI-1	existing_db
+NC_004668	GCF_000007785.1	1351	172	Enterococcus faecalis V583	existing_db
+NC_010556	GCF_000019905.1	340145	676	Exiguobacterium sibiricum 255-15	downloaded_new
+NC_010376	GCF_000010185.1	1260	677	Finegoldia magna ATCC 29328	existing_db
+NC_006510	GCF_000009785.1	1462	195	Geobacillus kaustophilus HTA426	existing_db
+NC_009328	GCF_000015745.1	33940	196	Geobacillus thermodenitrificans NG80-2	existing_db
+NC_010337	GCF_000019165.1	35701	655	Heliobacterium modesticaldum Ice1	existing_db
+NC_006814	GCF_000011985.1	1579	228	Lactobacillus acidophilus NCFM	existing_db
+NC_008497	GCF_000014465.1	1580	229	Lactobacillus brevis ATCC 367	existing_db
+NC_008526	GCF_000014525.1	1597	230	Lactobacillus casei ATCC 334	existing_db
+NC_008054	GCF_000056065.1	1584	231	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842	existing_db
+NC_008529	GCF_000014405.1	1584	232	Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365	existing_db
+NC_010610	GCF_000010145.1	1613	705	Lactobacillus fermentum IFO 3956	existing_db
+NC_008530	GCF_000014425.1	1596	233	Lactobacillus gasseri ATCC 33323	existing_db
+NC_010080	GCF_000015385.1	1587	614	Lactobacillus helveticus DPC 4571	existing_db
+NC_005362	GCF_000008065.1	33959	234	Lactobacillus johnsonii NCC 533	existing_db
+NC_004567	GCF_000203855.3	1590	235	Lactobacillus plantarum WCFS1	existing_db
+NC_009513	GCF_000016825.1	1598	236	Lactobacillus reuteri F275	existing_db
+NC_009513	GCF_000016825.1	1598	763	Lactobacillus reuteri F275	existing_db
+NC_007576	GCF_000026065.1	1599	237	Lactobacillus sakei subsp. sakei 23K	existing_db
+NC_007929	GCF_000008925.1	1624	238	Lactobacillus salivarius subsp. salivarius UCC118	existing_db
+NC_009004	GCF_000009425.1	1359	240	Lactococcus lactis subsp. cremoris MG1363	existing_db
+NC_008527	GCF_000014545.1	1359	241	Lactococcus lactis subsp. cremoris SK11	existing_db
+NC_002662	GCF_000006865.1	1358	239	Lactococcus lactis subsp. lactis Il1403	existing_db
+NC_010471	GCF_000026405.1	33964	681	Leuconostoc citreum KM20	existing_db
+NC_008531	GCF_000014445.1	1245	252	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293	existing_db
+NC_003212	GCF_000195795.1	1642	253	Listeria innocua Clip11262	existing_db
+NC_003210	GCF_000196035.1	1639	254	Listeria monocytogenes EGD-e	existing_db
+NC_002973	GCF_000008285.1	1639	255	Listeria monocytogenes str. 4b F2365	existing_db
+NC_008555	GCF_000060285.1	1643	256	Listeria welshimeri serovar 6b str. SLCC5334	existing_db
+NC_010382	GCF_000017965.1	1421	682	Lysinibacillus sphaericus C3-41	existing_db
+NC_006055	GCF_000008305.1	2151	263	Mesoplasma florum L1	existing_db
+NC_007644			288	Moorella thermoacetica ATCC 39073	unresolved
+NC_009497	GCF_000063605.1	2110	305	Mycoplasma agalactiae PG2	existing_db
+NC_007633	GCF_000012765.1	2095	306	Mycoplasma capricolum subsp. capricolum ATCC 27343	existing_db
+NC_004829	GCF_000092585.1	2096	307	Mycoplasma gallisepticum R	existing_db
+NC_000908	GCF_000027325.1	2097	308	Mycoplasma genitalium G37	existing_db
+NC_006360	GCF_000008405.1	2099	309	Mycoplasma hyopneumoniae 232	existing_db
+NC_007332	GCF_000008225.1	2099	310	Mycoplasma hyopneumoniae 7448	existing_db
+NC_007295	GCF_000008205.1	2099	311	Mycoplasma hyopneumoniae J	existing_db
+NC_006908	GCF_000008365.1	2118	312	Mycoplasma mobile 163K	existing_db
+NC_005364	GCF_000011445.1	2102	313	Mycoplasma mycoides subsp. mycoides SC str. PG1	existing_db
+NC_004432	GCF_000011225.1	28227	314	Mycoplasma penetrans HF-2	existing_db
+NC_000912	GCF_000027345.1	2104	315	Mycoplasma pneumoniae M129	existing_db
+NC_002771	GCF_000195875.1	2107	316	Mycoplasma pulmonis UAB CTIP	existing_db
+NC_007294	GCF_000008245.1	2109	317	Mycoplasma synoviae 53	existing_db
+NC_004193	GCF_000011245.1	182710	337	Oceanobacillus iheyensis HTE831	existing_db
+NC_008528	GCF_000014385.1	1247	339	Oenococcus oeni PSU-1	existing_db
+NC_005303	GCF_000009845.1	100379	340	Onion yellows phytoplasma OY-M	downloaded_new
+NC_008525	GCF_000014505.1	1255	347	Pediococcus pentosaceus ATCC 25745	existing_db
+NC_009454	GCF_000010565.1	110500	351	Pelotomaculum thermopropionicum SI	downloaded_new
+NC_007622	GCF_000009005.1	1280	465	Staphylococcus aureus RF122	existing_db
+NC_002951	GCF_000012045.1	1280	457	Staphylococcus aureus subsp. aureus COL	existing_db
+NC_009632			458	Staphylococcus aureus subsp. aureus JH1	unresolved
+NC_009487	GCF_000016805.1	1280	459	Staphylococcus aureus subsp. aureus JH9	existing_db
+NC_002952	GCF_000011505.1	1280	467	Staphylococcus aureus subsp. aureus MRSA252	existing_db
+NC_002953	GCF_000011525.1	1280	468	Staphylococcus aureus subsp. aureus MSSA476	existing_db
+NC_009782	GCF_000010445.1	1280	600	Staphylococcus aureus subsp. aureus Mu3	existing_db
+NC_002758	GCF_000009665.1	1280	461	Staphylococcus aureus subsp. aureus Mu50	existing_db
+NC_003923	GCF_000011265.1	1280	460	Staphylococcus aureus subsp. aureus MW2	existing_db
+NC_002745	GCF_000009645.1	1280	462	Staphylococcus aureus subsp. aureus N315	existing_db
+NC_007795	GCF_000013425.1	1280	463	Staphylococcus aureus subsp. aureus NCTC 8325	existing_db
+NC_009641	GCF_000010465.1	1280	464	Staphylococcus aureus subsp. aureus str. Newman	existing_db
+NC_007793	GCF_000013465.1	1280	466	Staphylococcus aureus subsp. aureus USA300	existing_db
+NC_010079	GCF_000017085.1	1280	625	Staphylococcus aureus subsp. aureus USA300_TCH1516	existing_db
+NC_004461	GCF_000007645.1	1282	469	Staphylococcus epidermidis ATCC 12228	existing_db
+NC_002976	GCF_000011925.1	1282	470	Staphylococcus epidermidis RP62A	existing_db
+NC_007168	GCF_000009865.1	1283	471	Staphylococcus haemolyticus JCSC1435	existing_db
+NC_007350	GCF_000010125.1	29385	472	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305	existing_db
+NC_004116	GCF_000007265.1	1311	474	Streptococcus agalactiae 2603V/R	existing_db
+NC_007432	GCF_000012705.1	1311	475	Streptococcus agalactiae A909	existing_db
+NC_004368	GCF_000196055.1	1311	476	Streptococcus agalactiae NEM316	existing_db
+NC_009785	GCF_000017005.1	1302	601	Streptococcus gordonii str. Challis substr. CH1	existing_db
+NC_004350	GCF_000007465.2	1309	477	Streptococcus mutans UA159	existing_db
+NC_010582	GCF_000019985.1	1313	710	Streptococcus pneumoniae CGSP14	existing_db
+NC_008533	GCF_000014365.2	1313	478	Streptococcus pneumoniae D39	existing_db
+NC_010380	GCF_000019265.1	1313	689	Streptococcus pneumoniae Hungary19A-6	existing_db
+NC_003098	GCF_000007045.1	1313	479	Streptococcus pneumoniae R6	existing_db
+NC_003028	GCF_000006885.1	1313	480	Streptococcus pneumoniae TIGR4	existing_db
+NC_002737	GCF_000006785.2	1314	481	Streptococcus pyogenes M1 GAS	existing_db
+NC_008022	GCF_000013505.1	1314	482	Streptococcus pyogenes MGAS10270	downloaded_new
+NC_006086	GCF_000011665.1	1314	483	Streptococcus pyogenes MGAS10394	existing_db
+NC_008024	GCF_000013545.1	1314	484	Streptococcus pyogenes MGAS10750	downloaded_new
+NC_008023	GCF_000013525.1	1314	485	Streptococcus pyogenes MGAS2096	downloaded_new
+NC_004070	GCF_000007425.1	1314	486	Streptococcus pyogenes MGAS315	existing_db
+NC_007297	GCF_000011765.3	1314	487	Streptococcus pyogenes MGAS5005	existing_db
+NC_007296	GCF_000012165.2	1314	488	Streptococcus pyogenes MGAS6180	existing_db
+NC_003485	GCF_000007285.1	1314	489	Streptococcus pyogenes MGAS8232	existing_db
+NC_008021	GCF_000013485.1	1314	490	Streptococcus pyogenes MGAS9429	existing_db
+NC_004606	GCF_000011285.1	1314	492	Streptococcus pyogenes SSI-1	existing_db
+NC_009332	GCF_000009385.1	1314	491	Streptococcus pyogenes str. Manfredo	existing_db
+NC_009009	GCF_000014205.1	1305	493	Streptococcus sanguinis SK36	existing_db
+NC_009442	GCF_000014305.1	1307	494	Streptococcus suis 05ZYH33	downloaded_new
+NC_009443	GCF_000014325.1	1307	495	Streptococcus suis 98HAH33	downloaded_new
+NC_006449	GCF_000011845.1	1308	496	Streptococcus thermophilus CNRZ1066	existing_db
+NC_008532	GCF_000014485.1	1308	497	Streptococcus thermophilus LMD-9	existing_db
+NC_006448	GCF_000011825.1	1308	498	Streptococcus thermophilus LMG 18311	existing_db
+NC_006177	GCF_000009905.1	2734	505	Symbiobacterium thermophilum IAM 14863	existing_db
+NC_008346	GCF_000014725.1	863	516	Syntrophomonas wolfei subsp. wolfei str. Goettingen	existing_db
+NC_010321	GCF_000019085.1	496866	660	Thermoanaerobacter pseudethanolicus ATCC 33223	existing_db
+NC_010320	GCF_000019065.1	399726	659	Thermoanaerobacter sp. X514	existing_db
+NC_003869	GCF_000007085.1	911092	518	Thermoanaerobacter tengcongensis MB4	existing_db
+NC_010503	GCF_000019345.1	134821	692	Ureaplasma parvum serovar 3 str. ATCC 27815	existing_db
+NC_002162	GCF_000006625.1	134821	538	Ureaplasma parvum serovar 3 str. ATCC 700970	existing_db
+NC_003454	GCF_000007325.1	851	194	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	downloaded_new
+NC_010482	GCF_000019605.1	498846	667	Candidatus Korarchaeum cryptofilum OPF8	downloaded_new
+NC_005213	GCF_000008085.1	160232	319	Nanoarchaeum equitans Kin4-M	downloaded_new
+NC_005027	GCF_000196115.1	265606	355	Rhodopirellula baltica SH 1	existing_db
+NC_009484	GCF_000016725.1	524	7	Acidiphilium cryptum JF-5	existing_db
+NC_008752	GCF_000015325.1	80869	11	Acidovorax avenae subsp. citrulli AAC00-1	existing_db
+NC_008782	GCF_000015545.1	232721	10	Acidovorax sp. JS42	downloaded_new
+NC_010611	GCF_000018445.1	470	756	Acinetobacter baumannii ACICU	existing_db
+NC_009085	GCF_000015425.1	470	12	Acinetobacter baumannii ATCC 17978	downloaded_new
+NC_010410	GCF_000069245.1	470	662	Acinetobacter baumannii AYE	existing_db
+NC_010410	GCF_000069245.1	470	695	Acinetobacter baumannii AYE	existing_db
+NC_010400	GCF_000069205.1	470	663	Acinetobacter baumannii SDF	downloaded_new
+NC_005966	GCF_000046845.1	202950	13	Acinetobacter sp. ADP1	existing_db
+NC_009053	GCF_000015885.1	715	14	Actinobacillus pleuropneumoniae L20	existing_db
+NC_010278	GCF_000016685.1	715	636	Actinobacillus pleuropneumoniae serovar 3 str. JL03	existing_db
+NC_010939	GCF_000020405.1	715	757	Actinobacillus pleuropneumoniae serovar 7 str. AP76	existing_db
+NC_009655	GCF_000017245.1	67854	15	Actinobacillus succinogenes 130Z	existing_db
+NC_008570	GCF_000014805.1	644	16	Aeromonas hydrophila subsp. hydrophila ATCC 7966	existing_db
+NC_009348	GCF_000196395.1	645	17	Aeromonas salmonicida subsp. salmonicida A449	existing_db
+NC_003062	GCF_000092025.1	1176649	19	Agrobacterium tumefaciens str. C58	existing_db
+NC_003063	GCF_000092025.1	1176649	19	Agrobacterium tumefaciens str. C58	existing_db
+NC_003304			20	Agrobacterium tumefaciens str. C58	unresolved
+NC_003305			20	Agrobacterium tumefaciens str. C58	unresolved
+NC_008260	GCF_000009365.1	59754	21	Alcanivorax borkumensis SK2	existing_db
+NC_008340	GCF_000014785.1	351052	22	Alkalilimnicola ehrlichei MLHE-1	existing_db
+NC_007760	GCF_000013385.1	161493	26	Anaeromyxobacter dehalogenans 2CP-C	existing_db
+NC_009675	GCF_000017505.1	404589	25	Anaeromyxobacter sp. Fw109-5	existing_db
+NC_004842	GCF_000011945.1	770	27	Anaplasma marginale str. St. Maries	existing_db
+NC_007797	GCF_000013125.1	948	5	Anaplasma phagocytophilum HZ	existing_db
+NC_009850	GCF_000014025.1	28197	577	Arcobacter butzleri RM4018	existing_db
+NC_008702	GCF_000061505.1	418699	33	Azoarcus sp. BH72	existing_db
+NC_006513	GCF_000025965.1	551760	34	Azoarcus sp. EbN1	existing_db
+NC_009937	GCF_000010525.1	7	578	Azorhizobium caulinodans ORS 571	existing_db
+NC_008783	GCF_000015445.1	774	54	Bartonella bacilliformis KC583	existing_db
+NC_005956	GCF_000046705.1	38323	55	Bartonella henselae str. Houston-1	existing_db
+NC_005955	GCF_000046685.1	803	56	Bartonella quintana str. Toulouse	existing_db
+NC_010161	GCF_000196435.1	85701	630	Bartonella tribocorum CIP 105476	existing_db
+NC_007984	GCF_000013185.1	186490	57	Baumannia cicadellinicola str. Hc (Homalodisca coagulata)	downloaded_new
+NC_005363	GCF_000196175.1	959	58	Bdellovibrio bacteriovorus HD100	existing_db
+NC_010581	GCF_000019845.1	533	696	Beijerinckia indica subsp. indica ATCC 9039	existing_db
+NC_010645	GCF_000070465.1	521	697	Bordetella avium 197N	existing_db
+NC_002927	GCF_000195675.1	518	61	Bordetella bronchiseptica RB50	existing_db
+NC_002928	GCF_000195695.1	519	62	Bordetella parapertussis 12822	existing_db
+NC_002929	GCF_000195715.1	520	63	Bordetella pertussis Tohama I	existing_db
+NC_010170	GCF_000067205.1	94624	631	Bordetella petrii	existing_db
+NC_004463	GCF_000011365.1	1355477	69	Bradyrhizobium japonicum USDA 110	existing_db
+NC_009485	GCF_000015165.1	288000	67	Bradyrhizobium sp. BTAi1	existing_db
+NC_009445	GCF_000026145.1	114615	68	Bradyrhizobium sp. ORS278	existing_db
+NC_006932	GCF_000008145.1	235	70	Brucella abortus biovar 1 str. 9-941	existing_db
+NC_006933	GCF_000008145.1	235	70	Brucella abortus biovar 1 str. 9-941	existing_db
+NC_010740	GCF_000018725.1	235	698	Brucella abortus S19	existing_db
+NC_010742	GCF_000018725.1	235	698	Brucella abortus S19	existing_db
+NC_010103	GCF_000018525.1	36855	604	Brucella canis ATCC 23365	existing_db
+NC_010104	GCF_000018525.1	36855	604	Brucella canis ATCC 23365	existing_db
+NC_003317	GCF_000007125.1	29459	71	Brucella melitensis 16M	existing_db
+NC_003318	GCF_000007125.1	29459	71	Brucella melitensis 16M	existing_db
+NC_007618	GCF_000054005.1	235	72	Brucella melitensis biovar Abortus 2308	existing_db
+NC_007624	GCF_000054005.1	235	72	Brucella melitensis biovar Abortus 2308	existing_db
+NC_009504	GCF_000016845.1	236	73	Brucella ovis ATCC 25840	existing_db
+NC_009505	GCF_000016845.1	236	73	Brucella ovis ATCC 25840	existing_db
+NC_004310	GCF_000007505.1	29461	74	Brucella suis 1330	existing_db
+NC_004311	GCF_000007505.1	29461	74	Brucella suis 1330	existing_db
+NC_010167	GCF_000018905.1	29461	632	Brucella suis ATCC 23445	existing_db
+NC_010169	GCF_000018905.1	29461	632	Brucella suis ATCC 23445	existing_db
+NC_002528	GCF_000009605.1	9	78	Buchnera aphidicola str. APS (Acyrthosiphon pisum)	existing_db
+NC_004545	GCF_000007725.1	9	75	Buchnera aphidicola str. Bp (Baizongia pistaciae)	existing_db
+NC_008513	GCF_000090965.1	9	76	Buchnera aphidicola str. Cc (Cinara cedri)	existing_db
+NC_004061	GCF_000007365.1	9	77	Buchnera aphidicola str. Sg (Schizaphis graminum)	existing_db
+NC_008390	GCF_000203915.1	152480	82	Burkholderia ambifaria AMMD	existing_db
+NC_008391	GCF_000203915.1	152480	82	Burkholderia ambifaria AMMD	existing_db
+NC_008392	GCF_000203915.1	152480	82	Burkholderia ambifaria AMMD	existing_db
+NC_010551	GCF_000019925.1	152480	664	Burkholderia ambifaria MC40-6	existing_db
+NC_010552	GCF_000019925.1	152480	664	Burkholderia ambifaria MC40-6	existing_db
+NC_010557	GCF_000019925.1	152480	664	Burkholderia ambifaria MC40-6	existing_db
+NC_008060			80	Burkholderia cenocepacia AU 1054	unresolved
+NC_008061			80	Burkholderia cenocepacia AU 1054	unresolved
+NC_008062			80	Burkholderia cenocepacia AU 1054	unresolved
+NC_008542	GCF_000203955.1	95486	81	Burkholderia cenocepacia HI2424	existing_db
+NC_008543	GCF_000203955.1	95486	81	Burkholderia cenocepacia HI2424	existing_db
+NC_008544	GCF_000203955.1	95486	81	Burkholderia cenocepacia HI2424	existing_db
+NC_010508	GCF_000019505.1	2978683	665	Burkholderia cenocepacia MC0-3	existing_db
+NC_010512	GCF_000019505.1	2978683	665	Burkholderia cenocepacia MC0-3	existing_db
+NC_010515	GCF_000019505.1	2978683	665	Burkholderia cenocepacia MC0-3	existing_db
+NC_006348	GCF_000011705.1	13373	83	Burkholderia mallei ATCC 23344	existing_db
+NC_006349	GCF_000011705.1	13373	83	Burkholderia mallei ATCC 23344	existing_db
+NC_008835	GCF_000015605.1	13373	84	Burkholderia mallei NCTC 10229	existing_db
+NC_008836	GCF_000015605.1	13373	84	Burkholderia mallei NCTC 10229	existing_db
+NC_009079	GCF_000015625.1	13373	85	Burkholderia mallei NCTC 10247	existing_db
+NC_009080	GCF_000015625.1	13373	85	Burkholderia mallei NCTC 10247	existing_db
+NC_008784	GCF_000015465.1	13373	86	Burkholderia mallei SAVP1	existing_db
+NC_008785	GCF_000015465.1	13373	86	Burkholderia mallei SAVP1	existing_db
+NC_010084	GCF_000018505.1	87883	605	Burkholderia multivorans ATCC 17616	existing_db
+NC_010086	GCF_000018505.1	87883	605	Burkholderia multivorans ATCC 17616	existing_db
+NC_010087	GCF_000018505.1	87883	605	Burkholderia multivorans ATCC 17616	existing_db
+NC_010084	GCF_000018505.1	87883	758	Burkholderia multivorans ATCC 17616	existing_db
+NC_010086	GCF_000018505.1	87883	758	Burkholderia multivorans ATCC 17616	existing_db
+NC_010087	GCF_000018505.1	87883	758	Burkholderia multivorans ATCC 17616	existing_db
+NC_010622	GCF_000020045.1	148447	751	Burkholderia phymatum STM815	existing_db
+NC_010623	GCF_000020045.1	148447	751	Burkholderia phymatum STM815	existing_db
+NC_009076	GCF_000015925.1	28450	87	Burkholderia pseudomallei 1106a	existing_db
+NC_009078	GCF_000015925.1	28450	87	Burkholderia pseudomallei 1106a	existing_db
+NC_007434	GCF_000012785.1	28450	88	Burkholderia pseudomallei 1710b	existing_db
+NC_007435	GCF_000012785.1	28450	88	Burkholderia pseudomallei 1710b	existing_db
+NC_009074	GCF_000015905.1	28450	89	Burkholderia pseudomallei 668	existing_db
+NC_009075	GCF_000015905.1	28450	89	Burkholderia pseudomallei 668	existing_db
+NC_006350	GCF_000011545.1	28450	90	Burkholderia pseudomallei K96243	existing_db
+NC_006351	GCF_000011545.1	28450	90	Burkholderia pseudomallei K96243	existing_db
+NC_007509	GCF_000012945.1	482957	79	Burkholderia sp. 383	existing_db
+NC_007510	GCF_000012945.1	482957	79	Burkholderia sp. 383	existing_db
+NC_007511	GCF_000012945.1	482957	79	Burkholderia sp. 383	existing_db
+NC_007650	GCF_000012365.1	57975	91	Burkholderia thailandensis E264	existing_db
+NC_007651	GCF_000012365.1	57975	91	Burkholderia thailandensis E264	existing_db
+NC_009254	GCF_000016205.1	60552	92	Burkholderia vietnamiensis G4	downloaded_new
+NC_009255	GCF_000016205.1	60552	92	Burkholderia vietnamiensis G4	downloaded_new
+NC_009256	GCF_000016205.1	60552	92	Burkholderia vietnamiensis G4	downloaded_new
+NC_007951	GCF_000013645.1	36873	93	Burkholderia xenovorans LB400	existing_db
+NC_007952	GCF_000013645.1	36873	93	Burkholderia xenovorans LB400	existing_db
+NC_007953	GCF_000013645.1	36873	93	Burkholderia xenovorans LB400	existing_db
+NC_009802	GCF_000017725.2	199	580	Campylobacter concisus 13826	existing_db
+NC_009715	GCF_000017465.2	200	95	Campylobacter curvus 525.92	existing_db
+NC_008599	GCF_000015085.1	196	96	Campylobacter fetus subsp. fetus 82-40	existing_db
+NC_009714	GCF_000017585.1	76517	97	Campylobacter hominis ATCC BAA-381	existing_db
+NC_003912	GCF_000011865.1	197	100	Campylobacter jejuni RM1221	existing_db
+NC_009707	GCF_000017485.1	197	101	Campylobacter jejuni subsp. doylei 269.97	downloaded_new
+NC_008787	GCF_000015525.1	197	99	Campylobacter jejuni subsp. jejuni 81-176	existing_db
+NC_009839	GCF_000017905.1	197	581	Campylobacter jejuni subsp. jejuni 81116	existing_db
+NC_002163	GCF_000009085.1	197	98	Campylobacter jejuni subsp. jejuni NCTC 11168	existing_db
+NC_005061	GCF_000043285.1	203907	102	Candidatus Blochmannia floridanus	downloaded_new
+NC_007292	GCF_000011745.1	101534	103	Candidatus Blochmannia pennsylvanicus str. BPEN	existing_db
+NC_009943	GCF_000018405.1	181663	582	Candidatus Desulfococcus oleovorans Hxd3	existing_db
+NC_007205	GCF_000012345.1	198252	106	Candidatus Pelagibacter ubique HTCC1062	existing_db
+NC_008610	GCF_000015105.1	386487	107	Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica)	existing_db
+NC_009465	GCF_000010405.1	412965	108	Candidatus Vesicomyosocius okutanii HA	existing_db
+NC_002696	GCF_000006905.1	155892	110	Caulobacter crescentus CB15	existing_db
+NC_010338			653	Caulobacter sp. K31	unresolved
+NC_005085	GCF_000007705.1	536	124	Chromobacterium violaceum ATCC 12472	existing_db
+NC_007963	GCF_000055785.1	141390	125	Chromohalobacter salexigens DSM 3043	existing_db
+NC_009792	GCF_000018045.1	545	583	Citrobacter koseri ATCC BAA-895	existing_db
+NC_003910	GCF_000012325.1	28229	141	Colwellia psychrerythraea 34H	existing_db
+NC_009727	GCF_000017105.1	777	149	Coxiella burnetii Dugway 7E9-12	existing_db
+NC_010117	GCF_000018745.1	777	609	Coxiella burnetii RSA 331	existing_db
+NC_002971	GCF_000007765.2	777	148	Coxiella burnetii RSA 493	existing_db
+NC_010528	GCF_000069785.1	164546	700	Cupriavidus taiwanensis	downloaded_new
+NC_010530	GCF_000069785.1	164546	700	Cupriavidus taiwanensis	downloaded_new
+NC_007298	GCF_000012425.1	259537	153	Dechloromonas aromatica RCB	downloaded_new
+NC_010002	GCF_000018665.1	80866	610	Delftia acidovorans SPH-1	existing_db
+NC_006138	GCF_000025945.1	84980	160	Desulfotalea psychrophila LSv54	existing_db
+NC_007519	GCF_000012665.1	58180	162	Desulfovibrio desulfuricans G20	existing_db
+NC_008751	GCF_000015485.1	881	163	Desulfovibrio vulgaris subsp. vulgaris DP4	existing_db
+NC_002937	GCF_000195755.1	881	164	Desulfovibrio vulgaris subsp. vulgaris str. Hildenborough	existing_db
+NC_009446	GCF_000015345.1	870	165	Dichelobacter nodosus VCS1703A	existing_db
+NC_009952	GCF_000018145.1	215813	611	Dinoroseobacter shibae DFL 12	existing_db
+NC_007354	GCF_000012565.1	944	166	Ehrlichia canis str. Jake	existing_db
+NC_007799	GCF_000013145.1	945	167	Ehrlichia chaffeensis str. Arkansas	existing_db
+NC_006831	GCF_000050405.1	779	168	Ehrlichia ruminantium str. Gardel	existing_db
+NC_005295	GCF_000026005.1	779	169	Ehrlichia ruminantium str. Welgevonden	existing_db
+NC_006832	GCF_000050425.1	779	170	Ehrlichia ruminantium str. Welgevonden	existing_db
+NC_005295	GCF_000026005.1	779	760	Ehrlichia ruminantium str. Welgevonden	existing_db
+NC_006832	GCF_000050425.1	779	761	Ehrlichia ruminantium str. Welgevonden	existing_db
+NC_009778	GCF_000017665.1	28141	584	Enterobacter sakazakii ATCC BAA-894	existing_db
+NC_009436	GCF_000016325.1	399742	171	Enterobacter sp. 638	existing_db
+NC_004547	GCF_000011605.1	29471	173	Erwinia carotovora subsp. atroseptica SCRI1043	existing_db
+NC_010694	GCF_000026185.1	338565	762	Erwinia tasmaniensis	existing_db
+NC_007722	GCF_000013005.1	39960	174	Erythrobacter litoralis HTCC2594	existing_db
+NC_008253	GCF_000013305.1	562	175	Escherichia coli 536	existing_db
+NC_008563	GCF_000014845.1	562	176	Escherichia coli APEC O1	existing_db
+NC_010468	GCF_000019385.1	562	701	Escherichia coli ATCC 8739	existing_db
+NC_004431	GCF_000007445.1	562	177	Escherichia coli CFT073	existing_db
+NC_010473	GCF_000019425.1	562	673	Escherichia coli DH10B	existing_db
+NC_009801	GCF_000017745.1	562	585	Escherichia coli E24377A	existing_db
+NC_009800	GCF_000017765.1	562	586	Escherichia coli HS	existing_db
+NC_000913	GCF_000005845.2	562	178	Escherichia coli K12	existing_db
+NC_002655	GCF_000006665.1	562	180	Escherichia coli O157:H7 EDL933	downloaded_new
+NC_002695	GCF_000008865.2	562	179	Escherichia coli O157:H7 str. Sakai	existing_db
+NC_010498	GCF_000019645.1	562	675	Escherichia coli SECEC SMS-3-5	existing_db
+NC_000913	GCF_000005845.2	562	674	Escherichia coli str. K-12 substr. MG1655	existing_db
+NC_010473	GCF_000019425.1	562	703	Escherichia coli str. K12 substr. DH10B	existing_db
+NC_000913	GCF_000005845.2	562	702	Escherichia coli str. K12 substr. MG1655	existing_db
+NC_007946	GCF_000013265.1	562	181	Escherichia coli UTI89	existing_db
+AC_000091	GCF_000010245.1	562	182	Escherichia coli W3110	downloaded_new
+NC_010336			654	Francisella philomiragia subsp. philomiragia ATCC 25017	unresolved
+NC_007880	GCF_000009245.1	263	188	Francisella tularensis subsp. holarctica	existing_db
+NC_009749	GCF_000017785.1	263	587	Francisella tularensis subsp. holarctica FTA	existing_db
+NC_008369	GCF_000014605.1	263	189	Francisella tularensis subsp. holarctica OSU18	existing_db
+NC_010677	GCF_000018925.1	263	704	Francisella tularensis subsp. mediasiatica FSC147	downloaded_new
+NC_008601	GCF_000014645.1	263	190	Francisella tularensis subsp. novicida U112	existing_db
+NC_008245	GCF_000009325.1	263	186	Francisella tularensis subsp. tularensis FSC198	existing_db
+NC_006570	GCF_000008985.1	263	191	Francisella tularensis subsp. tularensis SCHU S4	existing_db
+NC_009257	GCF_000016105.1	263	187	Francisella tularensis subsp. tularensis WY96-3418	existing_db
+NC_010814	GCF_000020385.1	313985	753	Geobacter lovleyi SZ	existing_db
+NC_007517	GCF_000012925.1	28232	197	Geobacter metallireducens GS-15	existing_db
+NC_002939	GCF_000007985.2	35554	198	Geobacter sulfurreducens PCA	existing_db
+NC_009483	GCF_000016745.1	351604	199	Geobacter uraniumreducens Rf4	existing_db
+NC_010125	GCF_000067045.1	33996	612	Gluconacetobacter diazotrophicus PAl 5	existing_db
+NC_006677	GCF_000011685.1	442	201	Gluconobacter oxydans 621H	existing_db
+NC_008343	GCF_000014285.2	364410	203	Granulibacter bethesdensis CGDNIH1	existing_db
+NC_002940	GCF_000007945.1	730	204	Haemophilus ducreyi 35000HP	existing_db
+NC_007146	GCF_000012185.1	727	206	Haemophilus influenzae 86-028NP	existing_db
+NC_009566	GCF_000016465.1	727	207	Haemophilus influenzae PittEE	downloaded_new
+NC_009567	GCF_000016485.1	727	208	Haemophilus influenzae PittGG	downloaded_new
+NC_000907	GCF_000027305.1	727	205	Haemophilus influenzae Rd KW20	downloaded_new
+NC_008309			209	Haemophilus somnus 129PT	unresolved
+NC_010519	GCF_000019405.1	731	678	Haemophilus somnus 2336	existing_db
+NC_007645	GCF_000012985.1	158327	210	Hahella chejuensis KCTC 2396	existing_db
+NC_008789	GCF_000015585.1	1053	214	Halorhodospira halophila SL1	existing_db
+NC_008229	GCF_000009305.1	212	215	Helicobacter acinonychis str. Sheeba	existing_db
+NC_004917	GCF_000007905.1	32025	216	Helicobacter hepaticus ATCC 51449	existing_db
+NC_000915	GCF_000008525.1	210	217	Helicobacter pylori 26695	downloaded_new
+NC_008086	GCF_000013245.1	210	218	Helicobacter pylori HPAG1	existing_db
+NC_000921	GCF_000008785.1	210	219	Helicobacter pylori J99	existing_db
+NC_009138	GCF_000026125.1	204773	220	Herminiimonas arsenicoxydans	downloaded_new
+NC_008358	GCF_000013025.1	81032	222	Hyphomonas neptunium ATCC 15444	existing_db
+NC_006512	GCF_000008465.1	135577	223	Idiomarina loihiensis L2TR	existing_db
+NC_007802	GCF_000013565.1	290400	224	Jannaschia sp. CCS1	existing_db
+NC_009659	GCF_000013625.1	375286	225	Janthinobacterium sp. Marseille	downloaded_new
+NC_009648	GCF_000016305.1	573	227	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	existing_db
+NC_008011	GCF_000055945.1	29546	242	Lawsonia intracellularis PHE/MN1-00	existing_db
+NC_009494	GCF_000092545.1	446	243	Legionella pneumophila str. Corby	existing_db
+NC_006369	GCF_000048665.1	446	244	Legionella pneumophila str. Lens	existing_db
+NC_006368	GCF_000048645.1	446	245	Legionella pneumophila str. Paris	existing_db
+NC_002942	GCF_000008485.1	446	246	Legionella pneumophila subsp. pneumophila str. Philadelphia 1	existing_db
+NC_010524	GCF_000019785.1	34029	680	Leptothrix cholodnii SP-6	existing_db
+NC_008576	GCF_000014865.1	1124597	257	Magnetococcus sp. MC-1	existing_db
+NC_007626	GCF_000009985.1	84159	258	Magnetospirillum magneticum AMB-1	existing_db
+NC_006300	GCF_000007745.1	157673	259	Mannheimia succiniciproducens MBEL55E	existing_db
+NC_008347	GCF_000014745.1	74318	260	Maricaulis maris MCS10	existing_db
+NC_008740	GCF_000015365.1	2743	261	Marinobacter aquaeolei VT8	existing_db
+NC_009654			262	Marinomonas sp. MWYL1	unresolved
+NC_002678	GCF_000009625.1	2066070	265	Mesorhizobium loti MAFF303099	existing_db
+NC_008254			264	Mesorhizobium sp. BNC1	unresolved
+NC_008825	GCF_000015725.1	105560	285	Methylibium petroleiphilum PM1	existing_db
+NC_007947	GCF_000013705.1	405	286	Methylobacillus flagellatus KT	existing_db
+NC_010172	GCF_000018845.1	408	634	Methylobacterium extorquens PA1	existing_db
+NC_010505	GCF_000019725.1	31998	684	Methylobacterium radiotolerans JCM 2831	existing_db
+NC_010511	GCF_000019365.1	426117	683	Methylobacterium sp. 4-46	existing_db
+NC_002977	GCF_000008325.1	414	287	Methylococcus capsulatus str. Bath	existing_db
+NC_008095	GCF_000012685.1	34	318	Myxococcus xanthus DK 1622	existing_db
+NC_002946	GCF_000006845.1	485	321	Neisseria gonorrhoeae FA 1090	existing_db
+NC_010120	GCF_000014105.1	487	616	Neisseria meningitidis 053442	existing_db
+NC_008767	GCF_000009465.1	487	322	Neisseria meningitidis FAM18	existing_db
+NC_003112	GCF_000008805.1	487	323	Neisseria meningitidis MC58	existing_db
+NC_003116	GCF_000009105.1	487	324	Neisseria meningitidis Z2491	existing_db
+NC_007798	GCF_000013165.1	951	325	Neorickettsia sennetsu str. Miyayama	existing_db
+NC_009662	GCF_000010325.1	387092	326	Nitratiruptor sp. SB155-2	existing_db
+NC_007964	GCF_000013885.1	912	327	Nitrobacter hamburgensis X14	existing_db
+NC_007406	GCF_000012725.1	913	328	Nitrobacter winogradskyi Nb-255	existing_db
+NC_007484	GCF_000012805.1	1229	329	Nitrosococcus oceani ATCC 19707	existing_db
+NC_004757	GCF_000009145.1	915	330	Nitrosomonas europaea ATCC 19718	existing_db
+NC_008344	GCF_000014765.1	916	331	Nitrosomonas eutropha C91	existing_db
+NC_007614	GCF_000196355.1	1231	332	Nitrosospira multiformis ATCC 25196	existing_db
+NC_007794	GCF_000013325.1	48935	336	Novosphingobium aromaticivorans DSM 12444	existing_db
+NC_009667	GCF_000017405.1	529	338	Ochrobactrum anthropi ATCC 49188	existing_db
+NC_009668	GCF_000017405.1	529	338	Ochrobactrum anthropi ATCC 49188	existing_db
+NC_009488	GCF_000063545.1	784	341	Orientia tsutsugamushi Boryong	existing_db
+NC_010793	GCF_000010205.1	784	754	Orientia tsutsugamushi str. Ikeda	existing_db
+NC_008686	GCF_000203895.1	266	344	Paracoccus denitrificans PD1222	existing_db
+NC_008687	GCF_000203895.1	266	344	Paracoccus denitrificans PD1222	existing_db
+NC_009719	GCF_000017565.1	256618	345	Parvibaculum lavamentivorans DS-1	existing_db
+NC_002663	GCF_000006825.1	747	346	Pasteurella multocida subsp. multocida str. Pm70	existing_db
+NC_007498	GCF_000012885.1	19	348	Pelobacter carbinolicus DSM 2380	existing_db
+NC_008609	GCF_000015045.1	29543	349	Pelobacter propionicus DSM 2379	existing_db
+NC_006370	GCF_000196255.1	74109	352	Photobacterium profundum SS9	existing_db
+NC_006371	GCF_000196255.1	74109	352	Photobacterium profundum SS9	existing_db
+NC_005126	GCF_000196155.1	2218628	353	Photorhabdus luminescens subsp. laumondii TTO1	existing_db
+NC_008781	GCF_000015505.1	216465	357	Polaromonas naphthalenivorans CJ2	existing_db
+NC_007948	GCF_000013865.1	296591	356	Polaromonas sp. JS666	existing_db
+NC_010531			686	Polynucleobacter necessarius STIR1	unresolved
+NC_009379	GCF_000016345.1	576611	358	Polynucleobacter sp. QLW-P1DMWA-1	existing_db
+NC_008228	GCF_000014225.1	3042615	372	Pseudoalteromonas atlantica T6c	existing_db
+NC_007481	GCF_000026085.1	166935	373	Pseudoalteromonas haloplanktis TAC125	existing_db
+NC_007482	GCF_000026085.1	166935	373	Pseudoalteromonas haloplanktis TAC125	existing_db
+NC_009656	GCF_000017205.1	2994495	375	Pseudomonas aeruginosa PA7	existing_db
+NC_002516	GCF_000006765.1	287	374	Pseudomonas aeruginosa PAO1	existing_db
+NC_008463	GCF_000014625.1	287	376	Pseudomonas aeruginosa UCBPP-PA14	existing_db
+NC_008027	GCF_000026105.1	312306	377	Pseudomonas entomophila L48	existing_db
+NC_004129	GCF_000012265.1	380021	378	Pseudomonas fluorescens Pf-5	existing_db
+NC_007492	GCF_000012445.1	294	379	Pseudomonas fluorescens PfO-1	existing_db
+NC_009439			380	Pseudomonas mendocina ymp	unresolved
+NC_009512			381	Pseudomonas putida F1	unresolved
+NC_010322	GCF_000019125.1	303	657	Pseudomonas putida GB-1	existing_db
+NC_002947	GCF_000007565.2	303	382	Pseudomonas putida KT2440	existing_db
+NC_010501			687	Pseudomonas putida W619	unresolved
+NC_009434	GCF_000013785.1	316	383	Pseudomonas stutzeri A1501	existing_db
+NC_005773	GCF_000012205.1	29438	384	Pseudomonas syringae pv. phaseolicola 1448A	existing_db
+NC_007005	GCF_000012245.1	317	385	Pseudomonas syringae pv. syringae B728a	existing_db
+NC_004578	GCF_000007805.1	251701	386	Pseudomonas syringae pv. tomato str. DC3000	existing_db
+NC_007204	GCF_000012305.1	334543	388	Psychrobacter arcticus 273-4	existing_db
+NC_007969	GCF_000013905.1	330922	389	Psychrobacter cryohalolentis K5	existing_db
+NC_009524			387	Psychrobacter sp. PRwf-1	unresolved
+NC_008709	GCF_000015285.1	357794	390	Psychromonas ingrahamii 37	existing_db
+NC_008313	GCF_000009285.1	106590	398	Ralstonia eutropha H16	existing_db
+NC_008314	GCF_000009285.1	106590	398	Ralstonia eutropha H16	existing_db
+NC_007347			399	Ralstonia eutropha JMP134	unresolved
+NC_007348			399	Ralstonia eutropha JMP134	unresolved
+NC_007973	GCF_000196015.1	119219	400	Ralstonia metallidurans CH34	existing_db
+NC_007974	GCF_000196015.1	119219	400	Ralstonia metallidurans CH34	existing_db
+NC_003295	GCF_000009125.1	1310165	401	Ralstonia solanacearum GMI1000	existing_db
+NC_007761	GCF_000092045.1	29449	402	Rhizobium etli CFN 42	existing_db
+NC_010994	GCF_000020265.1	29449	767	Rhizobium etli CIAT 652	downloaded_new
+NC_008380	GCF_000009265.1	3019933	403	Rhizobium leguminosarum bv. viciae 3841	existing_db
+NC_007493	GCF_000012905.2	1063	404	Rhodobacter sphaeroides 2.4.1	downloaded_new
+NC_007494	GCF_000012905.2	1063	404	Rhodobacter sphaeroides 2.4.1	downloaded_new
+NC_009428			405	Rhodobacter sphaeroides ATCC 17025	unresolved
+NC_009049	GCF_000015985.1	1063	406	Rhodobacter sphaeroides ATCC 17029	existing_db
+NC_009050	GCF_000015985.1	1063	406	Rhodobacter sphaeroides ATCC 17029	existing_db
+NC_007908	GCF_000013605.1	192843	408	Rhodoferax ferrireducens T118	existing_db
+NC_008435			409	Rhodopseudomonas palustris BisA53	unresolved
+NC_007925	GCF_000013745.1	1076	410	Rhodopseudomonas palustris BisB18	existing_db
+NC_007958	GCF_000013685.1	1076	411	Rhodopseudomonas palustris BisB5	downloaded_new
+NC_005296	GCF_000195775.1	1076	412	Rhodopseudomonas palustris CGA009	downloaded_new
+NC_007778	GCF_000013365.1	1076	413	Rhodopseudomonas palustris HaA2	existing_db
+NC_007643	GCF_000013085.1	1085	414	Rhodospirillum rubrum ATCC 11170	existing_db
+NC_009881	GCF_000018205.1	786	591	Rickettsia akari str. Hartford	existing_db
+NC_009883	GCF_000018245.1	33990	592	Rickettsia bellii OSU 85-389	existing_db
+NC_007940	GCF_000012385.1	33990	415	Rickettsia bellii RML369-C	existing_db
+NC_009879	GCF_000014345.1	788	593	Rickettsia canadensis str. McKiel	existing_db
+NC_003103	GCF_000007025.1	781	416	Rickettsia conorii str. Malish 7	existing_db
+NC_007109	GCF_000012145.1	42862	417	Rickettsia felis URRWXCal2	existing_db
+NC_009900	GCF_000016625.1	35791	594	Rickettsia massiliae MTU5	existing_db
+NC_000963	GCF_000195735.1	782	418	Rickettsia prowazekii str. Madrid E	existing_db
+NC_009882	GCF_000018225.1	783	595	Rickettsia rickettsii str. 'Sheila Smith'	existing_db
+NC_010263	GCF_000017445.4	783	639	Rickettsia rickettsii str. Iowa	existing_db
+NC_006142	GCF_000008045.1	785	419	Rickettsia typhi str. Wilmington	existing_db
+NC_008209	GCF_000014045.1	2434	421	Roseobacter denitrificans OCh 114	existing_db
+NC_007912	GCF_000013665.1	86304	423	Saccharophagus degradans 2-40	existing_db
+NC_010067	GCF_000018625.1	28901	621	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--	downloaded_new
+NC_006905	GCF_000008105.1	28901	427	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67	existing_db
+NC_006511	GCF_000011885.1	28901	428	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150	existing_db
+NC_010102	GCF_000018705.1	28901	622	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7	existing_db
+NC_003198	GCF_000195995.1	28901	429	Salmonella enterica subsp. enterica serovar Typhi str. CT18	existing_db
+NC_004631	GCF_000007545.1	28901	430	Salmonella enterica subsp. enterica serovar Typhi Ty2	existing_db
+NC_003197	GCF_000006945.2	28901	6	Salmonella typhimurium LT2	existing_db
+NC_009832			597	Serratia proteamaculans 568	unresolved
+NC_008700	GCF_000015245.1	60478	435	Shewanella amazonensis SB2B	existing_db
+NC_009052	GCF_000015845.1	62322	436	Shewanella baltica OS155	existing_db
+NC_009665	GCF_000017325.1	62322	437	Shewanella baltica OS185	existing_db
+NC_009997	GCF_000018765.1	62322	623	Shewanella baltica OS195	existing_db
+NC_007954	GCF_000013765.1	192073	438	Shewanella denitrificans OS217	existing_db
+NC_008345	GCF_000014705.1	56812	439	Shewanella frigidimarina NCIMB 400	existing_db
+NC_010334	GCF_000019185.1	271098	658	Shewanella halifaxensis HAW-EB4	existing_db
+NC_009092	GCF_000016065.1	359303	440	Shewanella loihica PV-4	existing_db
+NC_004347	GCF_000146165.2	70863	441	Shewanella oneidensis MR-1	existing_db
+NC_009901	GCF_000018285.1	70864	598	Shewanella pealeana ATCC 700345	existing_db
+NC_009438			442	Shewanella putrefaciens CN-32	unresolved
+NC_009831	GCF_000018025.1	271097	599	Shewanella sediminis HAW-EB3	existing_db
+NC_008577	GCF_000203935.1	94122	431	Shewanella sp. ANA-3	existing_db
+NC_008321	GCF_000014685.1	60480	432	Shewanella sp. MR-4	existing_db
+NC_008322			433	Shewanella sp. MR-7	unresolved
+NC_008750	GCF_000015185.1	351745	434	Shewanella sp. W3-18-1	existing_db
+NC_010506	GCF_000019525.1	60961	688	Shewanella woodyi ATCC 51908	existing_db
+NC_010658	GCF_000020185.1	621	709	Shigella boydii CDC 3083-94	existing_db
+NC_007613	GCF_000012025.1	621	443	Shigella boydii Sb227	existing_db
+NC_007606	GCF_000012005.1	622	444	Shigella dysenteriae Sd197	existing_db
+NC_004741	GCF_000007405.1	623	446	Shigella flexneri 2a str. 2457T	existing_db
+NC_004337	GCF_000006925.2	623	445	Shigella flexneri 2a str. 301	existing_db
+NC_008258	GCF_000013585.1	623	447	Shigella flexneri 5 str. 8401	existing_db
+NC_007384	GCF_000092525.1	624	448	Shigella sonnei Ss046	existing_db
+NC_003911	GCF_000011965.2	89184	450	Silicibacter pomeroyi DSS-3	existing_db
+NC_008044	GCF_000014065.1	292414	449	Silicibacter sp. TM1040	existing_db
+NC_009636	GCF_000017145.1	110321	451	Sinorhizobium medicae WSM419	existing_db
+NC_003047	GCF_000006965.1	382	452	Sinorhizobium meliloti 1021	existing_db
+NC_007712	GCF_000010085.1	63612	453	Sodalis glossinidius str. 'morsitans'	existing_db
+NC_010162	GCF_000067165.1	56	624	Sorangium cellulosum 'So ce 56'	existing_db
+NC_009511	GCF_000016765.1	160791	455	Sphingomonas wittichii RW1	downloaded_new
+NC_008048	GCF_000013985.1	117207	456	Sphingopyxis alaskensis RB2256	existing_db
+NC_010943	GCF_000072485.1	40324	768	Stenotrophomonas maltophilia K279a	existing_db
+NC_009663	GCF_000010345.1	387093	504	Sulfurovum sp. NBC37-1	existing_db
+NC_008554	GCF_000014965.1	119484	515	Syntrophobacter fumaroxidans MPOB	existing_db
+NC_007759	GCF_000013405.1	316277	517	Syntrophus aciditrophicus SB	existing_db
+NC_007404	GCF_000012745.1	36861	530	Thiobacillus denitrificans ATCC 25259	existing_db
+NC_007520			531	Thiomicrospira crunogena XCL-2	unresolved
+NC_007575	GCF_000012965.1	39766	532	Thiomicrospira denitrificans ATCC 33889	existing_db
+NC_008786	GCF_000015565.1	364317	539	Verminephrobacter eiseniae EF01-2	existing_db
+NC_002505	GCF_000006745.1	666	540	Vibrio cholerae O1 biovar eltor str. N16961	existing_db
+NC_002506	GCF_000006745.1	666	540	Vibrio cholerae O1 biovar eltor str. N16961	existing_db
+NC_009456	GCF_000016245.1	666	541	Vibrio cholerae O395	existing_db
+NC_009457	GCF_000016245.1	666	541	Vibrio cholerae O395	existing_db
+NC_006840	GCF_000011805.1	668	542	Vibrio fischeri ES114	existing_db
+NC_006841	GCF_000011805.1	668	542	Vibrio fischeri ES114	existing_db
+NC_009783	GCF_000017705.1	680	602	Vibrio harveyi ATCC BAA-1116	existing_db
+NC_009784	GCF_000017705.1	680	602	Vibrio harveyi ATCC BAA-1116	existing_db
+NC_004603	GCF_000196095.1	670	543	Vibrio parahaemolyticus RIMD 2210633	existing_db
+NC_004605	GCF_000196095.1	670	543	Vibrio parahaemolyticus RIMD 2210633	existing_db
+NC_004459	GCF_000039765.1	672	544	Vibrio vulnificus CMCP6	existing_db
+NC_004460	GCF_000039765.1	672	544	Vibrio vulnificus CMCP6	existing_db
+NC_005139	GCF_000009745.1	672	545	Vibrio vulnificus YJ016	existing_db
+NC_005140	GCF_000009745.1	672	545	Vibrio vulnificus YJ016	existing_db
+NC_004344	GCF_000008885.1	51229	546	Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis	downloaded_new
+NC_002978	GCF_000008025.1	163164	548	Wolbachia endosymbiont of Drosophila melanogaster	existing_db
+NC_006833	GCF_000008385.1	80849	547	Wolbachia endosymbiont strain TRS of Brugia malayi	existing_db
+NC_010981	GCF_000073005.1	263437	771	Wolbachia pipientis	downloaded_new
+NC_005090	GCF_000196135.1	844	549	Wolinella succinogenes DSM 1740	existing_db
+NC_009720	GCF_000017645.1	78245	550	Xanthobacter autotrophicus Py2	downloaded_new
+NC_003919	GCF_000007165.1	346	554	Xanthomonas axonopodis pv. citri str. 306	existing_db
+NC_007086	GCF_000012105.1	339	552	Xanthomonas campestris pv. campestris str. 8004	existing_db
+NC_003902	GCF_000007145.1	339	551	Xanthomonas campestris pv. campestris str. ATCC 33913	existing_db
+NC_007508	GCF_000009165.1	456327	553	Xanthomonas campestris pv. vesicatoria str. 85-10	existing_db
+NC_006834	GCF_000007385.1	347	555	Xanthomonas oryzae pv. oryzae KACC10331	downloaded_new
+NC_007705	GCF_000010025.1	347	556	Xanthomonas oryzae pv. oryzae MAFF 311018	existing_db
+NC_002488	GCF_000006725.1	2371	557	Xylella fastidiosa 9a5c	existing_db
+NC_010513	GCF_000019325.1	2371	693	Xylella fastidiosa M12	existing_db
+NC_010577	GCF_000019765.1	2371	712	Xylella fastidiosa M23	existing_db
+NC_004556	GCF_000007245.1	2371	558	Xylella fastidiosa Temecula1	existing_db
+NC_008800	GCF_000009345.1	630	559	Yersinia enterocolitica subsp. enterocolitica 8081	existing_db
+NC_010159	GCF_000018805.1	632	627	Yersinia pestis Angola	existing_db
+NC_008150	GCF_000013825.1	632	560	Yersinia pestis Antiqua	existing_db
+NC_005810	GCF_000007885.1	632	565	Yersinia pestis biovar Microtus str. 91001	existing_db
+NC_003143	GCF_000009065.1	632	561	Yersinia pestis CO92	existing_db
+NC_004088	GCF_000006645.1	632	562	Yersinia pestis KIM	existing_db
+NC_008149	GCF_000013805.1	632	563	Yersinia pestis Nepal516	existing_db
+NC_009381	GCF_000016445.1	632	564	Yersinia pestis Pestoides F	existing_db
+NC_009708	GCF_000016945.1	633	567	Yersinia pseudotuberculosis IP 31758	existing_db
+NC_006155	GCF_000047365.1	633	566	Yersinia pseudotuberculosis IP 32953	existing_db
+NC_010465			694	Yersinia pseudotuberculosis YPIII	unresolved
+NC_006526	GCF_000007105.1	542	568	Zymomonas mobilis subsp. mobilis ZM4	existing_db
+NC_008277	GCF_000165595.1	29518	64	Borrelia afzelii PKo	downloaded_new
+NC_001318	GCF_000008685.1	139	65	Borrelia burgdorferi B31	downloaded_new
+NC_006156	GCF_000196215.1	664662	66	Borrelia garinii PBi	existing_db
+NC_010842	GCF_000017605.1	172	764	Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)'	existing_db
+NC_010845	GCF_000017605.1	172	764	Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)'	existing_db
+NC_010602	GCF_000017685.1	172	706	Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)'	existing_db
+NC_008510	GCF_000013965.1	174	248	Leptospira borgpetersenii serovar Hardjo-bovis JB197	existing_db
+NC_008511	GCF_000013965.1	174	248	Leptospira borgpetersenii serovar Hardjo-bovis JB197	existing_db
+NC_008508	GCF_000013945.1	174	249	Leptospira borgpetersenii serovar Hardjo-bovis L550	existing_db
+NC_008509	GCF_000013945.1	174	249	Leptospira borgpetersenii serovar Hardjo-bovis L550	existing_db
+NC_005823	GCF_000007685.1	173	250	Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130	existing_db
+NC_005824	GCF_000007685.1	173	250	Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130	existing_db
+NC_004342	GCF_000092565.1	173	251	Leptospira interrogans serovar Lai str. 56601	existing_db
+NC_004343	GCF_000092565.1	173	251	Leptospira interrogans serovar Lai str. 56601	existing_db
+NC_002967	GCF_000008185.1	158	533	Treponema denticola ATCC 35405	existing_db
+NC_010741	GCF_000017825.1	160	770	Treponema pallidum subsp. pallidum SS14	downloaded_new
+NC_000919	GCF_000008605.1	160	534	Treponema pallidum subsp. pallidum str. Nichols	existing_db
+NC_009718	GCF_000017545.1	2424	183	Fervidobacterium nodosum Rt17-B1	existing_db
+NC_010003	GCF_000018605.1	69499	618	Petrotoga mobilis SJ95	existing_db
+NC_009616	GCF_000016905.1	46541	524	Thermosipho melanesiensis BI429	existing_db
+NC_009828	GCF_000017865.1	177758	626	Thermotoga lettingae TMO	existing_db
+NC_000853	GCF_000008545.1	2336	526	Thermotoga maritima MSB8	existing_db
+NC_009486	GCF_000016785.1	93929	527	Thermotoga petrophila RKU-1	existing_db
+NC_010483	GCF_000019625.1	126740	755	Thermotoga sp. RQ2	existing_db
+NC_010571	GCF_000019965.1	107709	708	Opitutus terrae PB90-1	existing_db

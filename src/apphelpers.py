@@ -33,7 +33,11 @@ def process_fasta(faa: Path | str, out = "") -> Path:
                         found = True
                         break
                 if not found:
-                    outfile.write(f"{line}:g{counter}")
+                    real_header = line.strip()
+                    arr3 = real_header.split(">")
+                    fname = arr3[1]
+                    new_header = f"{fname}:g{counter}"
+                    outfile.write(f">{new_header}\n")
             else:
                 outfile.write(line.strip())
     return Path(out)
@@ -84,7 +88,6 @@ def run_diamond(query_file: Path, multifasta: Path, outfile: Path, working_dir: 
         str(multifasta),
         "--db",
         str(outfile),
-        "--verbose"
     ], check = True )
     
     header(f"Running DIAMOND with {threads} threads...")
@@ -124,7 +127,7 @@ def get_fastas(accs: list[str], genomes_dir: Path, working_dir: Path, lineages: 
                 
 def blast_single_level(query_file:Path, id_at_level: int, id_to_exclude: int| None, lineages: pd.DataFrame, level: str, t: int, program: str, threads: int, genomes_dir: Path, working_dir: Path, add_new_to_db: bool) -> int:
     exclude_col, target_col = \
-        ("species_id", "tax_id") if level == "s" else ("species_id", "genus_id") if level == "g" else \
+        ("tax_id", "species_id") if level == "s" else ("species_id", "genus_id") if level == "g" else \
         ("genus_id", "family_id") if level == "f" else ("family_id", "order_id") if level == 'o' else (None, None)
     
     if target_col is None: raise ValueError("Valid level not provided. Level should be 's', 'g', 'f', or 'o' ")
@@ -461,7 +464,7 @@ def classify_genes(
                     out[acc] = {"type": "Ambiguous1", "mode": 2}
                 else:
                     out[acc] = {"type": "Error1"}
-            elif pdt_genus_t2 <= 70 and pdt_family_t2 >= 30:
+            elif pdt_genus_t2 <= 70 and pdt_genus_t2 >= 30:
                 if pdt_family_t1 <= 30:
                     out[acc] = {"type": 0, "mode": 1}
                 elif pdt_family_t1 >= 40:

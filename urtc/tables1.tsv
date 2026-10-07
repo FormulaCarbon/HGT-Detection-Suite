@@ -1,0 +1,783 @@
+GenomeID	Division	Family	Organism	Accession	Replicon	Length
+8	Acidobacteria	Acidobacteriaceae	Acidobacteria bacterium Ellin345	NC_008009	Complete genome	5650368
+454	Acidobacteria	Solibacteraceae	Solibacter usitatus Ellin6076	NC_008536	Complete genome	9965640
+9	Actinobacteria	Acidothermaceae	Acidothermus cellulolyticus 11B	NC_008578	Complete genome	2443540
+31	Actinobacteria	Micrococcaceae	Arthrobacter aurescens TC1	NC_008711	Complete genome	4597686
+30	Actinobacteria	Micrococcaceae	Arthrobacter sp. FB24	NC_008541	"Chromosome 1, complete sequence"	4698945
+59	Actinobacteria	Bifidobacteriaceae	Bifidobacterium adolescentis ATCC 15703	NC_008618	Complete genome	2089645
+750	Actinobacteria	Bifidobacteriaceae	Bifidobacterium longum DJO10A	NC_010816	Complete genome	2375792
+60	Actinobacteria	Bifidobacteriaceae	Bifidobacterium longum NCC2705	NC_004307	Complete genome	2256640
+126	Actinobacteria	Microbacteriaceae	Clavibacter michiganensis subsp. michiganensis NCPPB 382	NC_009480	Complete genome	3297891
+668	Actinobacteria	Microbacteriaceae	Clavibacter michiganensis subsp. sepedonicus	NC_010407	Complete genome	3258645
+142	Actinobacteria	Corynebacteriaceae	Corynebacterium diphtheriae NCTC 13129	NC_002935	Complete genome	2488635
+143	Actinobacteria	Corynebacteriaceae	Corynebacterium efficiens YS-314	NC_004369	Complete genome	3147090
+144	Actinobacteria	Corynebacteriaceae	Corynebacterium glutamicum ATCC 13032	NC_006958	Complete genome	3282708
+145	Actinobacteria	Corynebacteriaceae	Corynebacterium glutamicum ATCC 13032	NC_003450	Complete genome	3309401
+146	Actinobacteria	Corynebacteriaceae	Corynebacterium glutamicum R	NC_009342	Complete genome	3314179
+147	Actinobacteria	Corynebacteriaceae	Corynebacterium jeikeium K411	NC_007164	Complete genome	2462499
+671	Actinobacteria	Corynebacteriaceae	Corynebacterium urealyticum DSM 7109	NC_010545	Complete genome	2369219
+193	Actinobacteria	Frankiaceae	Frankia alni ACN14a	NC_008278	Complete genome	7497934
+192	Actinobacteria	Frankiaceae	Frankia sp. CcI3	NC_007777	Complete genome	5433628
+588	Actinobacteria	Frankiaceae	Frankia sp. EAN1pec	NC_009921	Complete genome	8982042
+226	Actinobacteria	Kineosporiaceae	Kineococcus radiotolerans SRS30216	NC_009664	Complete genome	4761183
+247	Actinobacteria	Microbacteriaceae	Leifsonia xyli subsp. xyli str. CTCB07	NC_006087	Complete genome	2584158
+685	Actinobacteria	Mycobacteriaceae	Mycobacterium abscessus	NC_010397	"Chromosome Chromosome, complete sequence"	5067172
+292	Actinobacteria	Mycobacteriaceae	Mycobacterium avium 104	NC_008595	Complete genome	5475491
+293	Actinobacteria	Mycobacteriaceae	Mycobacterium avium subsp. paratuberculosis K-10	NC_002944	Complete genome	4829781
+294	Actinobacteria	Mycobacteriaceae	Mycobacterium bovis AF2122/97	NC_002945	Complete genome	4345492
+295	Actinobacteria	Mycobacteriaceae	Mycobacterium bovis BCG str. Pasteur 1173P2	NC_008769	Complete genome	4374522
+296	Actinobacteria	Mycobacteriaceae	Mycobacterium gilvum PYR-GCK	NC_009338	Complete genome	5619607
+297	Actinobacteria	Mycobacteriaceae	Mycobacterium leprae TN	NC_002677	Complete genome	3268203
+707	Actinobacteria	Mycobacteriaceae	Mycobacterium marinum M	NC_010612	Complete genome	6636827
+298	Actinobacteria	Mycobacteriaceae	Mycobacterium smegmatis str. MC2 155	NC_008596	Complete genome	6988209
+289	Actinobacteria	Mycobacteriaceae	Mycobacterium sp. JLS	NC_009077	Complete genome	6048425
+290	Actinobacteria	Mycobacteriaceae	Mycobacterium sp. KMS	NC_008705	Complete genome	5737227
+291	Actinobacteria	Mycobacteriaceae	Mycobacterium sp. MCS	NC_008146	Complete genome	5705448
+299	Actinobacteria	Mycobacteriaceae	Mycobacterium tuberculosis CDC1551	NC_002755	Complete genome	4403837
+300	Actinobacteria	Mycobacteriaceae	Mycobacterium tuberculosis F11	NC_009565	Complete genome	4424435
+301	Actinobacteria	Mycobacteriaceae	Mycobacterium tuberculosis H37Ra	NC_009525	Complete genome	4419977
+302	Actinobacteria	Mycobacteriaceae	Mycobacterium tuberculosis H37Rv	NC_000962	Complete genome	4411532
+303	Actinobacteria	Mycobacteriaceae	Mycobacterium ulcerans Agy99	NC_008611	Complete genome	5631606
+304	Actinobacteria	Mycobacteriaceae	Mycobacterium vanbaalenii PYR-1	NC_008726	Complete genome	6491865
+333	Actinobacteria	Nocardiaceae	Nocardia farcinica IFM 10152	NC_006361	Complete genome	6021225
+334	Actinobacteria	Nocardioidaceae	Nocardioides sp. JS614	NC_008699	Complete genome	4985871
+370	Actinobacteria	Propionibacteriaceae	Propionibacterium acnes KPA171202	NC_006085	Complete genome	2560265
+635	Actinobacteria	Micrococcaceae	Renibacterium salmoninarum ATCC 33209	NC_010168	Complete genome	3155250
+407	Actinobacteria	Nocardiaceae	Rhodococcus sp. RHA1	NC_008268	Complete genome	7804765
+422	Actinobacteria	Rubrobacteraceae	Rubrobacter xylanophilus DSM 9941	NC_008148	Complete genome	3225748
+424	Actinobacteria	Pseudonocardiaceae	Saccharopolyspora erythraea NRRL 2338	NC_009142	Complete genome	8212805
+620	Actinobacteria	Micromonosporaceae	Salinispora arenicola CNS-205	NC_009953	Complete genome	5786361
+426	Actinobacteria	Micromonosporaceae	Salinispora tropica CNB-440	NC_009380	Complete genome	5183331
+499	Actinobacteria	Streptomycetaceae	Streptomyces avermitilis MA-4680	NC_003155	Complete genome	9025608
+500	Actinobacteria	Streptomycetaceae	Streptomyces coelicolor A3(2)	NC_003888	Complete genome	8667507
+711	Actinobacteria	Streptomycetaceae	Streptomyces griseus subsp. griseus NBRC 13350	NC_010572	Complete genome	8545929
+519	Actinobacteria	Nocardiopsaceae	Thermobifida fusca YX	NC_007333	Complete genome	3642249
+537	Actinobacteria	Cellulomonadaceae	Tropheryma whipplei str. Twist	NC_004572	Complete genome	927303
+536	Actinobacteria	Cellulomonadaceae	Tropheryma whipplei TW08/27	NC_004551	Complete genome	925938
+652	Alveolata	Unknown	Cryptosporidium parvum Iowa II	NC_006980	"Chromosome 1, whole genome shotgun sequence"	875659
+652	Alveolata	Unknown	Cryptosporidium parvum Iowa II	NC_006981	"Chromosome 2, whole genome shotgun sequence"	985969
+652	Alveolata	Unknown	Cryptosporidium parvum Iowa II	NC_006982	"Chromosome 3, whole genome shotgun sequence"	1099352
+652	Alveolata	Unknown	Cryptosporidium parvum Iowa II	NC_006983	"Chromosome 4, whole genome shotgun sequence"	1104417
+652	Alveolata	Unknown	Cryptosporidium parvum Iowa II	NC_006984	"Chromosome 5, whole genome shotgun sequence"	1080900
+652	Alveolata	Unknown	Cryptosporidium parvum Iowa II	NC_006985	"Chromosome 6, whole genome shotgun sequence"	1332857
+652	Alveolata	Unknown	Cryptosporidium parvum Iowa II	NC_006986	"Chromosome 7, whole genome shotgun sequence"	1278458
+652	Alveolata	Unknown	Cryptosporidium parvum Iowa II	NC_006987	"Chromosome 8, whole genome shotgun sequence"	1344712
+28	Aquificae	Aquificaceae	Aquifex aeolicus VF5	NC_000918	Complete genome	1551335
+769	Aquificae	Hydrogenothermaceae	Sulfurihydrogenibium sp. YO3AOP1	NC_010730	Complete genome	1838442
+50	Bacteroidetes	Bacteroidaceae	Bacteroides fragilis NCTC 9343	NC_003228	Complete genome	5205140
+51	Bacteroidetes	Bacteroidaceae	Bacteroides fragilis YCH46	NC_006347	Complete genome	5277274
+52	Bacteroidetes	Bacteroidaceae	Bacteroides thetaiotaomicron VPI-5482	NC_004663	Complete genome	6260361
+53	Bacteroidetes	Bacteroidaceae	Bacteroides vulgatus ATCC 8482	NC_009614	Complete genome	5163189
+607	Bacteroidetes	Unknown	Candidatus Sulcia muelleri GWSS	NC_010118	Complete genome	245530
+152	Bacteroidetes	Flexibacteraceae	Cytophaga hutchinsonii ATCC 33406	NC_008255	Complete genome	4433218
+184	Bacteroidetes	Flavobacteriaceae	Flavobacterium johnsoniae UW101	NC_009441	Complete genome	6096872
+185	Bacteroidetes	Flavobacteriaceae	Flavobacterium psychrophilum JIP02/86	NC_009613	Complete genome	2861988
+202	Bacteroidetes	Flavobacteriaceae	Gramella forsetii KT0803	NC_008571	Complete genome	3798465
+342	Bacteroidetes	Porphyromonadaceae	Parabacteroides distasonis ATCC 8503	NC_009615	Complete genome	4811379
+766	Bacteroidetes	Porphyromonadaceae	Porphyromonas gingivalis ATCC 33277	NC_010729	Complete genome	2354886
+359	Bacteroidetes	Porphyromonadaceae	Porphyromonas gingivalis W83	NC_002950	Complete genome	2343476
+425	Bacteroidetes	Unknown	Salinibacter ruber DSM 13855	NC_007677	Complete genome	3551823
+343	Chlamydiae	Parachlamydiaceae	Candidatus Protochlamydia amoebophila UWE25	NC_005861	Complete genome	2414465
+111	Chlamydiae	Chlamydiaceae	Chlamydia muridarum Nigg	NC_002620	Complete genome	1072950
+637	Chlamydiae	Chlamydiaceae	Chlamydia trachomatis 434/Bu	NC_010287	Complete genome	1038842
+113	Chlamydiae	Chlamydiaceae	Chlamydia trachomatis A/HAR-13	NC_007429	Complete genome	1044459
+112	Chlamydiae	Chlamydiaceae	Chlamydia trachomatis D/UW-3/CX	NC_000117	Complete genome	1042519
+638	Chlamydiae	Chlamydiaceae	Chlamydia trachomatis L2b/UCH-1/proctitis	NC_010280	Complete genome	1038869
+114	Chlamydiae	Chlamydiaceae	Chlamydophila abortus S26/3	NC_004552	Complete genome	1144377
+115	Chlamydiae	Chlamydiaceae	Chlamydophila caviae GPIC	NC_003361	Complete genome	1173390
+116	Chlamydiae	Chlamydiaceae	Chlamydophila felis Fe/C-56	NC_007899	Complete genome	1166239
+117	Chlamydiae	Chlamydiaceae	Chlamydophila pneumoniae AR39	NC_002179	Complete genome	1229853
+118	Chlamydiae	Chlamydiaceae	Chlamydophila pneumoniae CWL029	NC_000922	Complete genome	1230230
+119	Chlamydiae	Chlamydiaceae	Chlamydophila pneumoniae J138	NC_002491	Complete genome	1226565
+120	Chlamydiae	Chlamydiaceae	Chlamydophila pneumoniae TW-183	NC_005043	Complete genome	1225935
+121	Chlorobi	Chlorobiaceae	Chlorobium chlorochromatii CaD3	NC_007514	Complete genome	2572079
+752	Chlorobi	Chlorobiaceae	Chlorobium phaeobacteroides BS1	NC_010831	Complete genome	2736403
+122	Chlorobi	Chlorobiaceae	Chlorobium phaeobacteroides DSM 266	NC_008639	Complete genome	3133902
+123	Chlorobi	Chlorobiaceae	Chlorobium tepidum TLS	NC_002932	Complete genome	2154946
+350	Chlorobi	Chlorobiaceae	Pelodictyon luteolum DSM 273	NC_007512	Complete genome	2364842
+371	Chlorobi	Chlorobiaceae	Prosthecochloris vibrioformis DSM 265	NC_009337	Complete genome	1966858
+633	Chloroflexi	Chloroflexaceae	Chloroflexus aurantiacus J-10-fl	NC_010175	Complete genome	5258541
+156	Chloroflexi	Unknown	Dehalococcoides ethenogenes 195	NC_002936	Complete genome	1469720
+154	Chloroflexi	Unknown	Dehalococcoides sp. BAV1	NC_009455	Complete genome	1341892
+155	Chloroflexi	Unknown	Dehalococcoides sp. CBDB1	NC_007356	Complete genome	1395502
+613	Chloroflexi	Herpetosiphonaceae	Herpetosiphon aurantiacus ATCC 23779	NC_009972	Complete genome	6346587
+596	Chloroflexi	Chloroflexaceae	Roseiflexus castenholzii DSM 13941	NC_009767	Complete genome	5723298
+420	Chloroflexi	Chloroflexaceae	Roseiflexus sp. RS-1	NC_009523	Complete genome	5801598
+18	Crenarchaeota	Desulfurococcaceae	Aeropyrum pernix K1	NC_000854	Complete genome	1669696
+759	Crenarchaeota	Thermoproteaceae	Caldivirga maquilingensis IC-167	NC_009954	Complete genome	2077567
+221	Crenarchaeota	Pyrodictiaceae	Hyperthermus butylicus DSM 5456	NC_008818	Complete genome	1667163
+589	Crenarchaeota	Desulfurococcaceae	Ignicoccus hospitalis KIN4/I	NC_009776	Complete genome	1297538
+266	Crenarchaeota	Sulfolobaceae	Metallosphaera sedula DSM 5348	NC_009440	Complete genome	2191517
+617	Crenarchaeota	Nitrosopumilaceae	Nitrosopumilus maritimus SCM1	NC_010085	Complete genome	1645259
+391	Crenarchaeota	Thermoproteaceae	Pyrobaculum aerophilum str. IM2	NC_003364	Complete genome	2222430
+392	Crenarchaeota	Thermoproteaceae	Pyrobaculum arsenaticum DSM 13514	NC_009376	Complete genome	2121076
+393	Crenarchaeota	Thermoproteaceae	Pyrobaculum calidifontis JCM 11548	NC_009073	Complete genome	2009313
+394	Crenarchaeota	Thermoproteaceae	Pyrobaculum islandicum DSM 4184	NC_008701	Complete genome	1826402
+473	Crenarchaeota	Desulfurococcaceae	Staphylothermus marinus F1	NC_009033	Complete genome	1570485
+501	Crenarchaeota	Sulfolobaceae	Sulfolobus acidocaldarius DSM 639	NC_007181	Complete genome	2225959
+502	Crenarchaeota	Sulfolobaceae	Sulfolobus solfataricus P2	NC_002754	Complete genome	2992245
+503	Crenarchaeota	Sulfolobaceae	Sulfolobus tokodaii str. 7	NC_003106	Complete genome	2694756
+521	Crenarchaeota	Thermofilaceae	Thermofilum pendens Hrk 5	NC_008698	Complete genome	1781889
+691	Crenarchaeota	Thermoproteaceae	Thermoproteus neutrophilus V24Sta	NC_010525	Complete genome	1769823
+603	Cyanobacteria	Unknown	Acaryochloris marina MBIC11017	NC_009925	Complete genome	6503724
+24	Cyanobacteria	Nostocaceae	Anabaena variabilis ATCC 29413	NC_007413	Complete genome	6365727
+672	Cyanobacteria	Unknown	Cyanothece sp. ATCC 51142	NC_010546	"Chromosome circular, complete sequence"	4934271
+672	Cyanobacteria	Unknown	Cyanothece sp. ATCC 51142	NC_010547	"Chromosome linear, complete sequence"	429701
+200	Cyanobacteria	Unknown	Gloeobacter violaceus PCC 7421	NC_005125	Complete genome	4659019
+656	Cyanobacteria	Unknown	Microcystis aeruginosa NIES-843	NC_010296	Complete genome	5842795
+765	Cyanobacteria	Nostocaceae	Nostoc punctiforme PCC 73102	NC_010628	Complete genome	8234322
+335	Cyanobacteria	Nostocaceae	Nostoc sp. PCC 7120	NC_003272	Complete genome	6413771
+360	Cyanobacteria	Prochlorococcaceae	Prochlorococcus marinus str. AS9601	NC_008816	Complete genome	1669886
+619	Cyanobacteria	Prochlorococcaceae	Prochlorococcus marinus str. MIT 9211	NC_009976	Complete genome	1688963
+590	Cyanobacteria	Prochlorococcaceae	Prochlorococcus marinus str. MIT 9215	NC_009840	Complete genome	1738790
+364	Cyanobacteria	Prochlorococcaceae	Prochlorococcus marinus str. MIT 9301	NC_009091	Complete genome	1641879
+365	Cyanobacteria	Prochlorococcaceae	Prochlorococcus marinus str. MIT 9303	NC_008820	Complete genome	2682675
+366	Cyanobacteria	Prochlorococcaceae	Prochlorococcus marinus str. MIT 9312	NC_007577	Complete genome	1709204
+363	Cyanobacteria	Prochlorococcaceae	Prochlorococcus marinus str. MIT 9313	NC_005071	Complete genome	2410873
+367	Cyanobacteria	Prochlorococcaceae	Prochlorococcus marinus str. MIT 9515	NC_008817	Complete genome	1704176
+368	Cyanobacteria	Prochlorococcaceae	Prochlorococcus marinus str. NATL1A	NC_008819	Complete genome	1864731
+369	Cyanobacteria	Prochlorococcaceae	Prochlorococcus marinus str. NATL2A	NC_007335	Complete genome	1842899
+361	Cyanobacteria	Prochlorococcaceae	Prochlorococcus marinus subsp. marinus str. CCMP1375	NC_005042	Complete genome	1751080
+362	Cyanobacteria	Prochlorococcaceae	Prochlorococcus marinus subsp. pastoris str. CCMP1986	NC_005072	Complete genome	1657990
+511	Cyanobacteria	Unknown	Synechococcus elongatus PCC 6301	NC_006576	Complete genome	2696255
+512	Cyanobacteria	Unknown	Synechococcus elongatus PCC 7942	NC_007604	Complete genome	2695903
+506	Cyanobacteria	Unknown	Synechococcus sp. CC9311	NC_008319	Complete genome	2606748
+507	Cyanobacteria	Unknown	Synechococcus sp. CC9605	NC_007516	Complete genome	2510659
+508	Cyanobacteria	Unknown	Synechococcus sp. CC9902	NC_007513	Complete genome	2234828
+151	Cyanobacteria	Unknown	Synechococcus sp. JA-2-3B'a(2-13)	NC_007776	Complete genome	3046682
+150	Cyanobacteria	Unknown	Synechococcus sp. JA-3-3Ab	NC_007775	Complete genome	2932766
+690	Cyanobacteria	Unknown	Synechococcus sp. PCC 7002	NC_010475	Complete genome	3008047
+509	Cyanobacteria	Unknown	Synechococcus sp. RCC307	NC_009482	Complete genome	2224914
+510	Cyanobacteria	Unknown	Synechococcus sp. WH 7803	NC_009481	Complete genome	2366980
+513	Cyanobacteria	Unknown	Synechococcus sp. WH 8102	NC_005070	Complete genome	2434428
+514	Cyanobacteria	Unknown	Synechocystis sp. PCC 6803	NC_000911	Complete genome	3573470
+525	Cyanobacteria	Unknown	Thermosynechococcus elongatus BP-1	NC_004113	Complete genome	2593857
+535	Cyanobacteria	Unknown	Trichodesmium erythraeum IMS101	NC_008312	Complete genome	7750108
+157	Deinococcus-Thermus	Deinococcaceae	Deinococcus geothermalis DSM 11300	NC_008025	Complete genome	2467205
+158	Deinococcus-Thermus	Deinococcaceae	Deinococcus radiodurans R1	NC_001263	"Chromosome 1, complete sequence"	2648638
+158	Deinococcus-Thermus	Deinococcaceae	Deinococcus radiodurans R1	NC_001264	"Chromosome 2, complete sequence"	412348
+528	Deinococcus-Thermus	Thermaceae	Thermus thermophilus HB27	NC_005835	Complete genome	1894877
+529	Deinococcus-Thermus	Thermaceae	Thermus thermophilus HB8	NC_006461	Complete genome	1849742
+29	Euryarchaeota	Archaeoglobaceae	Archaeoglobus fulgidus DSM 4304	NC_000917	Complete genome	2178400
+105	Euryarchaeota	Unknown	Candidatus Methanoregula boonei 6A8	NC_009712	Complete genome	2542943
+211	Euryarchaeota	Halobacteriaceae	Haloarcula marismortui ATCC 43049	NC_006396	"Chromosome I, complete sequence"	3131724
+211	Euryarchaeota	Halobacteriaceae	Haloarcula marismortui ATCC 43049	NC_006397	"Chromosome II, complete sequence"	288050
+679	Euryarchaeota	Halobacteriaceae	Halobacterium salinarum R1	NC_010364	Complete genome	2000962
+212	Euryarchaeota	Halobacteriaceae	Halobacterium sp. NRC-1	NC_002607	Complete genome	2014239
+213	Euryarchaeota	Halobacteriaceae	Haloquadratum walsbyi DSM 16790	NC_008212	Complete genome	3132494
+268	Euryarchaeota	Methanobacteriaceae	Methanobrevibacter smithii ATCC 35061	NC_009515	Complete genome	1853160
+271	Euryarchaeota	Methanocaldococcaceae	Methanocaldococcus jannaschii DSM 2661	NC_000909	Complete genome	1664970
+269	Euryarchaeota	Methanosarcinaceae	Methanococcoides burtonii DSM 6242	NC_007955	Complete genome	2575032
+270	Euryarchaeota	Methanococcaceae	Methanococcus aeolicus Nankai-3	NC_009635	Complete genome	1569500
+272	Euryarchaeota	Methanococcaceae	Methanococcus maripaludis C5	NC_009135	Complete genome	1780761
+615	Euryarchaeota	Methanococcaceae	Methanococcus maripaludis C6	NC_009975	Complete genome	1744193
+273	Euryarchaeota	Methanococcaceae	Methanococcus maripaludis C7	NC_009637	Complete genome	1772694
+274	Euryarchaeota	Methanococcaceae	Methanococcus maripaludis S2	NC_005791	Complete genome	1661137
+275	Euryarchaeota	Methanococcaceae	Methanococcus vannielii SB	NC_009634	Complete genome	1720048
+276	Euryarchaeota	Methanocorpusculaceae	Methanocorpusculum labreanum Z	NC_008942	Complete genome	1804962
+277	Euryarchaeota	Methanomicrobiaceae	Methanoculleus marisnigri JR1	NC_009051	Complete genome	2478101
+278	Euryarchaeota	Methanopyraceae	Methanopyrus kandleri AV19	NC_003551	Complete genome	1694969
+279	Euryarchaeota	Methanosaetaceae	Methanosaeta thermophila PT	NC_008553	Complete genome	1879471
+280	Euryarchaeota	Methanosarcinaceae	Methanosarcina acetivorans C2A	NC_003552	Complete genome	5751492
+281	Euryarchaeota	Methanosarcinaceae	Methanosarcina barkeri str. Fusaro	NC_007355	"Methanosarcina barkeri str. fusaro chromosome 1, complete sequence"	4837408
+282	Euryarchaeota	Methanosarcinaceae	Methanosarcina mazei Go1	NC_003901	Complete genome	4096345
+283	Euryarchaeota	Methanobacteriaceae	Methanosphaera stadtmanae DSM 3091	NC_007681	Complete genome	1767403
+284	Euryarchaeota	Methanospirillaceae	Methanospirillum hungatei JF-1	NC_007796	Complete genome	3544738
+267	Euryarchaeota	Methanobacteriaceae	Methanothermobacter thermautotrophicus str. Delta H	NC_000916	Complete genome	1751377
+320	Euryarchaeota	Halobacteriaceae	Natronomonas pharaonis DSM 2160	NC_007426	Complete genome	2595221
+354	Euryarchaeota	Picrophilaceae	Picrophilus torridus DSM 9790	NC_005877	Complete genome	1545895
+395	Euryarchaeota	Thermococcaceae	Pyrococcus abyssi GE5	NC_000868	Complete genome	1765118
+396	Euryarchaeota	Thermococcaceae	Pyrococcus furiosus DSM 3638	NC_003413	Complete genome	1908256
+397	Euryarchaeota	Thermococcaceae	Pyrococcus horikoshii OT3	NC_000961	Complete genome	1738505
+520	Euryarchaeota	Thermococcaceae	Thermococcus kodakarensis KOD1	NC_006624	Complete genome	2088737
+522	Euryarchaeota	Thermoplasmataceae	Thermoplasma acidophilum DSM 1728	NC_002578	Complete genome	1564906
+523	Euryarchaeota	Thermoplasmataceae	Thermoplasma volcanium GSS1	NC_002689	Complete genome	1584804
+569	Euryarchaeota	Unknown	uncultured methanogenic archaeon RC-I	NC_009464	Complete genome	3179916
+661	Firmicutes	Acholeplasmataceae	Acholeplasma laidlawii PG-8A	NC_010163	Complete genome	1496992
+23	Firmicutes	Clostridiaceae	Alkaliphilus metalliredigens QYMF	NC_009633	Complete genome	4929566
+576	Firmicutes	Clostridiaceae	Alkaliphilus oremlandii OhILAs	NC_009922	Complete genome	3123558
+32	Firmicutes	Acholeplasmataceae	Aster yellows witches'-broom phytoplasma AYWB	NC_007716	Complete genome	706569
+35	Firmicutes	Bacillaceae	Bacillus amyloliquefaciens FZB42	NC_009725	Complete genome	3918589
+37	Firmicutes	Bacillaceae	Bacillus anthracis str. 'Ames Ancestor'	NC_007530	Complete genome	5227419
+36	Firmicutes	Bacillaceae	Bacillus anthracis str. Ames	NC_003997	Complete genome	5227293
+38	Firmicutes	Bacillaceae	Bacillus anthracis str. Sterne	NC_005945	Complete genome	5228663
+40	Firmicutes	Bacillaceae	Bacillus cereus ATCC 10987	NC_003909	Complete genome	5224283
+39	Firmicutes	Bacillaceae	Bacillus cereus ATCC 14579	NC_004722	Complete genome	5411809
+41	Firmicutes	Bacillaceae	Bacillus cereus E33L	NC_006274	Complete genome	5300915
+42	Firmicutes	Bacillaceae	Bacillus cereus subsp. cytotoxis NVH 391-98	NC_009674	Complete genome	4087024
+43	Firmicutes	Bacillaceae	Bacillus clausii KSM-K16	NC_006582	Complete genome	4303871
+44	Firmicutes	Bacillaceae	Bacillus halodurans C-125	NC_002570	Complete genome	4202352
+45	Firmicutes	Bacillaceae	Bacillus licheniformis ATCC 14580	NC_006270	Complete genome	4222334
+46	Firmicutes	Bacillaceae	Bacillus licheniformis ATCC 14580	NC_006322	Complete genome	4222645
+579	Firmicutes	Bacillaceae	Bacillus pumilus SAFR-032	NC_009848	Complete genome	3704465
+47	Firmicutes	Bacillaceae	Bacillus subtilis subsp. subtilis str. 168	NC_000964	Complete genome	4214630
+49	Firmicutes	Bacillaceae	Bacillus thuringiensis serovar konkukian str. 97-27	NC_005957	Complete genome	5237682
+48	Firmicutes	Bacillaceae	Bacillus thuringiensis str. Al Hakam	NC_008600	Complete genome	5257091
+629	Firmicutes	Bacillaceae	Bacillus weihenstephanensis KBAB4	NC_010184	Complete genome	5262775
+94	Firmicutes	Syntrophomonadaceae	Caldicellulosiruptor saccharolyticus DSM 8903	NC_009437	Complete genome	2970275
+666	Firmicutes	Peptococcaceae	Candidatus Desulforudis audaxviator MP104C	NC_010424	Complete genome	2349476
+109	Firmicutes	Peptococcaceae	Carboxydothermus hydrogenoformans Z-2901	NC_007503	Complete genome	2401520
+127	Firmicutes	Clostridiaceae	Clostridium acetobutylicum ATCC 824	NC_003030	Complete genome	3940880
+128	Firmicutes	Clostridiaceae	Clostridium beijerinckii NCIMB 8052	NC_009617	Complete genome	6000632
+130	Firmicutes	Clostridiaceae	Clostridium botulinum A str. ATCC 19397	NC_009697	Complete genome	3863450
+129	Firmicutes	Clostridiaceae	Clostridium botulinum A str. ATCC 3502	NC_009495	Complete genome	3886916
+131	Firmicutes	Clostridiaceae	Clostridium botulinum A str. Hall	NC_009698	Complete genome	3760560
+669	Firmicutes	Clostridiaceae	Clostridium botulinum A3 str. Loch Maree	NC_010520	Complete genome	3992906
+699	Firmicutes	Clostridiaceae	Clostridium botulinum B str. Eklund 17B	NC_010674	Complete genome	3800327
+670	Firmicutes	Clostridiaceae	Clostridium botulinum B1 str. Okra	NC_010516	Complete genome	3958233
+132	Firmicutes	Clostridiaceae	Clostridium botulinum F str. Langeland	NC_009699	Complete genome	3995387
+133	Firmicutes	Clostridiaceae	Clostridium difficile 630	NC_009089	Complete genome	4290252
+134	Firmicutes	Clostridiaceae	Clostridium kluyveri DSM 555	NC_009706	Complete genome	3964618
+135	Firmicutes	Clostridiaceae	Clostridium novyi NT	NC_008593	Complete genome	2547720
+137	Firmicutes	Clostridiaceae	Clostridium perfringens ATCC 13124	NC_008261	Complete genome	3256683
+138	Firmicutes	Clostridiaceae	Clostridium perfringens phage phiSM101	NC_008262	Complete genome	2897393
+136	Firmicutes	Clostridiaceae	Clostridium perfringens str. 13	NC_003366	Complete genome	3031430
+608	Firmicutes	Clostridiaceae	Clostridium phytofermentans ISDg	NC_010001	Complete genome	4847594
+139	Firmicutes	Clostridiaceae	Clostridium tetani E88	NC_004557	Complete genome	2799251
+140	Firmicutes	Clostridiaceae	Clostridium thermocellum ATCC 27405	NC_009012	Complete genome	3843301
+159	Firmicutes	Peptococcaceae	Desulfitobacterium hafniense Y51	NC_007907	Complete genome	5727534
+161	Firmicutes	Peptococcaceae	Desulfotomaculum reducens MI-1	NC_009253	Complete genome	3608104
+172	Firmicutes	Enterococcaceae	Enterococcus faecalis V583	NC_004668	Complete genome	3218031
+676	Firmicutes	Bacillaceae	Exiguobacterium sibiricum 255-15	NC_010556	Complete genome	3034136
+677	Firmicutes	Peptostreptococcaceae	Finegoldia magna ATCC 29328	NC_010376	Complete genome	1797577
+195	Firmicutes	Bacillaceae	Geobacillus kaustophilus HTA426	NC_006510	Complete genome	3544776
+196	Firmicutes	Bacillaceae	Geobacillus thermodenitrificans NG80-2	NC_009328	Complete genome	3550319
+655	Firmicutes	Heliobacteriaceae	Heliobacterium modesticaldum Ice1	NC_010337	Complete genome	3075407
+228	Firmicutes	Lactobacillaceae	Lactobacillus acidophilus NCFM	NC_006814	Complete genome	1993561
+229	Firmicutes	Lactobacillaceae	Lactobacillus brevis ATCC 367	NC_008497	Complete genome	2291220
+230	Firmicutes	Lactobacillaceae	Lactobacillus casei ATCC 334	NC_008526	Complete genome	2895264
+231	Firmicutes	Lactobacillaceae	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842	NC_008054	Complete genome	1864998
+232	Firmicutes	Lactobacillaceae	Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365	NC_008529	Complete genome	1856951
+705	Firmicutes	Lactobacillaceae	Lactobacillus fermentum IFO 3956	NC_010610	Complete genome	2098685
+233	Firmicutes	Lactobacillaceae	Lactobacillus gasseri ATCC 33323	NC_008530	Complete genome	1894360
+614	Firmicutes	Lactobacillaceae	Lactobacillus helveticus DPC 4571	NC_010080	Complete genome	2080931
+234	Firmicutes	Lactobacillaceae	Lactobacillus johnsonii NCC 533	NC_005362	Complete genome	1992676
+235	Firmicutes	Lactobacillaceae	Lactobacillus plantarum WCFS1	NC_004567	Complete genome	3308274
+236	Firmicutes	Lactobacillaceae	Lactobacillus reuteri F275	NC_009513	Complete genome	1999618
+763	Firmicutes	Lactobacillaceae	Lactobacillus reuteri F275	NC_009513	Complete genome	1999618
+237	Firmicutes	Lactobacillaceae	Lactobacillus sakei subsp. sakei 23K	NC_007576	Complete genome	1884661
+238	Firmicutes	Lactobacillaceae	Lactobacillus salivarius subsp. salivarius UCC118	NC_007929	Complete genome	1827111
+240	Firmicutes	Streptococcaceae	Lactococcus lactis subsp. cremoris MG1363	NC_009004	Complete genome	2529478
+241	Firmicutes	Streptococcaceae	Lactococcus lactis subsp. cremoris SK11	NC_008527	Complete genome	2438589
+239	Firmicutes	Streptococcaceae	Lactococcus lactis subsp. lactis Il1403	NC_002662	Complete genome	2365589
+681	Firmicutes	Unknown	Leuconostoc citreum KM20	NC_010471	Complete genome	1796284
+252	Firmicutes	Unknown	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293	NC_008531	Complete genome	2038396
+253	Firmicutes	Listeriaceae	Listeria innocua Clip11262	NC_003212	Complete genome	3011208
+254	Firmicutes	Listeriaceae	Listeria monocytogenes EGD-e	NC_003210	Complete genome	2944528
+255	Firmicutes	Listeriaceae	Listeria monocytogenes str. 4b F2365	NC_002973	Complete genome	2905187
+256	Firmicutes	Listeriaceae	Listeria welshimeri serovar 6b str. SLCC5334	NC_008555	Complete genome	2814130
+682	Firmicutes	Bacillaceae	Lysinibacillus sphaericus C3-41	NC_010382	Complete genome	4639821
+263	Firmicutes	Entomoplasmataceae	Mesoplasma florum L1	NC_006055	Complete genome	793224
+288	Firmicutes	Thermoanaerobacteriaceae	Moorella thermoacetica ATCC 39073	NC_007644	Complete genome	2628784
+305	Firmicutes	Mycoplasmataceae	Mycoplasma agalactiae PG2	NC_009497	Complete genome	877438
+306	Firmicutes	Mycoplasmataceae	Mycoplasma capricolum subsp. capricolum ATCC 27343	NC_007633	Complete genome	1010023
+307	Firmicutes	Mycoplasmataceae	Mycoplasma gallisepticum R	NC_004829	Complete genome	996422
+308	Firmicutes	Mycoplasmataceae	Mycoplasma genitalium G37	NC_000908	Complete genome	580076
+309	Firmicutes	Mycoplasmataceae	Mycoplasma hyopneumoniae 232	NC_006360	Complete genome	892758
+310	Firmicutes	Mycoplasmataceae	Mycoplasma hyopneumoniae 7448	NC_007332	Complete genome	920079
+311	Firmicutes	Mycoplasmataceae	Mycoplasma hyopneumoniae J	NC_007295	Complete genome	897405
+312	Firmicutes	Mycoplasmataceae	Mycoplasma mobile 163K	NC_006908	Complete genome	777079
+313	Firmicutes	Mycoplasmataceae	Mycoplasma mycoides subsp. mycoides SC str. PG1	NC_005364	Complete genome	1211703
+314	Firmicutes	Mycoplasmataceae	Mycoplasma penetrans HF-2	NC_004432	Complete genome	1358633
+315	Firmicutes	Mycoplasmataceae	Mycoplasma pneumoniae M129	NC_000912	Complete genome	816394
+316	Firmicutes	Mycoplasmataceae	Mycoplasma pulmonis UAB CTIP	NC_002771	Complete genome	963879
+317	Firmicutes	Mycoplasmataceae	Mycoplasma synoviae 53	NC_007294	Complete genome	799476
+337	Firmicutes	Bacillaceae	Oceanobacillus iheyensis HTE831	NC_004193	Complete genome	3630528
+339	Firmicutes	Unknown	Oenococcus oeni PSU-1	NC_008528	Complete genome	1780517
+340	Firmicutes	Acholeplasmataceae	Onion yellows phytoplasma OY-M	NC_005303	Complete genome	860631
+347	Firmicutes	Lactobacillaceae	Pediococcus pentosaceus ATCC 25745	NC_008525	Complete genome	1832387
+351	Firmicutes	Peptococcaceae	Pelotomaculum thermopropionicum SI	NC_009454	Complete genome	3025375
+465	Firmicutes	Unknown	Staphylococcus aureus RF122	NC_007622	Complete genome	2742531
+457	Firmicutes	Unknown	Staphylococcus aureus subsp. aureus COL	NC_002951	Complete genome	2809422
+458	Firmicutes	Unknown	Staphylococcus aureus subsp. aureus JH1	NC_009632	Complete genome	2906507
+459	Firmicutes	Unknown	Staphylococcus aureus subsp. aureus JH9	NC_009487	Complete genome	2906700
+467	Firmicutes	Unknown	Staphylococcus aureus subsp. aureus MRSA252	NC_002952	Complete genome	2902619
+468	Firmicutes	Unknown	Staphylococcus aureus subsp. aureus MSSA476	NC_002953	Complete genome	2799802
+600	Firmicutes	Unknown	Staphylococcus aureus subsp. aureus Mu3	NC_009782	Complete genome	2880168
+461	Firmicutes	Unknown	Staphylococcus aureus subsp. aureus Mu50	NC_002758	Complete genome	2878529
+460	Firmicutes	Unknown	Staphylococcus aureus subsp. aureus MW2	NC_003923	Complete genome	2820462
+462	Firmicutes	Unknown	Staphylococcus aureus subsp. aureus N315	NC_002745	Complete genome	2814816
+463	Firmicutes	Unknown	Staphylococcus aureus subsp. aureus NCTC 8325	NC_007795	Complete genome	2821361
+464	Firmicutes	Unknown	Staphylococcus aureus subsp. aureus str. Newman	NC_009641	Complete genome	2878897
+466	Firmicutes	Unknown	Staphylococcus aureus subsp. aureus USA300	NC_007793	Complete genome	2872769
+625	Firmicutes	Unknown	Staphylococcus aureus subsp. aureus USA300_TCH1516	NC_010079	Complete genome	2872915
+469	Firmicutes	Unknown	Staphylococcus epidermidis ATCC 12228	NC_004461	Complete genome	2499279
+470	Firmicutes	Unknown	Staphylococcus epidermidis RP62A	NC_002976	Complete genome	2616530
+471	Firmicutes	Unknown	Staphylococcus haemolyticus JCSC1435	NC_007168	Complete genome	2685015
+472	Firmicutes	Unknown	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305	NC_007350	Complete genome	2516575
+474	Firmicutes	Streptococcaceae	Streptococcus agalactiae 2603V/R	NC_004116	Complete genome	2160267
+475	Firmicutes	Streptococcaceae	Streptococcus agalactiae A909	NC_007432	Complete genome	2127839
+476	Firmicutes	Streptococcaceae	Streptococcus agalactiae NEM316	NC_004368	Complete genome	2211485
+601	Firmicutes	Streptococcaceae	Streptococcus gordonii str. Challis substr. CH1	NC_009785	Complete genome	2196662
+477	Firmicutes	Streptococcaceae	Streptococcus mutans UA159	NC_004350	Complete genome	2030921
+710	Firmicutes	Streptococcaceae	Streptococcus pneumoniae CGSP14	NC_010582	Complete genome	2209198
+478	Firmicutes	Streptococcaceae	Streptococcus pneumoniae D39	NC_008533	Complete genome	2046115
+689	Firmicutes	Streptococcaceae	Streptococcus pneumoniae Hungary19A-6	NC_010380	Complete genome	2245615
+479	Firmicutes	Streptococcaceae	Streptococcus pneumoniae R6	NC_003098	Complete genome	2038615
+480	Firmicutes	Streptococcaceae	Streptococcus pneumoniae TIGR4	NC_003028	Complete genome	2160842
+481	Firmicutes	Streptococcaceae	Streptococcus pyogenes M1 GAS	NC_002737	Complete genome	1852441
+482	Firmicutes	Streptococcaceae	Streptococcus pyogenes MGAS10270	NC_008022	Complete genome	1928252
+483	Firmicutes	Streptococcaceae	Streptococcus pyogenes MGAS10394	NC_006086	Complete genome	1899877
+484	Firmicutes	Streptococcaceae	Streptococcus pyogenes MGAS10750	NC_008024	Complete genome	1937111
+485	Firmicutes	Streptococcaceae	Streptococcus pyogenes MGAS2096	NC_008023	Complete genome	1860355
+486	Firmicutes	Streptococcaceae	Streptococcus pyogenes MGAS315	NC_004070	Complete genome	1900521
+487	Firmicutes	Streptococcaceae	Streptococcus pyogenes MGAS5005	NC_007297	Complete genome	1838554
+488	Firmicutes	Streptococcaceae	Streptococcus pyogenes MGAS6180	NC_007296	Complete genome	1897573
+489	Firmicutes	Streptococcaceae	Streptococcus pyogenes MGAS8232	NC_003485	Complete genome	1895017
+490	Firmicutes	Streptococcaceae	Streptococcus pyogenes MGAS9429	NC_008021	Complete genome	1836467
+492	Firmicutes	Streptococcaceae	Streptococcus pyogenes SSI-1	NC_004606	Complete genome	1894275
+491	Firmicutes	Streptococcaceae	Streptococcus pyogenes str. Manfredo	NC_009332	Complete genome	1841271
+493	Firmicutes	Streptococcaceae	Streptococcus sanguinis SK36	NC_009009	Complete genome	2388435
+494	Firmicutes	Streptococcaceae	Streptococcus suis 05ZYH33	NC_009442	Complete genome	2096309
+495	Firmicutes	Streptococcaceae	Streptococcus suis 98HAH33	NC_009443	Complete genome	2095698
+496	Firmicutes	Streptococcaceae	Streptococcus thermophilus CNRZ1066	NC_006449	Complete genome	1796226
+497	Firmicutes	Streptococcaceae	Streptococcus thermophilus LMD-9	NC_008532	Complete genome	1856368
+498	Firmicutes	Streptococcaceae	Streptococcus thermophilus LMG 18311	NC_006448	Complete genome	1796846
+505	Firmicutes	Unknown	Symbiobacterium thermophilum IAM 14863	NC_006177	Complete genome	3566135
+516	Firmicutes	Syntrophomonadaceae	Syntrophomonas wolfei subsp. wolfei str. Goettingen	NC_008346	Complete genome	2936195
+660	Firmicutes	Thermoanaerobacteriaceae	Thermoanaerobacter pseudethanolicus ATCC 33223	NC_010321	Complete genome	2362816
+659	Firmicutes	Thermoanaerobacteriaceae	Thermoanaerobacter sp. X514	NC_010320	Complete genome	2457259
+518	Firmicutes	Thermoanaerobacteriaceae	Thermoanaerobacter tengcongensis MB4	NC_003869	Complete genome	2689445
+692	Firmicutes	Mycoplasmataceae	Ureaplasma parvum serovar 3 str. ATCC 27815	NC_010503	Complete genome	751679
+538	Firmicutes	Mycoplasmataceae	Ureaplasma parvum serovar 3 str. ATCC 700970	NC_002162	Complete genome	751719
+194	Fusobacteria	Fusobacteriaceae	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	NC_003454	Complete genome	2174500
+667	Korarchaeota	Unknown	Candidatus Korarchaeum cryptofilum OPF8	NC_010482	Complete genome	1590757
+319	Nanoarchaeota	Unknown	Nanoarchaeum equitans Kin4-M	NC_005213	Complete genome	490885
+355	Planctomycetes	Planctomycetaceae	Rhodopirellula baltica SH 1	NC_005027	Complete genome	7145576
+7	Proteobacteria	Acetobacteraceae	Acidiphilium cryptum JF-5	NC_009484	Complete genome	3389227
+11	Proteobacteria	Comamonadaceae	Acidovorax avenae subsp. citrulli AAC00-1	NC_008752	Complete genome	5352772
+10	Proteobacteria	Comamonadaceae	Acidovorax sp. JS42	NC_008782	Complete genome	4448856
+756	Proteobacteria	Moraxellaceae	Acinetobacter baumannii ACICU	NC_010611	Complete genome	3904116
+12	Proteobacteria	Moraxellaceae	Acinetobacter baumannii ATCC 17978	NC_009085	Complete genome	3976747
+662	Proteobacteria	Moraxellaceae	Acinetobacter baumannii AYE	NC_010410	Complete genome	3936291
+695	Proteobacteria	Moraxellaceae	Acinetobacter baumannii AYE	NC_010410	Complete genome	3936291
+663	Proteobacteria	Moraxellaceae	Acinetobacter baumannii SDF	NC_010400	"Acinetobacter baumannii, complete genome"	3421954
+13	Proteobacteria	Moraxellaceae	Acinetobacter sp. ADP1	NC_005966	Complete genome	3598621
+14	Proteobacteria	Pasteurellaceae	Actinobacillus pleuropneumoniae L20	NC_009053	Complete genome	2274482
+636	Proteobacteria	Pasteurellaceae	Actinobacillus pleuropneumoniae serovar 3 str. JL03	NC_010278	Complete genome	2242062
+757	Proteobacteria	Pasteurellaceae	Actinobacillus pleuropneumoniae serovar 7 str. AP76	NC_010939	Complete genome	2331981
+15	Proteobacteria	Pasteurellaceae	Actinobacillus succinogenes 130Z	NC_009655	Complete genome	2319663
+16	Proteobacteria	Aeromonadaceae	Aeromonas hydrophila subsp. hydrophila ATCC 7966	NC_008570	Complete genome	4744448
+17	Proteobacteria	Aeromonadaceae	Aeromonas salmonicida subsp. salmonicida A449	NC_009348	Complete genome	4702402
+19	Proteobacteria	Rhizobiaceae	Agrobacterium tumefaciens str. C58	NC_003062	"Chromosome circular, complete sequence"	2841581
+19	Proteobacteria	Rhizobiaceae	Agrobacterium tumefaciens str. C58	NC_003063	"Chromosome linear, complete sequence"	2074782
+20	Proteobacteria	Rhizobiaceae	Agrobacterium tumefaciens str. C58	NC_003304	"Chromosome circular, complete sequence"	2841490
+20	Proteobacteria	Rhizobiaceae	Agrobacterium tumefaciens str. C58	NC_003305	"Chromosome linear, complete sequence"	2075560
+21	Proteobacteria	Alcanivoracaceae	Alcanivorax borkumensis SK2	NC_008260	Complete genome	3120143
+22	Proteobacteria	Ectothiorhodospiraceae	Alkalilimnicola ehrlichei MLHE-1	NC_008340	Complete genome	3275944
+26	Proteobacteria	Myxococcaceae	Anaeromyxobacter dehalogenans 2CP-C	NC_007760	Complete genome	5013479
+25	Proteobacteria	Myxococcaceae	Anaeromyxobacter sp. Fw109-5	NC_009675	Complete genome	5277990
+27	Proteobacteria	Anaplasmataceae	Anaplasma marginale str. St. Maries	NC_004842	Complete genome	1197687
+5	Proteobacteria	Anaplasmataceae	Anaplasma phagocytophilum HZ	NC_007797	Complete genome	1471282
+577	Proteobacteria	Campylobacteraceae	Arcobacter butzleri RM4018	NC_009850	Complete genome	2341251
+33	Proteobacteria	Rhodocyclaceae	Azoarcus sp. BH72	NC_008702	Complete genome	4376040
+34	Proteobacteria	Rhodocyclaceae	Azoarcus sp. EbN1	NC_006513	Complete genome	4296230
+578	Proteobacteria	Xanthobacteraceae	Azorhizobium caulinodans ORS 571	NC_009937	Complete genome	5369772
+54	Proteobacteria	Bartonellaceae	Bartonella bacilliformis KC583	NC_008783	Complete genome	1445021
+55	Proteobacteria	Bartonellaceae	Bartonella henselae str. Houston-1	NC_005956	Complete genome	1931047
+56	Proteobacteria	Bartonellaceae	Bartonella quintana str. Toulouse	NC_005955	Complete genome	1581384
+630	Proteobacteria	Bartonellaceae	Bartonella tribocorum CIP 105476	NC_010161	Complete genome	2619061
+57	Proteobacteria	Unknown	Baumannia cicadellinicola str. Hc (Homalodisca coagulata)	NC_007984	Complete genome	686194
+58	Proteobacteria	Bdellovibrionaceae	Bdellovibrio bacteriovorus HD100	NC_005363	Complete genome	3782950
+696	Proteobacteria	Beijerinckiaceae	Beijerinckia indica subsp. indica ATCC 9039	NC_010581	Complete genome	4170153
+697	Proteobacteria	Alcaligenaceae	Bordetella avium 197N	NC_010645	Complete genome	3732255
+61	Proteobacteria	Alcaligenaceae	Bordetella bronchiseptica RB50	NC_002927	Complete genome	5339179
+62	Proteobacteria	Alcaligenaceae	Bordetella parapertussis 12822	NC_002928	Complete genome	4773551
+63	Proteobacteria	Alcaligenaceae	Bordetella pertussis Tohama I	NC_002929	Complete genome	4086189
+631	Proteobacteria	Alcaligenaceae	Bordetella petrii	NC_010170	Complete genome	5287950
+69	Proteobacteria	Bradyrhizobiaceae	Bradyrhizobium japonicum USDA 110	NC_004463	Complete genome	9105828
+67	Proteobacteria	Bradyrhizobiaceae	Bradyrhizobium sp. BTAi1	NC_009485	Complete genome	8264687
+68	Proteobacteria	Bradyrhizobiaceae	Bradyrhizobium sp. ORS278	NC_009445	Complete genome	7456587
+70	Proteobacteria	Brucellaceae	Brucella abortus biovar 1 str. 9-941	NC_006932	"Chromosome I, complete sequence"	2124241
+70	Proteobacteria	Brucellaceae	Brucella abortus biovar 1 str. 9-941	NC_006933	"Chromosome II, complete sequence"	1162204
+698	Proteobacteria	Brucellaceae	Brucella abortus S19	NC_010740	"Chromosome 2, complete sequence"	1161449
+698	Proteobacteria	Brucellaceae	Brucella abortus S19	NC_010742	"Chromosome 1, complete sequence"	2122487
+604	Proteobacteria	Brucellaceae	Brucella canis ATCC 23365	NC_010103	"Chromosome I, complete sequence"	2105969
+604	Proteobacteria	Brucellaceae	Brucella canis ATCC 23365	NC_010104	"Chromosome II, complete sequence"	1206800
+71	Proteobacteria	Brucellaceae	Brucella melitensis 16M	NC_003317	"Chromosome I, complete sequence"	2117144
+71	Proteobacteria	Brucellaceae	Brucella melitensis 16M	NC_003318	"Chromosome II, complete sequence"	1177787
+72	Proteobacteria	Brucellaceae	Brucella melitensis biovar Abortus 2308	NC_007618	"Chromosome I, complete sequence"	2121359
+72	Proteobacteria	Brucellaceae	Brucella melitensis biovar Abortus 2308	NC_007624	"Chromosome II, complete sequence"	1156948
+73	Proteobacteria	Brucellaceae	Brucella ovis ATCC 25840	NC_009504	"Chromosome II, complete sequence"	1164220
+73	Proteobacteria	Brucellaceae	Brucella ovis ATCC 25840	NC_009505	"Chromosome I, complete sequence"	2111370
+74	Proteobacteria	Brucellaceae	Brucella suis 1330	NC_004310	"Chromosome I, complete sequence"	2107794
+74	Proteobacteria	Brucellaceae	Brucella suis 1330	NC_004311	"Chromosome II, complete sequence"	1207381
+632	Proteobacteria	Brucellaceae	Brucella suis ATCC 23445	NC_010167	"Chromosome II, complete sequence"	1400844
+632	Proteobacteria	Brucellaceae	Brucella suis ATCC 23445	NC_010169	"Chromosome I, complete sequence"	1923763
+78	Proteobacteria	Enterobacteriaceae	Buchnera aphidicola str. APS (Acyrthosiphon pisum)	NC_002528	Complete genome	640681
+75	Proteobacteria	Enterobacteriaceae	Buchnera aphidicola str. Bp (Baizongia pistaciae)	NC_004545	Complete genome	615980
+76	Proteobacteria	Enterobacteriaceae	Buchnera aphidicola str. Cc (Cinara cedri)	NC_008513	Complete genome	416380
+77	Proteobacteria	Enterobacteriaceae	Buchnera aphidicola str. Sg (Schizaphis graminum)	NC_004061	Complete genome	641454
+82	Proteobacteria	Burkholderiaceae	Burkholderia ambifaria AMMD	NC_008390	"Burkholderia cepacia AMMD chromosome 1, complete sequence"	3556545
+82	Proteobacteria	Burkholderiaceae	Burkholderia ambifaria AMMD	NC_008391	"Burkholderia cepacia AMMD chromosome 2, complete sequence"	2646969
+82	Proteobacteria	Burkholderiaceae	Burkholderia ambifaria AMMD	NC_008392	"Burkholderia cepacia AMMD chromosome 3, complete sequence"	1281472
+664	Proteobacteria	Burkholderiaceae	Burkholderia ambifaria MC40-6	NC_010551	"Chromosome 1, complete sequence"	3443583
+664	Proteobacteria	Burkholderiaceae	Burkholderia ambifaria MC40-6	NC_010552	"Chromosome 2, complete sequence"	2769414
+664	Proteobacteria	Burkholderiaceae	Burkholderia ambifaria MC40-6	NC_010557	"Chromosome 3, complete sequence"	1127947
+80	Proteobacteria	Burkholderiaceae	Burkholderia cenocepacia AU 1054	NC_008060	"Chromosome 1, complete sequence"	3294563
+80	Proteobacteria	Burkholderiaceae	Burkholderia cenocepacia AU 1054	NC_008061	"Chromosome 2, complete sequence"	2788459
+80	Proteobacteria	Burkholderiaceae	Burkholderia cenocepacia AU 1054	NC_008062	"Chromosome 3, complete sequence"	1196094
+81	Proteobacteria	Burkholderiaceae	Burkholderia cenocepacia HI2424	NC_008542	"Chromosome 1, complete sequence"	3483902
+81	Proteobacteria	Burkholderiaceae	Burkholderia cenocepacia HI2424	NC_008543	"Chromosome 2, complete sequence"	2998664
+81	Proteobacteria	Burkholderiaceae	Burkholderia cenocepacia HI2424	NC_008544	"Chromosome 3, complete sequence"	1055417
+665	Proteobacteria	Burkholderiaceae	Burkholderia cenocepacia MC0-3	NC_010508	"Chromosome 1, complete sequence"	3532883
+665	Proteobacteria	Burkholderiaceae	Burkholderia cenocepacia MC0-3	NC_010512	"Chromosome 3, complete sequence"	1224595
+665	Proteobacteria	Burkholderiaceae	Burkholderia cenocepacia MC0-3	NC_010515	"Chromosome 2, complete sequence"	3213911
+83	Proteobacteria	Burkholderiaceae	Burkholderia mallei ATCC 23344	NC_006348	"Chromosome 1, complete sequence"	3510148
+83	Proteobacteria	Burkholderiaceae	Burkholderia mallei ATCC 23344	NC_006349	"Chromosome 2, complete sequence"	2325379
+84	Proteobacteria	Burkholderiaceae	Burkholderia mallei NCTC 10229	NC_008835	"Chromosome II, complete sequence"	2284095
+84	Proteobacteria	Burkholderiaceae	Burkholderia mallei NCTC 10229	NC_008836	"Chromosome I, complete sequence"	3458208
+85	Proteobacteria	Burkholderiaceae	Burkholderia mallei NCTC 10247	NC_009079	"Chromosome II, complete sequence"	2352693
+85	Proteobacteria	Burkholderiaceae	Burkholderia mallei NCTC 10247	NC_009080	"Chromosome I, complete sequence"	3495687
+86	Proteobacteria	Burkholderiaceae	Burkholderia mallei SAVP1	NC_008784	"Chromosome II, complete sequence"	1734922
+86	Proteobacteria	Burkholderiaceae	Burkholderia mallei SAVP1	NC_008785	"Chromosome I, complete sequence"	3497479
+605	Proteobacteria	Burkholderiaceae	Burkholderia multivorans ATCC 17616	NC_010084	"Chromosome 1, complete sequence"	3448466
+605	Proteobacteria	Burkholderiaceae	Burkholderia multivorans ATCC 17616	NC_010086	"Chromosome 2, complete sequence"	2472928
+605	Proteobacteria	Burkholderiaceae	Burkholderia multivorans ATCC 17616	NC_010087	"Chromosome 3, complete sequence"	919806
+758	Proteobacteria	Burkholderiaceae	Burkholderia multivorans ATCC 17616	NC_010084	"Chromosome 1, complete sequence"	3448466
+758	Proteobacteria	Burkholderiaceae	Burkholderia multivorans ATCC 17616	NC_010086	"Chromosome 2, complete sequence"	2472928
+758	Proteobacteria	Burkholderiaceae	Burkholderia multivorans ATCC 17616	NC_010087	"Chromosome 3, complete sequence"	919806
+751	Proteobacteria	Burkholderiaceae	Burkholderia phymatum STM815	NC_010622	"Chromosome 1, complete sequence"	3479187
+751	Proteobacteria	Burkholderiaceae	Burkholderia phymatum STM815	NC_010623	"Chromosome 2, complete sequence"	2697374
+87	Proteobacteria	Burkholderiaceae	Burkholderia pseudomallei 1106a	NC_009076	"Chromosome I, complete sequence"	3988455
+87	Proteobacteria	Burkholderiaceae	Burkholderia pseudomallei 1106a	NC_009078	"Chromosome II, complete sequence"	3100794
+88	Proteobacteria	Burkholderiaceae	Burkholderia pseudomallei 1710b	NC_007434	"Chromosome I, complete sequence"	4126292
+88	Proteobacteria	Burkholderiaceae	Burkholderia pseudomallei 1710b	NC_007435	"Chromosome II, complete sequence"	3181762
+89	Proteobacteria	Burkholderiaceae	Burkholderia pseudomallei 668	NC_009074	"Chromosome I, complete sequence"	3912947
+89	Proteobacteria	Burkholderiaceae	Burkholderia pseudomallei 668	NC_009075	"Chromosome II, complete sequence"	3127456
+90	Proteobacteria	Burkholderiaceae	Burkholderia pseudomallei K96243	NC_006350	"Chromosome 1, complete sequence"	4074542
+90	Proteobacteria	Burkholderiaceae	Burkholderia pseudomallei K96243	NC_006351	"Chromosome 2, complete sequence"	3173005
+79	Proteobacteria	Burkholderiaceae	Burkholderia sp. 383	NC_007509	"Chromosome 3, complete sequence"	1395069
+79	Proteobacteria	Burkholderiaceae	Burkholderia sp. 383	NC_007510	"Chromosome 1, complete sequence"	3694126
+79	Proteobacteria	Burkholderiaceae	Burkholderia sp. 383	NC_007511	"Chromosome 2, complete sequence"	3587082
+91	Proteobacteria	Burkholderiaceae	Burkholderia thailandensis E264	NC_007650	"Chromosome II, complete sequence"	2914771
+91	Proteobacteria	Burkholderiaceae	Burkholderia thailandensis E264	NC_007651	"Chromosome I, complete sequence"	3809201
+92	Proteobacteria	Burkholderiaceae	Burkholderia vietnamiensis G4	NC_009254	"Chromosome 3, complete sequence"	1241007
+92	Proteobacteria	Burkholderiaceae	Burkholderia vietnamiensis G4	NC_009255	"Chromosome 2, complete sequence"	2411759
+92	Proteobacteria	Burkholderiaceae	Burkholderia vietnamiensis G4	NC_009256	"Chromosome 1, complete sequence"	3652814
+93	Proteobacteria	Burkholderiaceae	Burkholderia xenovorans LB400	NC_007951	"Chromosome 1, complete sequence"	4895836
+93	Proteobacteria	Burkholderiaceae	Burkholderia xenovorans LB400	NC_007952	"Chromosome 2, complete sequence"	3363523
+93	Proteobacteria	Burkholderiaceae	Burkholderia xenovorans LB400	NC_007953	"Chromosome 3, complete sequence"	1471779
+580	Proteobacteria	Campylobacteraceae	Campylobacter concisus 13826	NC_009802	Complete genome	2052007
+95	Proteobacteria	Campylobacteraceae	Campylobacter curvus 525.92	NC_009715	Complete genome	1971264
+96	Proteobacteria	Campylobacteraceae	Campylobacter fetus subsp. fetus 82-40	NC_008599	Complete genome	1773615
+97	Proteobacteria	Campylobacteraceae	Campylobacter hominis ATCC BAA-381	NC_009714	Complete genome	1711273
+100	Proteobacteria	Campylobacteraceae	Campylobacter jejuni RM1221	NC_003912	Complete genome	1777831
+101	Proteobacteria	Campylobacteraceae	Campylobacter jejuni subsp. doylei 269.97	NC_009707	Complete genome	1845106
+99	Proteobacteria	Campylobacteraceae	Campylobacter jejuni subsp. jejuni 81-176	NC_008787	Complete genome	1616554
+581	Proteobacteria	Campylobacteraceae	Campylobacter jejuni subsp. jejuni 81116	NC_009839	Complete genome	1628115
+98	Proteobacteria	Campylobacteraceae	Campylobacter jejuni subsp. jejuni NCTC 11168	NC_002163	Complete genome	1641481
+102	Proteobacteria	Enterobacteriaceae	Candidatus Blochmannia floridanus	NC_005061	Complete genome	705557
+103	Proteobacteria	Enterobacteriaceae	Candidatus Blochmannia pennsylvanicus str. BPEN	NC_007292	Complete genome	791654
+582	Proteobacteria	Desulfobacteraceae	Candidatus Desulfococcus oleovorans Hxd3	NC_009943	Complete genome	3944167
+106	Proteobacteria	Unknown	Candidatus Pelagibacter ubique HTCC1062	NC_007205	Complete genome	1308759
+107	Proteobacteria	Unknown	Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica)	NC_008610	Complete genome	1160782
+108	Proteobacteria	Unknown	Candidatus Vesicomyosocius okutanii HA	NC_009465	Complete genome	1022154
+110	Proteobacteria	Caulobacteraceae	Caulobacter crescentus CB15	NC_002696	Complete genome	4016947
+653	Proteobacteria	Caulobacteraceae	Caulobacter sp. K31	NC_010338	Complete genome	5477872
+124	Proteobacteria	Neisseriaceae	Chromobacterium violaceum ATCC 12472	NC_005085	Complete genome	4751080
+125	Proteobacteria	Halomonadaceae	Chromohalobacter salexigens DSM 3043	NC_007963	Complete genome	3696649
+583	Proteobacteria	Enterobacteriaceae	Citrobacter koseri ATCC BAA-895	NC_009792	Complete genome	4720462
+141	Proteobacteria	Colwelliaceae	Colwellia psychrerythraea 34H	NC_003910	Complete genome	5373180
+149	Proteobacteria	Coxiellaceae	Coxiella burnetii Dugway 7E9-12	NC_009727	Complete genome	2158758
+609	Proteobacteria	Coxiellaceae	Coxiella burnetii RSA 331	NC_010117	Complete genome	2016427
+148	Proteobacteria	Coxiellaceae	Coxiella burnetii RSA 493	NC_002971	Complete genome	1995281
+700	Proteobacteria	Burkholderiaceae	Cupriavidus taiwanensis	NC_010528	"Chromosome 1, complete sequence"	3416911
+700	Proteobacteria	Burkholderiaceae	Cupriavidus taiwanensis	NC_010530	"Chromosome 2, complete sequence"	2502411
+153	Proteobacteria	Rhodocyclaceae	Dechloromonas aromatica RCB	NC_007298	Complete genome	4501104
+610	Proteobacteria	Comamonadaceae	Delftia acidovorans SPH-1	NC_010002	Complete genome	6767514
+160	Proteobacteria	Desulfobulbaceae	Desulfotalea psychrophila LSv54	NC_006138	Complete genome	3523383
+162	Proteobacteria	Desulfovibrionaceae	Desulfovibrio desulfuricans G20	NC_007519	Complete genome	3730232
+163	Proteobacteria	Desulfovibrionaceae	Desulfovibrio vulgaris subsp. vulgaris DP4	NC_008751	Complete genome	3462887
+164	Proteobacteria	Desulfovibrionaceae	Desulfovibrio vulgaris subsp. vulgaris str. Hildenborough	NC_002937	Complete genome	3570858
+165	Proteobacteria	Cardiobacteriaceae	Dichelobacter nodosus VCS1703A	NC_009446	Complete genome	1389350
+611	Proteobacteria	Rhodobacteraceae	Dinoroseobacter shibae DFL 12	NC_009952	Complete genome	3789584
+166	Proteobacteria	Anaplasmataceae	Ehrlichia canis str. Jake	NC_007354	Complete genome	1315030
+167	Proteobacteria	Anaplasmataceae	Ehrlichia chaffeensis str. Arkansas	NC_007799	Complete genome	1176248
+168	Proteobacteria	Anaplasmataceae	Ehrlichia ruminantium str. Gardel	NC_006831	Complete genome	1499920
+169	Proteobacteria	Anaplasmataceae	Ehrlichia ruminantium str. Welgevonden	NC_005295	Complete genome	1516355
+170	Proteobacteria	Anaplasmataceae	Ehrlichia ruminantium str. Welgevonden	NC_006832	Complete genome	1512977
+760	Proteobacteria	Anaplasmataceae	Ehrlichia ruminantium str. Welgevonden	NC_005295	Complete genome	1516355
+761	Proteobacteria	Anaplasmataceae	Ehrlichia ruminantium str. Welgevonden	NC_006832	Complete genome	1512977
+584	Proteobacteria	Enterobacteriaceae	Enterobacter sakazakii ATCC BAA-894	NC_009778	Complete genome	4368373
+171	Proteobacteria	Enterobacteriaceae	Enterobacter sp. 638	NC_009436	Complete genome	4518712
+173	Proteobacteria	Enterobacteriaceae	Erwinia carotovora subsp. atroseptica SCRI1043	NC_004547	Complete genome	5064019
+762	Proteobacteria	Enterobacteriaceae	Erwinia tasmaniensis	NC_010694	Complete genome	3883467
+174	Proteobacteria	Erythrobacteraceae	Erythrobacter litoralis HTCC2594	NC_007722	Complete genome	3052398
+175	Proteobacteria	Enterobacteriaceae	Escherichia coli 536	NC_008253	Complete genome	4938920
+176	Proteobacteria	Enterobacteriaceae	Escherichia coli APEC O1	NC_008563	Complete genome	5082025
+701	Proteobacteria	Enterobacteriaceae	Escherichia coli ATCC 8739	NC_010468	Complete genome	4746218
+177	Proteobacteria	Enterobacteriaceae	Escherichia coli CFT073	NC_004431	Complete genome	5231428
+673	Proteobacteria	Enterobacteriaceae	Escherichia coli DH10B	NC_010473	Complete genome	4686137
+585	Proteobacteria	Enterobacteriaceae	Escherichia coli E24377A	NC_009801	Complete genome	4979619
+586	Proteobacteria	Enterobacteriaceae	Escherichia coli HS	NC_009800	Complete genome	4643538
+178	Proteobacteria	Enterobacteriaceae	Escherichia coli K12	NC_000913	Complete genome	4639675
+180	Proteobacteria	Enterobacteriaceae	Escherichia coli O157:H7 EDL933	NC_002655	Complete genome	5528445
+179	Proteobacteria	Enterobacteriaceae	Escherichia coli O157:H7 str. Sakai	NC_002695	Complete genome	5498450
+675	Proteobacteria	Enterobacteriaceae	Escherichia coli SECEC SMS-3-5	NC_010498	Complete genome	5068389
+674	Proteobacteria	Enterobacteriaceae	Escherichia coli str. K-12 substr. MG1655	NC_000913	Complete genome	4639675
+703	Proteobacteria	Enterobacteriaceae	Escherichia coli str. K12 substr. DH10B	NC_010473	"Escherichia coli str. K-12 substr. DH10B, complete genome"	4686137
+702	Proteobacteria	Enterobacteriaceae	Escherichia coli str. K12 substr. MG1655	NC_000913	"Escherichia coli str. K-12 substr. MG1655, complete genome"	4639675
+181	Proteobacteria	Enterobacteriaceae	Escherichia coli UTI89	NC_007946	Complete genome	5065741
+182	Proteobacteria	Enterobacteriaceae	Escherichia coli W3110	AC_000091	"DNA, complete genome"	4646332
+654	Proteobacteria	Francisellaceae	Francisella philomiragia subsp. philomiragia ATCC 25017	NC_010336	Complete genome	2045775
+188	Proteobacteria	Francisellaceae	Francisella tularensis subsp. holarctica	NC_007880	Complete genome	1895994
+587	Proteobacteria	Francisellaceae	Francisella tularensis subsp. holarctica FTA	NC_009749	Complete genome	1890909
+189	Proteobacteria	Francisellaceae	Francisella tularensis subsp. holarctica OSU18	NC_008369	Complete genome	1895727
+704	Proteobacteria	Francisellaceae	Francisella tularensis subsp. mediasiatica FSC147	NC_010677	Complete genome	1893886
+190	Proteobacteria	Francisellaceae	Francisella tularensis subsp. novicida U112	NC_008601	Complete genome	1910031
+186	Proteobacteria	Francisellaceae	Francisella tularensis subsp. tularensis FSC198	NC_008245	"Francisella tularensis subsp. tularensis FSC 198, complete genome"	1892616
+191	Proteobacteria	Francisellaceae	Francisella tularensis subsp. tularensis SCHU S4	NC_006570	"Francisella tularensis subsp. tularensis Schu 4, complete genome"	1892819
+187	Proteobacteria	Francisellaceae	Francisella tularensis subsp. tularensis WY96-3418	NC_009257	Complete genome	1898476
+753	Proteobacteria	Geobacteraceae	Geobacter lovleyi SZ	NC_010814	Complete genome	3917761
+197	Proteobacteria	Geobacteraceae	Geobacter metallireducens GS-15	NC_007517	Complete genome	3997420
+198	Proteobacteria	Geobacteraceae	Geobacter sulfurreducens PCA	NC_002939	Complete genome	3814139
+199	Proteobacteria	Geobacteraceae	Geobacter uraniumreducens Rf4	NC_009483	Complete genome	5136364
+612	Proteobacteria	Acetobacteraceae	Gluconacetobacter diazotrophicus PAl 5	NC_010125	Complete genome	3944163
+201	Proteobacteria	Acetobacteraceae	Gluconobacter oxydans 621H	NC_006677	Complete genome	2702173
+203	Proteobacteria	Acetobacteraceae	Granulibacter bethesdensis CGDNIH1	NC_008343	Complete genome	2708355
+204	Proteobacteria	Pasteurellaceae	Haemophilus ducreyi 35000HP	NC_002940	Complete genome	1698955
+206	Proteobacteria	Pasteurellaceae	Haemophilus influenzae 86-028NP	NC_007146	Complete genome	1913428
+207	Proteobacteria	Pasteurellaceae	Haemophilus influenzae PittEE	NC_009566	Complete genome	1813033
+208	Proteobacteria	Pasteurellaceae	Haemophilus influenzae PittGG	NC_009567	Complete genome	1887192
+205	Proteobacteria	Pasteurellaceae	Haemophilus influenzae Rd KW20	NC_000907	Complete genome	1830138
+209	Proteobacteria	Pasteurellaceae	Haemophilus somnus 129PT	NC_008309	Complete genome	2007700
+678	Proteobacteria	Pasteurellaceae	Haemophilus somnus 2336	NC_010519	Complete genome	2263857
+210	Proteobacteria	Hahellaceae	Hahella chejuensis KCTC 2396	NC_007645	Complete genome	7215267
+214	Proteobacteria	Ectothiorhodospiraceae	Halorhodospira halophila SL1	NC_008789	Complete genome	2678452
+215	Proteobacteria	Helicobacteraceae	Helicobacter acinonychis str. Sheeba	NC_008229	Complete genome	1553927
+216	Proteobacteria	Helicobacteraceae	Helicobacter hepaticus ATCC 51449	NC_004917	Complete genome	1799146
+217	Proteobacteria	Helicobacteraceae	Helicobacter pylori 26695	NC_000915	Complete genome	1667867
+218	Proteobacteria	Helicobacteraceae	Helicobacter pylori HPAG1	NC_008086	Complete genome	1596366
+219	Proteobacteria	Helicobacteraceae	Helicobacter pylori J99	NC_000921	Complete genome	1643831
+220	Proteobacteria	Oxalobacteraceae	Herminiimonas arsenicoxydans	NC_009138	Complete genome	3424307
+222	Proteobacteria	Hyphomonadaceae	Hyphomonas neptunium ATCC 15444	NC_008358	Complete genome	3705021
+223	Proteobacteria	Idiomarinaceae	Idiomarina loihiensis L2TR	NC_006512	Complete genome	2839318
+224	Proteobacteria	Rhodobacteraceae	Jannaschia sp. CCS1	NC_007802	Complete genome	4317977
+225	Proteobacteria	Oxalobacteraceae	Janthinobacterium sp. Marseille	NC_009659	Complete genome	4110251
+227	Proteobacteria	Enterobacteriaceae	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	NC_009648	Complete genome	5315120
+242	Proteobacteria	Desulfovibrionaceae	Lawsonia intracellularis PHE/MN1-00	NC_008011	Complete genome	1457619
+243	Proteobacteria	Legionellaceae	Legionella pneumophila str. Corby	NC_009494	Complete genome	3576470
+244	Proteobacteria	Legionellaceae	Legionella pneumophila str. Lens	NC_006369	Complete genome	3345687
+245	Proteobacteria	Legionellaceae	Legionella pneumophila str. Paris	NC_006368	Complete genome	3503610
+246	Proteobacteria	Legionellaceae	Legionella pneumophila subsp. pneumophila str. Philadelphia 1	NC_002942	Complete genome	3397754
+680	Proteobacteria	Unknown	Leptothrix cholodnii SP-6	NC_010524	Complete genome	4909403
+257	Proteobacteria	Unknown	Magnetococcus sp. MC-1	NC_008576	Complete genome	4719581
+258	Proteobacteria	Rhodospirillaceae	Magnetospirillum magneticum AMB-1	NC_007626	Complete genome	4967148
+259	Proteobacteria	Pasteurellaceae	Mannheimia succiniciproducens MBEL55E	NC_006300	Complete genome	2314078
+260	Proteobacteria	Hyphomonadaceae	Maricaulis maris MCS10	NC_008347	Complete genome	3368780
+261	Proteobacteria	Alteromonadaceae	Marinobacter aquaeolei VT8	NC_008740	Complete genome	4326849
+262	Proteobacteria	Unknown	Marinomonas sp. MWYL1	NC_009654	Complete genome	5100344
+265	Proteobacteria	Phyllobacteriaceae	Mesorhizobium loti MAFF303099	NC_002678	Complete genome	7036071
+264	Proteobacteria	Phyllobacteriaceae	Mesorhizobium sp. BNC1	NC_008254	Complete genome	4412446
+285	Proteobacteria	Unknown	Methylibium petroleiphilum PM1	NC_008825	Complete genome	4044195
+286	Proteobacteria	Methylophilaceae	Methylobacillus flagellatus KT	NC_007947	Complete genome	2971517
+634	Proteobacteria	Methylobacteriaceae	Methylobacterium extorquens PA1	NC_010172	Complete genome	5471154
+684	Proteobacteria	Methylobacteriaceae	Methylobacterium radiotolerans JCM 2831	NC_010505	Complete genome	6077833
+683	Proteobacteria	Methylobacteriaceae	Methylobacterium sp. 4-46	NC_010511	Complete genome	7659055
+287	Proteobacteria	Methylococcaceae	Methylococcus capsulatus str. Bath	NC_002977	Complete genome	3304561
+318	Proteobacteria	Myxococcaceae	Myxococcus xanthus DK 1622	NC_008095	Complete genome	9139763
+321	Proteobacteria	Neisseriaceae	Neisseria gonorrhoeae FA 1090	NC_002946	Complete genome	2153922
+616	Proteobacteria	Neisseriaceae	Neisseria meningitidis 053442	NC_010120	Complete genome	2153416
+322	Proteobacteria	Neisseriaceae	Neisseria meningitidis FAM18	NC_008767	Complete genome	2194961
+323	Proteobacteria	Neisseriaceae	Neisseria meningitidis MC58	NC_003112	Complete genome	2272360
+324	Proteobacteria	Neisseriaceae	Neisseria meningitidis Z2491	NC_003116	Complete genome	2184406
+325	Proteobacteria	Anaplasmataceae	Neorickettsia sennetsu str. Miyayama	NC_007798	Complete genome	859006
+326	Proteobacteria	Unknown	Nitratiruptor sp. SB155-2	NC_009662	Complete genome	1877931
+327	Proteobacteria	Bradyrhizobiaceae	Nitrobacter hamburgensis X14	NC_007964	Complete genome	4406967
+328	Proteobacteria	Bradyrhizobiaceae	Nitrobacter winogradskyi Nb-255	NC_007406	Complete genome	3402093
+329	Proteobacteria	Chromatiaceae	Nitrosococcus oceani ATCC 19707	NC_007484	Complete genome	3481691
+330	Proteobacteria	Nitrosomonadaceae	Nitrosomonas europaea ATCC 19718	NC_004757	Complete genome	2812094
+331	Proteobacteria	Nitrosomonadaceae	Nitrosomonas eutropha C91	NC_008344	Complete genome	2661057
+332	Proteobacteria	Nitrosomonadaceae	Nitrosospira multiformis ATCC 25196	NC_007614	"Chromosome 1, complete sequence"	3184243
+336	Proteobacteria	Sphingomonadaceae	Novosphingobium aromaticivorans DSM 12444	NC_007794	Complete genome	3561584
+338	Proteobacteria	Brucellaceae	Ochrobactrum anthropi ATCC 49188	NC_009667	"Chromosome 1, complete sequence"	2887297
+338	Proteobacteria	Brucellaceae	Ochrobactrum anthropi ATCC 49188	NC_009668	"Chromosome 2, complete sequence"	1895911
+341	Proteobacteria	Rickettsiaceae	Orientia tsutsugamushi Boryong	NC_009488	Complete genome	2127051
+754	Proteobacteria	Rickettsiaceae	Orientia tsutsugamushi str. Ikeda	NC_010793	Complete genome	2008987
+344	Proteobacteria	Rhodobacteraceae	Paracoccus denitrificans PD1222	NC_008686	"Chromosome 1, complete sequence"	2852282
+344	Proteobacteria	Rhodobacteraceae	Paracoccus denitrificans PD1222	NC_008687	"Chromosome 2, complete sequence"	1730097
+345	Proteobacteria	Phyllobacteriaceae	Parvibaculum lavamentivorans DS-1	NC_009719	Complete genome	3914745
+346	Proteobacteria	Pasteurellaceae	Pasteurella multocida subsp. multocida str. Pm70	NC_002663	Complete genome	2257487
+348	Proteobacteria	Pelobacteraceae	Pelobacter carbinolicus DSM 2380	NC_007498	Complete genome	3665893
+349	Proteobacteria	Pelobacteraceae	Pelobacter propionicus DSM 2379	NC_008609	Complete genome	4008000
+352	Proteobacteria	Vibrionaceae	Photobacterium profundum SS9	NC_006370	"Chromosome 1, complete sequence"	4085304
+352	Proteobacteria	Vibrionaceae	Photobacterium profundum SS9	NC_006371	"Chromosome 2, complete sequence"	2237943
+353	Proteobacteria	Enterobacteriaceae	Photorhabdus luminescens subsp. laumondii TTO1	NC_005126	Complete genome	5688987
+357	Proteobacteria	Comamonadaceae	Polaromonas naphthalenivorans CJ2	NC_008781	Complete genome	4410291
+356	Proteobacteria	Comamonadaceae	Polaromonas sp. JS666	NC_007948	Complete genome	5200264
+686	Proteobacteria	Burkholderiaceae	Polynucleobacter necessarius STIR1	NC_010531	Complete genome	1560469
+358	Proteobacteria	Burkholderiaceae	Polynucleobacter sp. QLW-P1DMWA-1	NC_009379	Complete genome	2159490
+372	Proteobacteria	Pseudoalteromonadaceae	Pseudoalteromonas atlantica T6c	NC_008228	Complete genome	5187005
+373	Proteobacteria	Pseudoalteromonadaceae	Pseudoalteromonas haloplanktis TAC125	NC_007481	"Chromosome I, complete sequence"	3214944
+373	Proteobacteria	Pseudoalteromonadaceae	Pseudoalteromonas haloplanktis TAC125	NC_007482	"Chromosome II, complete sequence"	635328
+375	Proteobacteria	Pseudomonadaceae	Pseudomonas aeruginosa PA7	NC_009656	Complete genome	6588339
+374	Proteobacteria	Pseudomonadaceae	Pseudomonas aeruginosa PAO1	NC_002516	Complete genome	6264404
+376	Proteobacteria	Pseudomonadaceae	Pseudomonas aeruginosa UCBPP-PA14	NC_008463	Complete genome	6537648
+377	Proteobacteria	Pseudomonadaceae	Pseudomonas entomophila L48	NC_008027	Complete genome	5888780
+378	Proteobacteria	Pseudomonadaceae	Pseudomonas fluorescens Pf-5	NC_004129	Complete genome	7074893
+379	Proteobacteria	Pseudomonadaceae	Pseudomonas fluorescens PfO-1	NC_007492	Complete genome	6438405
+380	Proteobacteria	Pseudomonadaceae	Pseudomonas mendocina ymp	NC_009439	Complete genome	5072807
+381	Proteobacteria	Pseudomonadaceae	Pseudomonas putida F1	NC_009512	Complete genome	5959964
+657	Proteobacteria	Pseudomonadaceae	Pseudomonas putida GB-1	NC_010322	Complete genome	6078430
+382	Proteobacteria	Pseudomonadaceae	Pseudomonas putida KT2440	NC_002947	Complete genome	6181863
+687	Proteobacteria	Pseudomonadaceae	Pseudomonas putida W619	NC_010501	Complete genome	5774330
+383	Proteobacteria	Pseudomonadaceae	Pseudomonas stutzeri A1501	NC_009434	Complete genome	4567418
+384	Proteobacteria	Pseudomonadaceae	Pseudomonas syringae pv. phaseolicola 1448A	NC_005773	Complete genome	5928787
+385	Proteobacteria	Pseudomonadaceae	Pseudomonas syringae pv. syringae B728a	NC_007005	Complete genome	6093698
+386	Proteobacteria	Pseudomonadaceae	Pseudomonas syringae pv. tomato str. DC3000	NC_004578	Complete genome	6397126
+388	Proteobacteria	Moraxellaceae	Psychrobacter arcticus 273-4	NC_007204	Complete genome	2650701
+389	Proteobacteria	Moraxellaceae	Psychrobacter cryohalolentis K5	NC_007969	Complete genome	3059876
+387	Proteobacteria	Moraxellaceae	Psychrobacter sp. PRwf-1	NC_009524	Complete genome	2978976
+390	Proteobacteria	Psychromonadaceae	Psychromonas ingrahamii 37	NC_008709	Complete genome	4559598
+398	Proteobacteria	Burkholderiaceae	Ralstonia eutropha H16	NC_008313	"Chromosome 1, complete sequence"	4052032
+398	Proteobacteria	Burkholderiaceae	Ralstonia eutropha H16	NC_008314	"Chromosome 2, complete sequence"	2912490
+399	Proteobacteria	Burkholderiaceae	Ralstonia eutropha JMP134	NC_007347	"Chromosome 1, complete sequence"	3806533
+399	Proteobacteria	Burkholderiaceae	Ralstonia eutropha JMP134	NC_007348	"Chromosome 2, complete sequence"	2726152
+400	Proteobacteria	Burkholderiaceae	Ralstonia metallidurans CH34	NC_007973	"Chromosome 1, complete sequence"	3928089
+400	Proteobacteria	Burkholderiaceae	Ralstonia metallidurans CH34	NC_007974	"Chromosome 2, complete sequence"	2580084
+401	Proteobacteria	Burkholderiaceae	Ralstonia solanacearum GMI1000	NC_003295	Complete genome	3716413
+402	Proteobacteria	Rhizobiaceae	Rhizobium etli CFN 42	NC_007761	Complete genome	4381608
+767	Proteobacteria	Rhizobiaceae	Rhizobium etli CIAT 652	NC_010994	Complete genome	4513324
+403	Proteobacteria	Rhizobiaceae	Rhizobium leguminosarum bv. viciae 3841	NC_008380	Complete genome	5057142
+404	Proteobacteria	Rhodobacteraceae	Rhodobacter sphaeroides 2.4.1	NC_007493	"Chromosome 1, complete sequence"	3188609
+404	Proteobacteria	Rhodobacteraceae	Rhodobacter sphaeroides 2.4.1	NC_007494	"Chromosome 2, complete sequence"	943016
+405	Proteobacteria	Rhodobacteraceae	Rhodobacter sphaeroides ATCC 17025	NC_009428	Complete genome	3217726
+406	Proteobacteria	Rhodobacteraceae	Rhodobacter sphaeroides ATCC 17029	NC_009049	"Chromosome 1, complete sequence"	3147721
+406	Proteobacteria	Rhodobacteraceae	Rhodobacter sphaeroides ATCC 17029	NC_009050	"Chromosome 2, complete sequence"	1219053
+408	Proteobacteria	Comamonadaceae	Rhodoferax ferrireducens T118	NC_007908	Complete genome	4712337
+409	Proteobacteria	Bradyrhizobiaceae	Rhodopseudomonas palustris BisA53	NC_008435	Complete genome	5505494
+410	Proteobacteria	Bradyrhizobiaceae	Rhodopseudomonas palustris BisB18	NC_007925	Complete genome	5513844
+411	Proteobacteria	Bradyrhizobiaceae	Rhodopseudomonas palustris BisB5	NC_007958	Complete genome	4892717
+412	Proteobacteria	Bradyrhizobiaceae	Rhodopseudomonas palustris CGA009	NC_005296	Complete genome	5459213
+413	Proteobacteria	Bradyrhizobiaceae	Rhodopseudomonas palustris HaA2	NC_007778	Complete genome	5331656
+414	Proteobacteria	Rhodospirillaceae	Rhodospirillum rubrum ATCC 11170	NC_007643	Complete genome	4352825
+591	Proteobacteria	Rickettsiaceae	Rickettsia akari str. Hartford	NC_009881	Complete genome	1231060
+592	Proteobacteria	Rickettsiaceae	Rickettsia bellii OSU 85-389	NC_009883	Complete genome	1528980
+415	Proteobacteria	Rickettsiaceae	Rickettsia bellii RML369-C	NC_007940	Complete genome	1522076
+593	Proteobacteria	Rickettsiaceae	Rickettsia canadensis str. McKiel	NC_009879	Complete genome	1159772
+416	Proteobacteria	Rickettsiaceae	Rickettsia conorii str. Malish 7	NC_003103	Complete genome	1268755
+417	Proteobacteria	Rickettsiaceae	Rickettsia felis URRWXCal2	NC_007109	Complete genome	1485148
+594	Proteobacteria	Rickettsiaceae	Rickettsia massiliae MTU5	NC_009900	Complete genome	1360898
+418	Proteobacteria	Rickettsiaceae	Rickettsia prowazekii str. Madrid E	NC_000963	Complete genome	1111523
+595	Proteobacteria	Rickettsiaceae	Rickettsia rickettsii str. 'Sheila Smith'	NC_009882	Complete genome	1257710
+639	Proteobacteria	Rickettsiaceae	Rickettsia rickettsii str. Iowa	NC_010263	Complete genome	1268175
+419	Proteobacteria	Rickettsiaceae	Rickettsia typhi str. Wilmington	NC_006142	Complete genome	1111496
+421	Proteobacteria	Rhodobacteraceae	Roseobacter denitrificans OCh 114	NC_008209	Complete genome	4133097
+423	Proteobacteria	Alteromonadaceae	Saccharophagus degradans 2-40	NC_007912	Complete genome	5057531
+621	Proteobacteria	Enterobacteriaceae	"Salmonella enterica subsp. arizonae serovar 62:z4,z23:--"	NC_010067	Complete genome	4600800
+427	Proteobacteria	Enterobacteriaceae	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67	NC_006905	Complete genome	4755700
+428	Proteobacteria	Enterobacteriaceae	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150	NC_006511	Complete genome	4585229
+622	Proteobacteria	Enterobacteriaceae	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7	NC_010102	Complete genome	4858887
+429	Proteobacteria	Enterobacteriaceae	Salmonella enterica subsp. enterica serovar Typhi str. CT18	NC_003198	Complete genome	4809037
+430	Proteobacteria	Enterobacteriaceae	Salmonella enterica subsp. enterica serovar Typhi Ty2	NC_004631	Complete genome	4791961
+6	Proteobacteria	Enterobacteriaceae	Salmonella typhimurium LT2	NC_003197	Complete genome	4857432
+597	Proteobacteria	Enterobacteriaceae	Serratia proteamaculans 568	NC_009832	Complete genome	5448853
+435	Proteobacteria	Shewanellaceae	Shewanella amazonensis SB2B	NC_008700	Complete genome	4306142
+436	Proteobacteria	Shewanellaceae	Shewanella baltica OS155	NC_009052	Complete genome	5127376
+437	Proteobacteria	Shewanellaceae	Shewanella baltica OS185	NC_009665	Complete genome	5229686
+623	Proteobacteria	Shewanellaceae	Shewanella baltica OS195	NC_009997	Complete genome	5347283
+438	Proteobacteria	Shewanellaceae	Shewanella denitrificans OS217	NC_007954	Complete genome	4545906
+439	Proteobacteria	Shewanellaceae	Shewanella frigidimarina NCIMB 400	NC_008345	Complete genome	4845257
+658	Proteobacteria	Shewanellaceae	Shewanella halifaxensis HAW-EB4	NC_010334	Complete genome	5226917
+440	Proteobacteria	Shewanellaceae	Shewanella loihica PV-4	NC_009092	Complete genome	4602594
+441	Proteobacteria	Shewanellaceae	Shewanella oneidensis MR-1	NC_004347	Complete genome	4969803
+598	Proteobacteria	Shewanellaceae	Shewanella pealeana ATCC 700345	NC_009901	Complete genome	5174581
+442	Proteobacteria	Shewanellaceae	Shewanella putrefaciens CN-32	NC_009438	Complete genome	4659220
+599	Proteobacteria	Shewanellaceae	Shewanella sediminis HAW-EB3	NC_009831	Complete genome	5517674
+431	Proteobacteria	Shewanellaceae	Shewanella sp. ANA-3	NC_008577	"Chromosome 1, complete sequence"	4972204
+432	Proteobacteria	Shewanellaceae	Shewanella sp. MR-4	NC_008321	Complete genome	4706287
+433	Proteobacteria	Shewanellaceae	Shewanella sp. MR-7	NC_008322	Complete genome	4792610
+434	Proteobacteria	Shewanellaceae	Shewanella sp. W3-18-1	NC_008750	Complete genome	4708380
+688	Proteobacteria	Shewanellaceae	Shewanella woodyi ATCC 51908	NC_010506	Complete genome	5935403
+709	Proteobacteria	Enterobacteriaceae	Shigella boydii CDC 3083-94	NC_010658	Complete genome	4615997
+443	Proteobacteria	Enterobacteriaceae	Shigella boydii Sb227	NC_007613	Complete genome	4519823
+444	Proteobacteria	Enterobacteriaceae	Shigella dysenteriae Sd197	NC_007606	Complete genome	4369232
+446	Proteobacteria	Enterobacteriaceae	Shigella flexneri 2a str. 2457T	NC_004741	Complete genome	4599354
+445	Proteobacteria	Enterobacteriaceae	Shigella flexneri 2a str. 301	NC_004337	Complete genome	4607203
+447	Proteobacteria	Enterobacteriaceae	Shigella flexneri 5 str. 8401	NC_008258	Complete genome	4574284
+448	Proteobacteria	Enterobacteriaceae	Shigella sonnei Ss046	NC_007384	Complete genome	4825265
+450	Proteobacteria	Rhodobacteraceae	Silicibacter pomeroyi DSS-3	NC_003911	Complete genome	4109442
+449	Proteobacteria	Rhodobacteraceae	Silicibacter sp. TM1040	NC_008044	Complete genome	3200938
+451	Proteobacteria	Rhizobiaceae	Sinorhizobium medicae WSM419	NC_009636	Complete genome	3781904
+452	Proteobacteria	Rhizobiaceae	Sinorhizobium meliloti 1021	NC_003047	Complete genome	3654135
+453	Proteobacteria	Enterobacteriaceae	Sodalis glossinidius str. 'morsitans'	NC_007712	Complete genome	4171146
+624	Proteobacteria	Polyangiaceae	Sorangium cellulosum 'So ce 56'	NC_010162	Complete genome	13033779
+455	Proteobacteria	Sphingomonadaceae	Sphingomonas wittichii RW1	NC_009511	Complete genome	5382261
+456	Proteobacteria	Sphingomonadaceae	Sphingopyxis alaskensis RB2256	NC_008048	Complete genome	3345170
+768	Proteobacteria	Xanthomonadaceae	Stenotrophomonas maltophilia K279a	NC_010943	Complete genome	4851126
+504	Proteobacteria	Unknown	Sulfurovum sp. NBC37-1	NC_009663	Complete genome	2562277
+515	Proteobacteria	Syntrophobacteraceae	Syntrophobacter fumaroxidans MPOB	NC_008554	Complete genome	4990251
+517	Proteobacteria	Syntrophaceae	Syntrophus aciditrophicus SB	NC_007759	Complete genome	3179300
+530	Proteobacteria	Hydrogenophilaceae	Thiobacillus denitrificans ATCC 25259	NC_007404	Complete genome	2909809
+531	Proteobacteria	Piscirickettsiaceae	Thiomicrospira crunogena XCL-2	NC_007520	Complete genome	2427734
+532	Proteobacteria	Helicobacteraceae	Thiomicrospira denitrificans ATCC 33889	NC_007575	Complete genome	2201561
+539	Proteobacteria	Comamonadaceae	Verminephrobacter eiseniae EF01-2	NC_008786	Complete genome	5566749
+540	Proteobacteria	Vibrionaceae	Vibrio cholerae O1 biovar eltor str. N16961	NC_002505	"Chromosome I, complete sequence"	2961149
+540	Proteobacteria	Vibrionaceae	Vibrio cholerae O1 biovar eltor str. N16961	NC_002506	"Chromosome II, complete sequence"	1072315
+541	Proteobacteria	Vibrionaceae	Vibrio cholerae O395	NC_009456	"Chromosome 1, complete sequence"	1108250
+541	Proteobacteria	Vibrionaceae	Vibrio cholerae O395	NC_009457	"Chromosome 2, complete sequence"	3024069
+542	Proteobacteria	Vibrionaceae	Vibrio fischeri ES114	NC_006840	"Chromosome I, complete sequence"	2906179
+542	Proteobacteria	Vibrionaceae	Vibrio fischeri ES114	NC_006841	"Chromosome II, complete sequence"	1332022
+602	Proteobacteria	Vibrionaceae	Vibrio harveyi ATCC BAA-1116	NC_009783	"Chromosome I, complete sequence"	3765351
+602	Proteobacteria	Vibrionaceae	Vibrio harveyi ATCC BAA-1116	NC_009784	"Chromosome II, complete sequence"	2204018
+543	Proteobacteria	Vibrionaceae	Vibrio parahaemolyticus RIMD 2210633	NC_004603	"Chromosome I, complete sequence"	3288558
+543	Proteobacteria	Vibrionaceae	Vibrio parahaemolyticus RIMD 2210633	NC_004605	"Chromosome II, complete sequence"	1877212
+544	Proteobacteria	Vibrionaceae	Vibrio vulnificus CMCP6	NC_004459	"Chromosome I, complete sequence"	3281944
+544	Proteobacteria	Vibrionaceae	Vibrio vulnificus CMCP6	NC_004460	"Chromosome II, complete sequence"	1844853
+545	Proteobacteria	Vibrionaceae	Vibrio vulnificus YJ016	NC_005139	"Chromosome I, complete sequence"	3354505
+545	Proteobacteria	Vibrionaceae	Vibrio vulnificus YJ016	NC_005140	"Chromosome II, complete sequence"	1857073
+546	Proteobacteria	Enterobacteriaceae	Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis	NC_004344	Complete genome	697724
+548	Proteobacteria	Rickettsiaceae	Wolbachia endosymbiont of Drosophila melanogaster	NC_002978	Complete genome	1267782
+547	Proteobacteria	Rickettsiaceae	Wolbachia endosymbiont strain TRS of Brugia malayi	NC_006833	Complete genome	1080084
+771	Proteobacteria	Rickettsiaceae	Wolbachia pipientis	NC_010981	Complete genome	1482455
+549	Proteobacteria	Helicobacteraceae	Wolinella succinogenes DSM 1740	NC_005090	Complete genome	2110355
+550	Proteobacteria	Xanthobacteraceae	Xanthobacter autotrophicus Py2	NC_009720	Complete genome	5308934
+554	Proteobacteria	Xanthomonadaceae	Xanthomonas axonopodis pv. citri str. 306	NC_003919	Complete genome	5175554
+552	Proteobacteria	Xanthomonadaceae	Xanthomonas campestris pv. campestris str. 8004	NC_007086	Complete genome	5148708
+551	Proteobacteria	Xanthomonadaceae	Xanthomonas campestris pv. campestris str. ATCC 33913	NC_003902	Complete genome	5076188
+553	Proteobacteria	Xanthomonadaceae	Xanthomonas campestris pv. vesicatoria str. 85-10	NC_007508	Complete genome	5178466
+555	Proteobacteria	Xanthomonadaceae	Xanthomonas oryzae pv. oryzae KACC10331	NC_006834	Complete genome	4941439
+556	Proteobacteria	Xanthomonadaceae	Xanthomonas oryzae pv. oryzae MAFF 311018	NC_007705	Complete genome	4940217
+557	Proteobacteria	Xanthomonadaceae	Xylella fastidiosa 9a5c	NC_002488	Complete genome	2679306
+693	Proteobacteria	Xanthomonadaceae	Xylella fastidiosa M12	NC_010513	Complete genome	2475130
+712	Proteobacteria	Xanthomonadaceae	Xylella fastidiosa M23	NC_010577	Complete genome	2535690
+558	Proteobacteria	Xanthomonadaceae	Xylella fastidiosa Temecula1	NC_004556	Complete genome	2519802
+559	Proteobacteria	Enterobacteriaceae	Yersinia enterocolitica subsp. enterocolitica 8081	NC_008800	Complete genome	4615899
+627	Proteobacteria	Enterobacteriaceae	Yersinia pestis Angola	NC_010159	Complete genome	4504254
+560	Proteobacteria	Enterobacteriaceae	Yersinia pestis Antiqua	NC_008150	Complete genome	4702289
+565	Proteobacteria	Enterobacteriaceae	Yersinia pestis biovar Microtus str. 91001	NC_005810	Complete genome	4595065
+561	Proteobacteria	Enterobacteriaceae	Yersinia pestis CO92	NC_003143	Complete genome	4653728
+562	Proteobacteria	Enterobacteriaceae	Yersinia pestis KIM	NC_004088	Complete genome	4600755
+563	Proteobacteria	Enterobacteriaceae	Yersinia pestis Nepal516	NC_008149	Complete genome	4534590
+564	Proteobacteria	Enterobacteriaceae	Yersinia pestis Pestoides F	NC_009381	Complete genome	4517345
+567	Proteobacteria	Enterobacteriaceae	Yersinia pseudotuberculosis IP 31758	NC_009708	Complete genome	4723306
+566	Proteobacteria	Enterobacteriaceae	Yersinia pseudotuberculosis IP 32953	NC_006155	Complete genome	4744671
+694	Proteobacteria	Enterobacteriaceae	Yersinia pseudotuberculosis YPIII	NC_010465	Complete genome	4689441
+568	Proteobacteria	Sphingomonadaceae	Zymomonas mobilis subsp. mobilis ZM4	NC_006526	Complete genome	2056416
+64	Spirochaetes	Spirochaetaceae	Borrelia afzelii PKo	NC_008277	Complete genome	905394
+65	Spirochaetes	Spirochaetaceae	Borrelia burgdorferi B31	NC_001318	Complete genome	910724
+66	Spirochaetes	Spirochaetaceae	Borrelia garinii PBi	NC_006156	"Chromosome linear, complete sequence"	904246
+764	Spirochaetes	Leptospiraceae	Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)'	NC_010842	"Chromosome I, complete sequence"	3603977
+764	Spirochaetes	Leptospiraceae	Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)'	NC_010845	"Chromosome II, complete sequence"	277995
+706	Spirochaetes	Leptospiraceae	Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)'	NC_010602	"Chromosome I, complete sequence"	3599677
+248	Spirochaetes	Leptospiraceae	Leptospira borgpetersenii serovar Hardjo-bovis JB197	NC_008510	"Chromosome 1, complete sequence"	3576473
+248	Spirochaetes	Leptospiraceae	Leptospira borgpetersenii serovar Hardjo-bovis JB197	NC_008511	"Chromosome 2, complete sequence"	299762
+249	Spirochaetes	Leptospiraceae	Leptospira borgpetersenii serovar Hardjo-bovis L550	NC_008508	"Chromosome 1, complete sequence"	3614446
+249	Spirochaetes	Leptospiraceae	Leptospira borgpetersenii serovar Hardjo-bovis L550	NC_008509	"Chromosome 2, complete sequence"	317336
+250	Spirochaetes	Leptospiraceae	Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130	NC_005823	"Chromosome I, complete sequence"	4277185
+250	Spirochaetes	Leptospiraceae	Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130	NC_005824	"Chromosome II, complete sequence"	350181
+251	Spirochaetes	Leptospiraceae	Leptospira interrogans serovar Lai str. 56601	NC_004342	"Chromosome I, complete sequence"	4332241
+251	Spirochaetes	Leptospiraceae	Leptospira interrogans serovar Lai str. 56601	NC_004343	"Chromosome II, complete sequence"	358943
+533	Spirochaetes	Spirochaetaceae	Treponema denticola ATCC 35405	NC_002967	Complete genome	2843201
+770	Spirochaetes	Spirochaetaceae	Treponema pallidum subsp. pallidum SS14	NC_010741	Complete genome	1139457
+534	Spirochaetes	Spirochaetaceae	Treponema pallidum subsp. pallidum str. Nichols	NC_000919	Complete genome	1138011
+183	Thermotogae	Thermotogaceae	Fervidobacterium nodosum Rt17-B1	NC_009718	Complete genome	1948941
+618	Thermotogae	Thermotogaceae	Petrotoga mobilis SJ95	NC_010003	Complete genome	2169548
+524	Thermotogae	Thermotogaceae	Thermosipho melanesiensis BI429	NC_009616	Complete genome	1915238
+626	Thermotogae	Thermotogaceae	Thermotoga lettingae TMO	NC_009828	Complete genome	2135342
+526	Thermotogae	Thermotogaceae	Thermotoga maritima MSB8	NC_000853	Complete genome	1860725
+527	Thermotogae	Thermotogaceae	Thermotoga petrophila RKU-1	NC_009486	Complete genome	1823511
+755	Thermotogae	Thermotogaceae	Thermotoga sp. RQ2	NC_010483	Complete genome	1877693
+708	Verrucomicrobia	Opitutaceae	Opitutus terrae PB90-1	NC_010571	Complete genome	5957605
+

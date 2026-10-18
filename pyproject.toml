@@ -1,0 +1,31 @@
+[project]
+name = "hgt-detection-suite"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "FormulaCarbon", email = "99456163+FormulaCarbon@users.noreply.github.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "biopython==1.87",
+    "colorama==0.4.6",
+    "dotenv==0.9.9",
+    "ete3==3.1.3",
+    "legacy-cgi>=2.6.4",
+    "numpy==2.4.6",
+    "pandas==3.0.3",
+    "python-dateutil==2.9.0.post0",
+    "python-dotenv==1.2.2",
+    "pyyaml==6.0.3",
+    "scipy>=1.17.1",
+    "six==1.17.0",
+    "tqdm==4.68.3",
+]
+
+[project.scripts]
+hgt-detection-suite = "hgt_detection_suite:main"
+
+[build-system]
+requires = ["uv_build>=0.12.15,<0.13.0"]
+build-backend = "uv_build"

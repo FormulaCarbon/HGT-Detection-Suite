@@ -1,0 +1,8 @@
+.env
+.venv
+old
+fastas
+islandpick
+urtc
+test/18genomedb
+.vscode

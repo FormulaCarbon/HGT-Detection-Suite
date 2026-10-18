@@ -1,9 +1,0 @@
-.env
-.venv
-datasets
-job.sh
-job1.sh
-outputs
-o2
-outputsold
-queuestate

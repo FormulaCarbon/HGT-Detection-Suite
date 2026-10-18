@@ -1,1 +1,0 @@
-python3 src/main.py app GCF_000009665.1 /work/11587/siddharthk86/ls6/APP/GENOME_DB/ -d /scratch/11587/siddharthk86/APP/18genometest/outputs/GCF_000009665.1_2 -t 128 -MD --sid 1280

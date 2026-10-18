@@ -2,6 +2,7 @@ from pathlib import Path
 import os
 import urllib.request
 from email.utils import parsedate_to_datetime
+import shutil
 
 from dotenv import load_dotenv
 import yaml
@@ -33,7 +34,6 @@ def create_db(db_path: Path, max_workers: int = 10, update_ncbi_db = False):
         "refseq_path": "assembly_summary_refseq.txt",
         "log_path": "log.txt"
     }
-    
     with open(config_path, 'w') as conf:
         yaml.dump(config, conf, default_flow_style = False)
         
@@ -65,11 +65,11 @@ def create_db(db_path: Path, max_workers: int = 10, update_ncbi_db = False):
 
     
     (db_path / "temp").mkdir(parents=True, exist_ok=True)
-    download_dataset(db_path / "accessions.txt", db_path / "dehydrated_dataset.tar.gz", db_path / "temp", max_workers, NCBI_API_KEY)
+    download_dataset(db_path / "accessions.txt", db_path / "ncbi_dataset.zip", db_path / "temp", max_workers, NCBI_API_KEY)
     header("Sorting by Filetype...")
-    split_by_filetype(db_path / "temp", db_path / config['proteomes_path'], db_path / config['nucleotides_path'], db_path / config['gbff_path'])
+    split_by_filetype(db_path / "temp" / "ncbi_dataset" / "data", db_path / config['proteomes_path'], db_path / config['nucleotides_path'], db_path / config['gbff_path'])
 
-    (db_path / "temp").rmdir()
+    shutil.rmtree(db_path / "temp")
     header("Done!")
 def update_db():
     pass

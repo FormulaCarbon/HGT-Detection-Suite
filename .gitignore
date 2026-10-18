@@ -6,3 +6,7 @@ islandpick
 urtc
 test/18genomedb
 .vscode
+jobs
+datasets
+src/__pycache__
+taxdump.tar.gz

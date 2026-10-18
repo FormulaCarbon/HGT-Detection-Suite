@@ -12,7 +12,7 @@ from iohelpers import header, error, update_yaml
 def main(args):
     if args.command == "db":
         if args.db_command == "create":
-            db.create_db(args.path)
+            db.create_db(args.path, 10, args.update_ncbi_taxa_db)
             update_yaml(Path("settings/db.yaml"), {"db_path": str(args.path)})
             
         elif args.db_command == "update":
@@ -69,7 +69,7 @@ if __name__ == "__main__":
 
     db_create_parser = db_subparser.add_parser("create", help="Create a new database")
     db_create_parser.add_argument("path", help="Database Path", type=Path)
-
+    db_create_parser.add_argument("-u","--update_ncbi_taxa_db", action="store_true")
     db_update_parser = db_subparser.add_parser("update", help="Update an existing database")
     # db_update_parser.add_argument(...)  # add update-specific args here
 

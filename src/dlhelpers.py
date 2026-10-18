@@ -16,26 +16,32 @@ def download_dataset(accessions_file: Path, dehydrated_file: Path, db_path: Path
         "genome",
         "accession",
         "--inputfile",
-        accessions_file,
+        str(accessions_file),
         "--dehydrated",
         "--filename",
-        dehydrated_file,  
+        str(dehydrated_file),
         "--include",
         "genome,protein,gbff",
-        ] + (["--api-key", api_key] if api_key is not None else []),
-        shell = True
+        ] + (["--api-key", api_key] if api_key is not None else [])
     )
     print()
     
     header("Unzipping Dehydrated Dataset...")
+#    subprocess.run([
+#        "tar",
+#        "-xf",
+#        dehydrated_file,
+#        "-C",
+#        db_path,
+#        ], 
+#        shell = True
+#    )
     subprocess.run([
-        "tar",
-        "-xf",
-        dehydrated_file,
-        "-C",
-        db_path,
-        ], 
-        shell = True
+        "unzip",
+        str(dehydrated_file),
+        "-d",
+        str(db_path)
+        ]
     )
     print()
     
@@ -44,7 +50,7 @@ def download_dataset(accessions_file: Path, dehydrated_file: Path, db_path: Path
         "datasets",
         "rehydrate",
         "--directory",
-        db_path,
+        str(db_path),
         "--max-workers",
         str(max_workers)
         ] + (["--api-key", api_key] if api_key is not None else [])
@@ -83,7 +89,8 @@ def split_by_filetype(
     gbff_dir: Path,
     copy: bool = False,
 ) -> dict[str, int]:
-    """Sort .faa, .fna, and .gbff files from source_dir into separate folders."""
+    """Sort genome folders (source_dir/GCF_XXXX/*.faa|fna|gbff) into three
+    flat folders, renaming each file to GCF_XXXX.<ext>."""
     destinations = {
         ".faa": Path(faa_dir),
         ".fna": Path(fna_dir),
@@ -96,21 +103,34 @@ def split_by_filetype(
     transfer = shutil.copy2 if copy else shutil.move
     counts = {ext: 0 for ext in destinations}
 
-    # scandir iterates lazily, which is better than building a list of ~180k paths
     with os.scandir(source_dir) as entries:
         for entry in entries:
-            if not entry.is_file():
+            if not entry.is_dir():
                 continue
-            ext = Path(entry.name).suffix.lower()
-            dest_dir = destinations.get(ext)
-            if dest_dir is None:
-                continue  # ignore other file types
 
-            target = dest_dir / entry.name
-            if target.exists():
-                continue  # don't overwrite, makes the function safe to re-run
+            accession = entry.name
+            genome_dir = Path(entry.path)
+            all_handled = True
 
-            transfer(entry.path, target)
-            counts[ext] += 1
+            for ext, dest_dir in destinations.items():
+                target = dest_dir / f"{accession}{ext}"
+                matches = sorted(
+                    p for p in genome_dir.iterdir()
+                    if p.is_file() and p.suffix.lower() == ext
+                )
+
+                if target.exists():
+                    continue  # already done, makes the function safe to re-run
+                if len(matches) != 1:
+                    print(f"Warning: {accession} has {len(matches)} {ext} files, skipping")
+                    all_handled = False
+                    continue
+
+                transfer(matches[0], target)
+                counts[ext] += 1
+
+            # Clean up the now-empty genome folder (only when moving and nothing was skipped)
+            if not copy and all_handled:
+                shutil.rmtree(genome_dir, ignore_errors=True)
 
     return counts
